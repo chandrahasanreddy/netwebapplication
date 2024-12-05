@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "BRLAeKH8uNCUUrmyhOSeDESuNmzOxWhNp8IV2s8OJCw=",
+  "Hash": "Jqvmcsqhvv3vO0hnTjXBT9XJ+CKMzHmQB9ttnqqWud0=",
   "Source": "Server",
   "BasePath": "_content/Server",
   "Mode": "Default",
@@ -10,59 +10,59 @@
     {
       "Name": "Server\\wwwroot",
       "Source": "Server",
-      "ContentRoot": "C:\\Users\\chand\\Downloads\\Addition\\server\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\swash\\OneDrive - University of Florida\\WebAppTest\\Addition\\Server\\wwwroot\\",
       "BasePath": "_content/Server",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "C:\\Users\\chand\\Downloads\\Addition\\server\\obj\\Debug\\net9.0\\compressed\\0xk9xlsvaj-4bysstsvp2.gz",
+      "Identity": "C:\\Users\\swash\\OneDrive - University of Florida\\WebAppTest\\Addition\\Server\\obj\\Debug\\net9.0\\compressed\\0xk9xlsvaj-xnb7ssc67i.gz",
       "SourceId": "Server",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\chand\\Downloads\\Addition\\server\\obj\\Debug\\net9.0\\compressed\\",
+      "ContentRoot": "C:\\Users\\swash\\OneDrive - University of Florida\\WebAppTest\\Addition\\Server\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "_content/Server",
-      "RelativePath": "manifest#[.{fingerprint=4bysstsvp2}]?.json.gz",
+      "RelativePath": "manifest#[.{fingerprint=xnb7ssc67i}]?.json.gz",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Alternative",
       "AssetMergeBehavior": "",
       "AssetMergeSource": "",
-      "RelatedAsset": "C:\\Users\\chand\\Downloads\\Addition\\server\\wwwroot\\manifest.json",
+      "RelatedAsset": "C:\\Users\\swash\\OneDrive - University of Florida\\WebAppTest\\Addition\\Server\\wwwroot\\manifest.json",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "em7h5dc8ac",
-      "Integrity": "1nm3OGYJa5QQs7OdtWlEWrx6kr4+rABek41ii7xUtdM=",
+      "Fingerprint": "ct7k5jve1x",
+      "Integrity": "cNoXbY4nLfC3L9drdFFu3p88s+emSHJ4qoWeubp2K2Q=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\chand\\Downloads\\Addition\\server\\wwwroot\\manifest.json"
+      "OriginalItemSpec": "C:\\Users\\swash\\OneDrive - University of Florida\\WebAppTest\\Addition\\Server\\wwwroot\\manifest.json"
     },
     {
-      "Identity": "C:\\Users\\chand\\Downloads\\Addition\\server\\obj\\Debug\\net9.0\\compressed\\2cmtmnz1jt-2o0uln99l3.gz",
+      "Identity": "C:\\Users\\swash\\OneDrive - University of Florida\\WebAppTest\\Addition\\Server\\obj\\Debug\\net9.0\\compressed\\2cmtmnz1jt-v8rqbhs1f0.gz",
       "SourceId": "Server",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\chand\\Downloads\\Addition\\server\\obj\\Debug\\net9.0\\compressed\\",
+      "ContentRoot": "C:\\Users\\swash\\OneDrive - University of Florida\\WebAppTest\\Addition\\Server\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "_content/Server",
-      "RelativePath": "asset-manifest#[.{fingerprint=2o0uln99l3}]?.json.gz",
+      "RelativePath": "asset-manifest#[.{fingerprint=v8rqbhs1f0}]?.json.gz",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Alternative",
       "AssetMergeBehavior": "",
       "AssetMergeSource": "",
-      "RelatedAsset": "C:\\Users\\chand\\Downloads\\Addition\\server\\wwwroot\\asset-manifest.json",
+      "RelatedAsset": "C:\\Users\\swash\\OneDrive - University of Florida\\WebAppTest\\Addition\\Server\\wwwroot\\asset-manifest.json",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "rep26iqkj7",
-      "Integrity": "3SQB7yfH0cbLgRHLsaEXKrpWQmNYzVNkftr/J8D6LrA=",
+      "Fingerprint": "x1g19ejrae",
+      "Integrity": "hZi9vKuJb2wL6PV6yQZ3apwUGH69s99cdQ5ZdQjnSLo=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\chand\\Downloads\\Addition\\server\\wwwroot\\asset-manifest.json"
+      "OriginalItemSpec": "C:\\Users\\swash\\OneDrive - University of Florida\\WebAppTest\\Addition\\Server\\wwwroot\\asset-manifest.json"
     },
     {
-      "Identity": "C:\\Users\\chand\\Downloads\\Addition\\server\\obj\\Debug\\net9.0\\compressed\\5qt0ta09yv-02wjkw0b7l.gz",
+      "Identity": "C:\\Users\\swash\\OneDrive - University of Florida\\WebAppTest\\Addition\\Server\\obj\\Debug\\net9.0\\compressed\\5qt0ta09yv-02wjkw0b7l.gz",
       "SourceId": "Server",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\chand\\Downloads\\Addition\\server\\obj\\Debug\\net9.0\\compressed\\",
+      "ContentRoot": "C:\\Users\\swash\\OneDrive - University of Florida\\WebAppTest\\Addition\\Server\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "_content/Server",
       "RelativePath": "static/css/main.e6c13ad2.css#[.{fingerprint=02wjkw0b7l}]?.map.gz",
       "AssetKind": "All",
@@ -70,41 +70,41 @@
       "AssetRole": "Alternative",
       "AssetMergeBehavior": "",
       "AssetMergeSource": "",
-      "RelatedAsset": "C:\\Users\\chand\\Downloads\\Addition\\server\\wwwroot\\static\\css\\main.e6c13ad2.css.map",
+      "RelatedAsset": "C:\\Users\\swash\\OneDrive - University of Florida\\WebAppTest\\Addition\\Server\\wwwroot\\static\\css\\main.e6c13ad2.css.map",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "vq5fvo15ar",
-      "Integrity": "KQYfnvfs3cfxEGIqAarDVJhj1NuFbCXvk1sLdWSMXeo=",
+      "Fingerprint": "oqkgrx8c4r",
+      "Integrity": "AGyCh3DbrvVrpYnJmS2NPDV3ueTcbEjKPOwjT59FTPc=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\chand\\Downloads\\Addition\\server\\wwwroot\\static\\css\\main.e6c13ad2.css.map"
+      "OriginalItemSpec": "C:\\Users\\swash\\OneDrive - University of Florida\\WebAppTest\\Addition\\Server\\wwwroot\\static\\css\\main.e6c13ad2.css.map"
     },
     {
-      "Identity": "C:\\Users\\chand\\Downloads\\Addition\\server\\obj\\Debug\\net9.0\\compressed\\e6q462czhz-ky62on6fd0.gz",
+      "Identity": "C:\\Users\\swash\\OneDrive - University of Florida\\WebAppTest\\Addition\\Server\\obj\\Debug\\net9.0\\compressed\\e6q462czhz-sml91tjr7t.gz",
       "SourceId": "Server",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\chand\\Downloads\\Addition\\server\\obj\\Debug\\net9.0\\compressed\\",
+      "ContentRoot": "C:\\Users\\swash\\OneDrive - University of Florida\\WebAppTest\\Addition\\Server\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "_content/Server",
-      "RelativePath": "static/js/main.c4d3ad58.js.LICENSE#[.{fingerprint=ky62on6fd0}]?.txt.gz",
+      "RelativePath": "static/js/main.c4d3ad58.js.LICENSE#[.{fingerprint=sml91tjr7t}]?.txt.gz",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Alternative",
       "AssetMergeBehavior": "",
       "AssetMergeSource": "",
-      "RelatedAsset": "C:\\Users\\chand\\Downloads\\Addition\\server\\wwwroot\\static\\js\\main.c4d3ad58.js.LICENSE.txt",
+      "RelatedAsset": "C:\\Users\\swash\\OneDrive - University of Florida\\WebAppTest\\Addition\\Server\\wwwroot\\static\\js\\main.c4d3ad58.js.LICENSE.txt",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "u638g3f6qy",
-      "Integrity": "2tF241CdxsTmtIVPLBAhyHd8j4NLvTyD9r90F0bSGWQ=",
+      "Fingerprint": "sfyttgwhdw",
+      "Integrity": "mBB4RLdPvdt5czDhkcEvrdhGgMRPFYXahzyPWm4cXN8=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\chand\\Downloads\\Addition\\server\\wwwroot\\static\\js\\main.c4d3ad58.js.LICENSE.txt"
+      "OriginalItemSpec": "C:\\Users\\swash\\OneDrive - University of Florida\\WebAppTest\\Addition\\Server\\wwwroot\\static\\js\\main.c4d3ad58.js.LICENSE.txt"
     },
     {
-      "Identity": "C:\\Users\\chand\\Downloads\\Addition\\server\\obj\\Debug\\net9.0\\compressed\\ixeukcx92p-hz6y9cvjmf.gz",
+      "Identity": "C:\\Users\\swash\\OneDrive - University of Florida\\WebAppTest\\Addition\\Server\\obj\\Debug\\net9.0\\compressed\\ixeukcx92p-hz6y9cvjmf.gz",
       "SourceId": "Server",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\chand\\Downloads\\Addition\\server\\obj\\Debug\\net9.0\\compressed\\",
+      "ContentRoot": "C:\\Users\\swash\\OneDrive - University of Florida\\WebAppTest\\Addition\\Server\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "_content/Server",
       "RelativePath": "static/js/main.c4d3ad58.js#[.{fingerprint=hz6y9cvjmf}]?.map.gz",
       "AssetKind": "All",
@@ -112,20 +112,20 @@
       "AssetRole": "Alternative",
       "AssetMergeBehavior": "",
       "AssetMergeSource": "",
-      "RelatedAsset": "C:\\Users\\chand\\Downloads\\Addition\\server\\wwwroot\\static\\js\\main.c4d3ad58.js.map",
+      "RelatedAsset": "C:\\Users\\swash\\OneDrive - University of Florida\\WebAppTest\\Addition\\Server\\wwwroot\\static\\js\\main.c4d3ad58.js.map",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "8umcf4di32",
-      "Integrity": "YLLsGeDrpNScxKunWO4IFsWjbNkLD/a4TUUBG01mVvA=",
+      "Fingerprint": "9z2zc66a80",
+      "Integrity": "K8KyajMZ822uvTg6G9Hb4BhNvCHZ2qCzVpesudaTBeQ=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\chand\\Downloads\\Addition\\server\\wwwroot\\static\\js\\main.c4d3ad58.js.map"
+      "OriginalItemSpec": "C:\\Users\\swash\\OneDrive - University of Florida\\WebAppTest\\Addition\\Server\\wwwroot\\static\\js\\main.c4d3ad58.js.map"
     },
     {
-      "Identity": "C:\\Users\\chand\\Downloads\\Addition\\server\\obj\\Debug\\net9.0\\compressed\\lu8841hb8x-n88yadyaqn.gz",
+      "Identity": "C:\\Users\\swash\\OneDrive - University of Florida\\WebAppTest\\Addition\\Server\\obj\\Debug\\net9.0\\compressed\\lu8841hb8x-n88yadyaqn.gz",
       "SourceId": "Server",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\chand\\Downloads\\Addition\\server\\obj\\Debug\\net9.0\\compressed\\",
+      "ContentRoot": "C:\\Users\\swash\\OneDrive - University of Florida\\WebAppTest\\Addition\\Server\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "_content/Server",
       "RelativePath": "static/js/453.419a5d54.chunk.js#[.{fingerprint=n88yadyaqn}]?.map.gz",
       "AssetKind": "All",
@@ -133,20 +133,20 @@
       "AssetRole": "Alternative",
       "AssetMergeBehavior": "",
       "AssetMergeSource": "",
-      "RelatedAsset": "C:\\Users\\chand\\Downloads\\Addition\\server\\wwwroot\\static\\js\\453.419a5d54.chunk.js.map",
+      "RelatedAsset": "C:\\Users\\swash\\OneDrive - University of Florida\\WebAppTest\\Addition\\Server\\wwwroot\\static\\js\\453.419a5d54.chunk.js.map",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "bofan36qlq",
-      "Integrity": "JU8h+4TNz+OdP44DQ+qTODdQcBBqpG0c0+hbHBYOw/M=",
+      "Fingerprint": "l3znbdgity",
+      "Integrity": "cdD72tVOLDw2Vk9zdeJDJztMMEaYFSvjtR5EmOv837E=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\chand\\Downloads\\Addition\\server\\wwwroot\\static\\js\\453.419a5d54.chunk.js.map"
+      "OriginalItemSpec": "C:\\Users\\swash\\OneDrive - University of Florida\\WebAppTest\\Addition\\Server\\wwwroot\\static\\js\\453.419a5d54.chunk.js.map"
     },
     {
-      "Identity": "C:\\Users\\chand\\Downloads\\Addition\\server\\obj\\Debug\\net9.0\\compressed\\me970lfqfr-rf0rij527r.gz",
+      "Identity": "C:\\Users\\swash\\OneDrive - University of Florida\\WebAppTest\\Addition\\Server\\obj\\Debug\\net9.0\\compressed\\me970lfqfr-rf0rij527r.gz",
       "SourceId": "Server",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\chand\\Downloads\\Addition\\server\\obj\\Debug\\net9.0\\compressed\\",
+      "ContentRoot": "C:\\Users\\swash\\OneDrive - University of Florida\\WebAppTest\\Addition\\Server\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "_content/Server",
       "RelativePath": "index#[.{fingerprint=rf0rij527r}]?.html.gz",
       "AssetKind": "All",
@@ -154,20 +154,20 @@
       "AssetRole": "Alternative",
       "AssetMergeBehavior": "",
       "AssetMergeSource": "",
-      "RelatedAsset": "C:\\Users\\chand\\Downloads\\Addition\\server\\wwwroot\\index.html",
+      "RelatedAsset": "C:\\Users\\swash\\OneDrive - University of Florida\\WebAppTest\\Addition\\Server\\wwwroot\\index.html",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "ijtoaidvve",
-      "Integrity": "jg3m4Jlzdoh7gdujXQMS82oymIA8onrb8v4bvcsCtFM=",
+      "Fingerprint": "n3lj3byfws",
+      "Integrity": "k8Bl3ixLiS97zdU2V60am/vlPe2XNrBns6nrsOqOwpQ=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\chand\\Downloads\\Addition\\server\\wwwroot\\index.html"
+      "OriginalItemSpec": "C:\\Users\\swash\\OneDrive - University of Florida\\WebAppTest\\Addition\\Server\\wwwroot\\index.html"
     },
     {
-      "Identity": "C:\\Users\\chand\\Downloads\\Addition\\server\\obj\\Debug\\net9.0\\compressed\\mluy8ce0wi-1f2oqlqaa3.gz",
+      "Identity": "C:\\Users\\swash\\OneDrive - University of Florida\\WebAppTest\\Addition\\Server\\obj\\Debug\\net9.0\\compressed\\mluy8ce0wi-1f2oqlqaa3.gz",
       "SourceId": "Server",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\chand\\Downloads\\Addition\\server\\obj\\Debug\\net9.0\\compressed\\",
+      "ContentRoot": "C:\\Users\\swash\\OneDrive - University of Florida\\WebAppTest\\Addition\\Server\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "_content/Server",
       "RelativePath": "favicon#[.{fingerprint=1f2oqlqaa3}]?.ico.gz",
       "AssetKind": "All",
@@ -175,104 +175,104 @@
       "AssetRole": "Alternative",
       "AssetMergeBehavior": "",
       "AssetMergeSource": "",
-      "RelatedAsset": "C:\\Users\\chand\\Downloads\\Addition\\server\\wwwroot\\favicon.ico",
+      "RelatedAsset": "C:\\Users\\swash\\OneDrive - University of Florida\\WebAppTest\\Addition\\Server\\wwwroot\\favicon.ico",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "glsbb7dowp",
-      "Integrity": "hJz6th6R/BIbTppAEUDnvu3y4omXercB605rh9cbDB0=",
+      "Fingerprint": "bhcen3pmpn",
+      "Integrity": "UVZBPLXiTfe50KA+NjtkHFhvulf066aKiWoQovdXPJs=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\chand\\Downloads\\Addition\\server\\wwwroot\\favicon.ico"
+      "OriginalItemSpec": "C:\\Users\\swash\\OneDrive - University of Florida\\WebAppTest\\Addition\\Server\\wwwroot\\favicon.ico"
     },
     {
-      "Identity": "C:\\Users\\chand\\Downloads\\Addition\\server\\obj\\Debug\\net9.0\\compressed\\n6rcyv4mlx-sl60c43r8o.gz",
+      "Identity": "C:\\Users\\swash\\OneDrive - University of Florida\\WebAppTest\\Addition\\Server\\obj\\Debug\\net9.0\\compressed\\n6rcyv4mlx-rs9qwwwsq7.gz",
       "SourceId": "Server",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\chand\\Downloads\\Addition\\server\\obj\\Debug\\net9.0\\compressed\\",
+      "ContentRoot": "C:\\Users\\swash\\OneDrive - University of Florida\\WebAppTest\\Addition\\Server\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "_content/Server",
-      "RelativePath": "robots#[.{fingerprint=sl60c43r8o}]?.txt.gz",
+      "RelativePath": "robots#[.{fingerprint=rs9qwwwsq7}]?.txt.gz",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Alternative",
       "AssetMergeBehavior": "",
       "AssetMergeSource": "",
-      "RelatedAsset": "C:\\Users\\chand\\Downloads\\Addition\\server\\wwwroot\\robots.txt",
+      "RelatedAsset": "C:\\Users\\swash\\OneDrive - University of Florida\\WebAppTest\\Addition\\Server\\wwwroot\\robots.txt",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "87lgtu7z8q",
-      "Integrity": "rItxXqHBy8SoA7m5YJ+zMFphGBu56P15FtzfRd5pgpI=",
+      "Fingerprint": "wvi9g95bub",
+      "Integrity": "3KtSj8ldAjJC/6p/U2CP1OPbdlBw8wjDanQuUXJaig4=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\chand\\Downloads\\Addition\\server\\wwwroot\\robots.txt"
+      "OriginalItemSpec": "C:\\Users\\swash\\OneDrive - University of Florida\\WebAppTest\\Addition\\Server\\wwwroot\\robots.txt"
     },
     {
-      "Identity": "C:\\Users\\chand\\Downloads\\Addition\\server\\obj\\Debug\\net9.0\\compressed\\nbndbi5ci0-he2q6w1z05.gz",
+      "Identity": "C:\\Users\\swash\\OneDrive - University of Florida\\WebAppTest\\Addition\\Server\\obj\\Debug\\net9.0\\compressed\\nbndbi5ci0-6ryk2b6q77.gz",
       "SourceId": "Server",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\chand\\Downloads\\Addition\\server\\obj\\Debug\\net9.0\\compressed\\",
+      "ContentRoot": "C:\\Users\\swash\\OneDrive - University of Florida\\WebAppTest\\Addition\\Server\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "_content/Server",
-      "RelativePath": "static/js/main.c4d3ad58#[.{fingerprint=he2q6w1z05}]?.js.gz",
+      "RelativePath": "static/js/main.c4d3ad58#[.{fingerprint=6ryk2b6q77}]?.js.gz",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Alternative",
       "AssetMergeBehavior": "",
       "AssetMergeSource": "",
-      "RelatedAsset": "C:\\Users\\chand\\Downloads\\Addition\\server\\wwwroot\\static\\js\\main.c4d3ad58.js",
+      "RelatedAsset": "C:\\Users\\swash\\OneDrive - University of Florida\\WebAppTest\\Addition\\Server\\wwwroot\\static\\js\\main.c4d3ad58.js",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "nzcdiomamx",
-      "Integrity": "AxX6d/Lk8GsWVQp1e60W+x/PYTMuJqxmN/7gjR020N0=",
+      "Fingerprint": "awvkpqt7ot",
+      "Integrity": "hjCn1zkDzjzZtNjM/hytJ+aMsfvWa/MWDjO6X5C+VeQ=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\chand\\Downloads\\Addition\\server\\wwwroot\\static\\js\\main.c4d3ad58.js"
+      "OriginalItemSpec": "C:\\Users\\swash\\OneDrive - University of Florida\\WebAppTest\\Addition\\Server\\wwwroot\\static\\js\\main.c4d3ad58.js"
     },
     {
-      "Identity": "C:\\Users\\chand\\Downloads\\Addition\\server\\obj\\Debug\\net9.0\\compressed\\p3ckgdwo6f-qn446xgw5h.gz",
+      "Identity": "C:\\Users\\swash\\OneDrive - University of Florida\\WebAppTest\\Addition\\Server\\obj\\Debug\\net9.0\\compressed\\p3ckgdwo6f-hf7ka5dut2.gz",
       "SourceId": "Server",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\chand\\Downloads\\Addition\\server\\obj\\Debug\\net9.0\\compressed\\",
+      "ContentRoot": "C:\\Users\\swash\\OneDrive - University of Florida\\WebAppTest\\Addition\\Server\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "_content/Server",
-      "RelativePath": "static/js/453.419a5d54.chunk#[.{fingerprint=qn446xgw5h}]?.js.gz",
+      "RelativePath": "static/js/453.419a5d54.chunk#[.{fingerprint=hf7ka5dut2}]?.js.gz",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Alternative",
       "AssetMergeBehavior": "",
       "AssetMergeSource": "",
-      "RelatedAsset": "C:\\Users\\chand\\Downloads\\Addition\\server\\wwwroot\\static\\js\\453.419a5d54.chunk.js",
+      "RelatedAsset": "C:\\Users\\swash\\OneDrive - University of Florida\\WebAppTest\\Addition\\Server\\wwwroot\\static\\js\\453.419a5d54.chunk.js",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "e1bu87liok",
-      "Integrity": "YucR8HUypFAi+rnZLr7YGGzK3zGl/DcRnIdZJq5fe78=",
+      "Fingerprint": "tm7iqtrkmd",
+      "Integrity": "22pWUZKIu+/C0RlqOIDBh6FBDTqegWQgcKrpCtsWVxU=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\chand\\Downloads\\Addition\\server\\wwwroot\\static\\js\\453.419a5d54.chunk.js"
+      "OriginalItemSpec": "C:\\Users\\swash\\OneDrive - University of Florida\\WebAppTest\\Addition\\Server\\wwwroot\\static\\js\\453.419a5d54.chunk.js"
     },
     {
-      "Identity": "C:\\Users\\chand\\Downloads\\Addition\\server\\obj\\Debug\\net9.0\\compressed\\slj17rg9p5-byrjvaenyp.gz",
+      "Identity": "C:\\Users\\swash\\OneDrive - University of Florida\\WebAppTest\\Addition\\Server\\obj\\Debug\\net9.0\\compressed\\slj17rg9p5-hygfc9oe9t.gz",
       "SourceId": "Server",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\chand\\Downloads\\Addition\\server\\obj\\Debug\\net9.0\\compressed\\",
+      "ContentRoot": "C:\\Users\\swash\\OneDrive - University of Florida\\WebAppTest\\Addition\\Server\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "_content/Server",
-      "RelativePath": "static/css/main.e6c13ad2#[.{fingerprint=byrjvaenyp}]?.css.gz",
+      "RelativePath": "static/css/main.e6c13ad2#[.{fingerprint=hygfc9oe9t}]?.css.gz",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Alternative",
       "AssetMergeBehavior": "",
       "AssetMergeSource": "",
-      "RelatedAsset": "C:\\Users\\chand\\Downloads\\Addition\\server\\wwwroot\\static\\css\\main.e6c13ad2.css",
+      "RelatedAsset": "C:\\Users\\swash\\OneDrive - University of Florida\\WebAppTest\\Addition\\Server\\wwwroot\\static\\css\\main.e6c13ad2.css",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "q3lbt9577v",
-      "Integrity": "aq/uJyVCb436pM21WWl3nUk24WdfC+U6pT9Ri6eP5xc=",
+      "Fingerprint": "rivzdeqcy7",
+      "Integrity": "U0+MOfGcBpVn/MFJu+ox522+8Z3GggrpGAwmuRtbBw4=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\chand\\Downloads\\Addition\\server\\wwwroot\\static\\css\\main.e6c13ad2.css"
+      "OriginalItemSpec": "C:\\Users\\swash\\OneDrive - University of Florida\\WebAppTest\\Addition\\Server\\wwwroot\\static\\css\\main.e6c13ad2.css"
     },
     {
-      "Identity": "C:\\Users\\chand\\Downloads\\Addition\\server\\wwwroot\\asset-manifest.json",
+      "Identity": "C:\\Users\\swash\\OneDrive - University of Florida\\WebAppTest\\Addition\\Server\\wwwroot\\asset-manifest.json",
       "SourceId": "Server",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\chand\\Downloads\\Addition\\server\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\swash\\OneDrive - University of Florida\\WebAppTest\\Addition\\Server\\wwwroot\\",
       "BasePath": "_content/Server",
       "RelativePath": "asset-manifest#[.{fingerprint}]?.json",
       "AssetKind": "All",
@@ -283,17 +283,17 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "2o0uln99l3",
-      "Integrity": "4h8tmNMDWwU/XTFquHTx9jgMlLuWOWPMg8W8Eb/AnZI=",
+      "Fingerprint": "v8rqbhs1f0",
+      "Integrity": "b9uk9xK1VUANB7gAuSz1lMucqO5NR41+HBTvwOPSLY0=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\asset-manifest.json"
     },
     {
-      "Identity": "C:\\Users\\chand\\Downloads\\Addition\\server\\wwwroot\\favicon.ico",
+      "Identity": "C:\\Users\\swash\\OneDrive - University of Florida\\WebAppTest\\Addition\\Server\\wwwroot\\favicon.ico",
       "SourceId": "Server",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\chand\\Downloads\\Addition\\server\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\swash\\OneDrive - University of Florida\\WebAppTest\\Addition\\Server\\wwwroot\\",
       "BasePath": "_content/Server",
       "RelativePath": "favicon#[.{fingerprint}]?.ico",
       "AssetKind": "All",
@@ -311,10 +311,10 @@
       "OriginalItemSpec": "wwwroot\\favicon.ico"
     },
     {
-      "Identity": "C:\\Users\\chand\\Downloads\\Addition\\server\\wwwroot\\index.html",
+      "Identity": "C:\\Users\\swash\\OneDrive - University of Florida\\WebAppTest\\Addition\\Server\\wwwroot\\index.html",
       "SourceId": "Server",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\chand\\Downloads\\Addition\\server\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\swash\\OneDrive - University of Florida\\WebAppTest\\Addition\\Server\\wwwroot\\",
       "BasePath": "_content/Server",
       "RelativePath": "index#[.{fingerprint}]?.html",
       "AssetKind": "All",
@@ -332,10 +332,10 @@
       "OriginalItemSpec": "wwwroot\\index.html"
     },
     {
-      "Identity": "C:\\Users\\chand\\Downloads\\Addition\\server\\wwwroot\\logo192.png",
+      "Identity": "C:\\Users\\swash\\OneDrive - University of Florida\\WebAppTest\\Addition\\Server\\wwwroot\\logo192.png",
       "SourceId": "Server",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\chand\\Downloads\\Addition\\server\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\swash\\OneDrive - University of Florida\\WebAppTest\\Addition\\Server\\wwwroot\\",
       "BasePath": "_content/Server",
       "RelativePath": "logo192#[.{fingerprint}]?.png",
       "AssetKind": "All",
@@ -353,10 +353,10 @@
       "OriginalItemSpec": "wwwroot\\logo192.png"
     },
     {
-      "Identity": "C:\\Users\\chand\\Downloads\\Addition\\server\\wwwroot\\logo512.png",
+      "Identity": "C:\\Users\\swash\\OneDrive - University of Florida\\WebAppTest\\Addition\\Server\\wwwroot\\logo512.png",
       "SourceId": "Server",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\chand\\Downloads\\Addition\\server\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\swash\\OneDrive - University of Florida\\WebAppTest\\Addition\\Server\\wwwroot\\",
       "BasePath": "_content/Server",
       "RelativePath": "logo512#[.{fingerprint}]?.png",
       "AssetKind": "All",
@@ -374,10 +374,10 @@
       "OriginalItemSpec": "wwwroot\\logo512.png"
     },
     {
-      "Identity": "C:\\Users\\chand\\Downloads\\Addition\\server\\wwwroot\\manifest.json",
+      "Identity": "C:\\Users\\swash\\OneDrive - University of Florida\\WebAppTest\\Addition\\Server\\wwwroot\\manifest.json",
       "SourceId": "Server",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\chand\\Downloads\\Addition\\server\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\swash\\OneDrive - University of Florida\\WebAppTest\\Addition\\Server\\wwwroot\\",
       "BasePath": "_content/Server",
       "RelativePath": "manifest#[.{fingerprint}]?.json",
       "AssetKind": "All",
@@ -388,17 +388,17 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "4bysstsvp2",
-      "Integrity": "ULPYw5A68/eNhxuUVXqxT045yhkurKPSz6hjyGcnmhQ=",
+      "Fingerprint": "xnb7ssc67i",
+      "Integrity": "M/25nMLNOtjhgVsYtwBes/WASJkNgO58c67SiraaThk=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\manifest.json"
     },
     {
-      "Identity": "C:\\Users\\chand\\Downloads\\Addition\\server\\wwwroot\\robots.txt",
+      "Identity": "C:\\Users\\swash\\OneDrive - University of Florida\\WebAppTest\\Addition\\Server\\wwwroot\\robots.txt",
       "SourceId": "Server",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\chand\\Downloads\\Addition\\server\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\swash\\OneDrive - University of Florida\\WebAppTest\\Addition\\Server\\wwwroot\\",
       "BasePath": "_content/Server",
       "RelativePath": "robots#[.{fingerprint}]?.txt",
       "AssetKind": "All",
@@ -409,17 +409,17 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "sl60c43r8o",
-      "Integrity": "kNJLw79pisHhc3OVAimMzKcq3x9WT6sF9IS4xI0crdI=",
+      "Fingerprint": "rs9qwwwsq7",
+      "Integrity": "5asNIx7rAbSpgtHHmmcpysl5etFaaSR+Tyi6avwUm0w=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\robots.txt"
     },
     {
-      "Identity": "C:\\Users\\chand\\Downloads\\Addition\\server\\wwwroot\\static\\css\\main.e6c13ad2.css",
+      "Identity": "C:\\Users\\swash\\OneDrive - University of Florida\\WebAppTest\\Addition\\Server\\wwwroot\\static\\css\\main.e6c13ad2.css",
       "SourceId": "Server",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\chand\\Downloads\\Addition\\server\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\swash\\OneDrive - University of Florida\\WebAppTest\\Addition\\Server\\wwwroot\\",
       "BasePath": "_content/Server",
       "RelativePath": "static/css/main.e6c13ad2#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -430,17 +430,17 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "byrjvaenyp",
-      "Integrity": "Q5szASmdLzYU2e3mG86ut9Aj9ZdRR+CPM9bkyoLP7VY=",
+      "Fingerprint": "hygfc9oe9t",
+      "Integrity": "mVPsS8kjv1EwF3qdZsGlOYXXotZDBxiGhdZQE7kUHEg=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\static\\css\\main.e6c13ad2.css"
     },
     {
-      "Identity": "C:\\Users\\chand\\Downloads\\Addition\\server\\wwwroot\\static\\css\\main.e6c13ad2.css.map",
+      "Identity": "C:\\Users\\swash\\OneDrive - University of Florida\\WebAppTest\\Addition\\Server\\wwwroot\\static\\css\\main.e6c13ad2.css.map",
       "SourceId": "Server",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\chand\\Downloads\\Addition\\server\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\swash\\OneDrive - University of Florida\\WebAppTest\\Addition\\Server\\wwwroot\\",
       "BasePath": "_content/Server",
       "RelativePath": "static/css/main.e6c13ad2.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -458,10 +458,10 @@
       "OriginalItemSpec": "wwwroot\\static\\css\\main.e6c13ad2.css.map"
     },
     {
-      "Identity": "C:\\Users\\chand\\Downloads\\Addition\\server\\wwwroot\\static\\js\\453.419a5d54.chunk.js",
+      "Identity": "C:\\Users\\swash\\OneDrive - University of Florida\\WebAppTest\\Addition\\Server\\wwwroot\\static\\js\\453.419a5d54.chunk.js",
       "SourceId": "Server",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\chand\\Downloads\\Addition\\server\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\swash\\OneDrive - University of Florida\\WebAppTest\\Addition\\Server\\wwwroot\\",
       "BasePath": "_content/Server",
       "RelativePath": "static/js/453.419a5d54.chunk#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -472,17 +472,17 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "qn446xgw5h",
-      "Integrity": "ltot6+oH4qYOE9Vc99Lk9j4n0iNQ84Z0Gzkiv4GBUNg=",
+      "Fingerprint": "hf7ka5dut2",
+      "Integrity": "Y883j6FLoTvjC/WWxQaPyjExG3VMW8VEwOGTHTPbcfg=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\static\\js\\453.419a5d54.chunk.js"
     },
     {
-      "Identity": "C:\\Users\\chand\\Downloads\\Addition\\server\\wwwroot\\static\\js\\453.419a5d54.chunk.js.map",
+      "Identity": "C:\\Users\\swash\\OneDrive - University of Florida\\WebAppTest\\Addition\\Server\\wwwroot\\static\\js\\453.419a5d54.chunk.js.map",
       "SourceId": "Server",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\chand\\Downloads\\Addition\\server\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\swash\\OneDrive - University of Florida\\WebAppTest\\Addition\\Server\\wwwroot\\",
       "BasePath": "_content/Server",
       "RelativePath": "static/js/453.419a5d54.chunk.js#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -500,10 +500,10 @@
       "OriginalItemSpec": "wwwroot\\static\\js\\453.419a5d54.chunk.js.map"
     },
     {
-      "Identity": "C:\\Users\\chand\\Downloads\\Addition\\server\\wwwroot\\static\\js\\main.c4d3ad58.js",
+      "Identity": "C:\\Users\\swash\\OneDrive - University of Florida\\WebAppTest\\Addition\\Server\\wwwroot\\static\\js\\main.c4d3ad58.js",
       "SourceId": "Server",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\chand\\Downloads\\Addition\\server\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\swash\\OneDrive - University of Florida\\WebAppTest\\Addition\\Server\\wwwroot\\",
       "BasePath": "_content/Server",
       "RelativePath": "static/js/main.c4d3ad58#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -514,17 +514,17 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "he2q6w1z05",
-      "Integrity": "qaSW22YPC8o+dDTfgwm8XtrGwOWBEVhrFklR3CLOpLg=",
+      "Fingerprint": "6ryk2b6q77",
+      "Integrity": "8hpHruTC3Ic/nntgK24FUdM60rhGhkXoGa85uWCcJPA=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\static\\js\\main.c4d3ad58.js"
     },
     {
-      "Identity": "C:\\Users\\chand\\Downloads\\Addition\\server\\wwwroot\\static\\js\\main.c4d3ad58.js.LICENSE.txt",
+      "Identity": "C:\\Users\\swash\\OneDrive - University of Florida\\WebAppTest\\Addition\\Server\\wwwroot\\static\\js\\main.c4d3ad58.js.LICENSE.txt",
       "SourceId": "Server",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\chand\\Downloads\\Addition\\server\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\swash\\OneDrive - University of Florida\\WebAppTest\\Addition\\Server\\wwwroot\\",
       "BasePath": "_content/Server",
       "RelativePath": "static/js/main.c4d3ad58.js.LICENSE#[.{fingerprint}]?.txt",
       "AssetKind": "All",
@@ -535,17 +535,17 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "ky62on6fd0",
-      "Integrity": "vIOq/0PT75MBMxu/6qzE0thUnfyQKfeGvWq90yNjsCA=",
+      "Fingerprint": "sml91tjr7t",
+      "Integrity": "PAUBYef80u7iXjV8Z54j4e+DMAMneR6hG5yzeJVZr6I=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\static\\js\\main.c4d3ad58.js.LICENSE.txt"
     },
     {
-      "Identity": "C:\\Users\\chand\\Downloads\\Addition\\server\\wwwroot\\static\\js\\main.c4d3ad58.js.map",
+      "Identity": "C:\\Users\\swash\\OneDrive - University of Florida\\WebAppTest\\Addition\\Server\\wwwroot\\static\\js\\main.c4d3ad58.js.map",
       "SourceId": "Server",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\chand\\Downloads\\Addition\\server\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\swash\\OneDrive - University of Florida\\WebAppTest\\Addition\\Server\\wwwroot\\",
       "BasePath": "_content/Server",
       "RelativePath": "static/js/main.c4d3ad58.js#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -565,13 +565,13 @@
   ],
   "Endpoints": [
     {
-      "Route": "asset-manifest.2o0uln99l3.json",
-      "AssetFile": "C:\\Users\\chand\\Downloads\\Addition\\server\\obj\\Debug\\net9.0\\compressed\\2cmtmnz1jt-2o0uln99l3.gz",
+      "Route": "asset-manifest.json",
+      "AssetFile": "C:\\Users\\swash\\OneDrive - University of Florida\\WebAppTest\\Addition\\Server\\obj\\Debug\\net9.0\\compressed\\2cmtmnz1jt-v8rqbhs1f0.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.005154639175"
+          "Quality": "0.005128205128"
         }
       ],
       "ResponseHeaders": [
@@ -581,15 +581,152 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "193"
+          "Value": "194"
         },
         {
           "Name": "ETag",
-          "Value": "\"3SQB7yfH0cbLgRHLsaEXKrpWQmNYzVNkftr/J8D6LrA=\""
+          "Value": "\"hZi9vKuJb2wL6PV6yQZ3apwUGH69s99cdQ5ZdQjnSLo=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 25 Nov 2024 09:50:59 GMT"
+          "Value": "Tue, 26 Nov 2024 00:21:35 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/json"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"b9uk9xK1VUANB7gAuSz1lMucqO5NR41+HBTvwOPSLY0=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-b9uk9xK1VUANB7gAuSz1lMucqO5NR41+HBTvwOPSLY0="
+        }
+      ]
+    },
+    {
+      "Route": "asset-manifest.json",
+      "AssetFile": "C:\\Users\\swash\\OneDrive - University of Florida\\WebAppTest\\Addition\\Server\\wwwroot\\asset-manifest.json",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "531"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/json"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"b9uk9xK1VUANB7gAuSz1lMucqO5NR41+HBTvwOPSLY0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 26 Nov 2024 00:21:35 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-b9uk9xK1VUANB7gAuSz1lMucqO5NR41+HBTvwOPSLY0="
+        }
+      ]
+    },
+    {
+      "Route": "asset-manifest.json.gz",
+      "AssetFile": "C:\\Users\\swash\\OneDrive - University of Florida\\WebAppTest\\Addition\\Server\\obj\\Debug\\net9.0\\compressed\\2cmtmnz1jt-v8rqbhs1f0.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "194"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/json"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"hZi9vKuJb2wL6PV6yQZ3apwUGH69s99cdQ5ZdQjnSLo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 26 Nov 2024 00:21:35 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-hZi9vKuJb2wL6PV6yQZ3apwUGH69s99cdQ5ZdQjnSLo="
+        }
+      ]
+    },
+    {
+      "Route": "asset-manifest.v8rqbhs1f0.json",
+      "AssetFile": "C:\\Users\\swash\\OneDrive - University of Florida\\WebAppTest\\Addition\\Server\\obj\\Debug\\net9.0\\compressed\\2cmtmnz1jt-v8rqbhs1f0.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.005128205128"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "194"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"hZi9vKuJb2wL6PV6yQZ3apwUGH69s99cdQ5ZdQjnSLo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 26 Nov 2024 00:21:35 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -609,13 +746,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"4h8tmNMDWwU/XTFquHTx9jgMlLuWOWPMg8W8Eb/AnZI=\""
+          "Value": "W/\"b9uk9xK1VUANB7gAuSz1lMucqO5NR41+HBTvwOPSLY0=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "2o0uln99l3"
+          "Value": "v8rqbhs1f0"
         },
         {
           "Name": "label",
@@ -623,13 +760,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-4h8tmNMDWwU/XTFquHTx9jgMlLuWOWPMg8W8Eb/AnZI="
+          "Value": "sha256-b9uk9xK1VUANB7gAuSz1lMucqO5NR41+HBTvwOPSLY0="
         }
       ]
     },
     {
-      "Route": "asset-manifest.2o0uln99l3.json",
-      "AssetFile": "C:\\Users\\chand\\Downloads\\Addition\\server\\wwwroot\\asset-manifest.json",
+      "Route": "asset-manifest.v8rqbhs1f0.json",
+      "AssetFile": "C:\\Users\\swash\\OneDrive - University of Florida\\WebAppTest\\Addition\\Server\\wwwroot\\asset-manifest.json",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -638,7 +775,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "517"
+          "Value": "531"
         },
         {
           "Name": "Content-Type",
@@ -646,11 +783,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"4h8tmNMDWwU/XTFquHTx9jgMlLuWOWPMg8W8Eb/AnZI=\""
+          "Value": "\"b9uk9xK1VUANB7gAuSz1lMucqO5NR41+HBTvwOPSLY0=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 25 Nov 2024 09:50:59 GMT"
+          "Value": "Tue, 26 Nov 2024 00:21:35 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -660,7 +797,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "2o0uln99l3"
+          "Value": "v8rqbhs1f0"
         },
         {
           "Name": "label",
@@ -668,13 +805,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-4h8tmNMDWwU/XTFquHTx9jgMlLuWOWPMg8W8Eb/AnZI="
+          "Value": "sha256-b9uk9xK1VUANB7gAuSz1lMucqO5NR41+HBTvwOPSLY0="
         }
       ]
     },
     {
-      "Route": "asset-manifest.2o0uln99l3.json.gz",
-      "AssetFile": "C:\\Users\\chand\\Downloads\\Addition\\server\\obj\\Debug\\net9.0\\compressed\\2cmtmnz1jt-2o0uln99l3.gz",
+      "Route": "asset-manifest.v8rqbhs1f0.json.gz",
+      "AssetFile": "C:\\Users\\swash\\OneDrive - University of Florida\\WebAppTest\\Addition\\Server\\obj\\Debug\\net9.0\\compressed\\2cmtmnz1jt-v8rqbhs1f0.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -683,7 +820,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "193"
+          "Value": "194"
         },
         {
           "Name": "Content-Type",
@@ -691,11 +828,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"3SQB7yfH0cbLgRHLsaEXKrpWQmNYzVNkftr/J8D6LrA=\""
+          "Value": "\"hZi9vKuJb2wL6PV6yQZ3apwUGH69s99cdQ5ZdQjnSLo=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 25 Nov 2024 09:50:59 GMT"
+          "Value": "Tue, 26 Nov 2024 00:21:35 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -713,7 +850,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "2o0uln99l3"
+          "Value": "v8rqbhs1f0"
         },
         {
           "Name": "label",
@@ -721,155 +858,18 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-3SQB7yfH0cbLgRHLsaEXKrpWQmNYzVNkftr/J8D6LrA="
-        }
-      ]
-    },
-    {
-      "Route": "asset-manifest.json",
-      "AssetFile": "C:\\Users\\chand\\Downloads\\Addition\\server\\obj\\Debug\\net9.0\\compressed\\2cmtmnz1jt-2o0uln99l3.gz",
-      "Selectors": [
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip",
-          "Quality": "0.005154639175"
-        }
-      ],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "193"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"3SQB7yfH0cbLgRHLsaEXKrpWQmNYzVNkftr/J8D6LrA=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Mon, 25 Nov 2024 09:50:59 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "application/json"
-        },
-        {
-          "Name": "ETag",
-          "Value": "W/\"4h8tmNMDWwU/XTFquHTx9jgMlLuWOWPMg8W8Eb/AnZI=\""
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-4h8tmNMDWwU/XTFquHTx9jgMlLuWOWPMg8W8Eb/AnZI="
-        }
-      ]
-    },
-    {
-      "Route": "asset-manifest.json",
-      "AssetFile": "C:\\Users\\chand\\Downloads\\Addition\\server\\wwwroot\\asset-manifest.json",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "517"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "application/json"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"4h8tmNMDWwU/XTFquHTx9jgMlLuWOWPMg8W8Eb/AnZI=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Mon, 25 Nov 2024 09:50:59 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-4h8tmNMDWwU/XTFquHTx9jgMlLuWOWPMg8W8Eb/AnZI="
-        }
-      ]
-    },
-    {
-      "Route": "asset-manifest.json.gz",
-      "AssetFile": "C:\\Users\\chand\\Downloads\\Addition\\server\\obj\\Debug\\net9.0\\compressed\\2cmtmnz1jt-2o0uln99l3.gz",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "193"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "application/json"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"3SQB7yfH0cbLgRHLsaEXKrpWQmNYzVNkftr/J8D6LrA=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Mon, 25 Nov 2024 09:50:59 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-3SQB7yfH0cbLgRHLsaEXKrpWQmNYzVNkftr/J8D6LrA="
+          "Value": "sha256-hZi9vKuJb2wL6PV6yQZ3apwUGH69s99cdQ5ZdQjnSLo="
         }
       ]
     },
     {
       "Route": "favicon.1f2oqlqaa3.ico",
-      "AssetFile": "C:\\Users\\chand\\Downloads\\Addition\\server\\obj\\Debug\\net9.0\\compressed\\mluy8ce0wi-1f2oqlqaa3.gz",
+      "AssetFile": "C:\\Users\\swash\\OneDrive - University of Florida\\WebAppTest\\Addition\\Server\\obj\\Debug\\net9.0\\compressed\\mluy8ce0wi-1f2oqlqaa3.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000273897562"
+          "Quality": "0.000288850376"
         }
       ],
       "ResponseHeaders": [
@@ -879,15 +879,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "3650"
+          "Value": "3461"
         },
         {
           "Name": "ETag",
-          "Value": "\"hJz6th6R/BIbTppAEUDnvu3y4omXercB605rh9cbDB0=\""
+          "Value": "\"UVZBPLXiTfe50KA+NjtkHFhvulf066aKiWoQovdXPJs=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 24 Nov 2024 14:50:46 GMT"
+          "Value": "Tue, 26 Nov 2024 00:21:35 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -927,7 +927,7 @@
     },
     {
       "Route": "favicon.1f2oqlqaa3.ico",
-      "AssetFile": "C:\\Users\\chand\\Downloads\\Addition\\server\\wwwroot\\favicon.ico",
+      "AssetFile": "C:\\Users\\swash\\OneDrive - University of Florida\\WebAppTest\\Addition\\Server\\wwwroot\\favicon.ico",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -948,7 +948,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 24 Nov 2024 14:50:46 GMT"
+          "Value": "Tue, 26 Nov 2024 00:21:35 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -972,7 +972,7 @@
     },
     {
       "Route": "favicon.1f2oqlqaa3.ico.gz",
-      "AssetFile": "C:\\Users\\chand\\Downloads\\Addition\\server\\obj\\Debug\\net9.0\\compressed\\mluy8ce0wi-1f2oqlqaa3.gz",
+      "AssetFile": "C:\\Users\\swash\\OneDrive - University of Florida\\WebAppTest\\Addition\\Server\\obj\\Debug\\net9.0\\compressed\\mluy8ce0wi-1f2oqlqaa3.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -981,7 +981,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "3650"
+          "Value": "3461"
         },
         {
           "Name": "Content-Type",
@@ -989,11 +989,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"hJz6th6R/BIbTppAEUDnvu3y4omXercB605rh9cbDB0=\""
+          "Value": "\"UVZBPLXiTfe50KA+NjtkHFhvulf066aKiWoQovdXPJs=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 24 Nov 2024 14:50:46 GMT"
+          "Value": "Tue, 26 Nov 2024 00:21:35 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1019,18 +1019,18 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-hJz6th6R/BIbTppAEUDnvu3y4omXercB605rh9cbDB0="
+          "Value": "sha256-UVZBPLXiTfe50KA+NjtkHFhvulf066aKiWoQovdXPJs="
         }
       ]
     },
     {
       "Route": "favicon.ico",
-      "AssetFile": "C:\\Users\\chand\\Downloads\\Addition\\server\\obj\\Debug\\net9.0\\compressed\\mluy8ce0wi-1f2oqlqaa3.gz",
+      "AssetFile": "C:\\Users\\swash\\OneDrive - University of Florida\\WebAppTest\\Addition\\Server\\obj\\Debug\\net9.0\\compressed\\mluy8ce0wi-1f2oqlqaa3.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000273897562"
+          "Quality": "0.000288850376"
         }
       ],
       "ResponseHeaders": [
@@ -1040,15 +1040,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "3650"
+          "Value": "3461"
         },
         {
           "Name": "ETag",
-          "Value": "\"hJz6th6R/BIbTppAEUDnvu3y4omXercB605rh9cbDB0=\""
+          "Value": "\"UVZBPLXiTfe50KA+NjtkHFhvulf066aKiWoQovdXPJs=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 24 Nov 2024 14:50:46 GMT"
+          "Value": "Tue, 26 Nov 2024 00:21:35 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1080,7 +1080,7 @@
     },
     {
       "Route": "favicon.ico",
-      "AssetFile": "C:\\Users\\chand\\Downloads\\Addition\\server\\wwwroot\\favicon.ico",
+      "AssetFile": "C:\\Users\\swash\\OneDrive - University of Florida\\WebAppTest\\Addition\\Server\\wwwroot\\favicon.ico",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1101,7 +1101,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 24 Nov 2024 14:50:46 GMT"
+          "Value": "Tue, 26 Nov 2024 00:21:35 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1117,7 +1117,7 @@
     },
     {
       "Route": "favicon.ico.gz",
-      "AssetFile": "C:\\Users\\chand\\Downloads\\Addition\\server\\obj\\Debug\\net9.0\\compressed\\mluy8ce0wi-1f2oqlqaa3.gz",
+      "AssetFile": "C:\\Users\\swash\\OneDrive - University of Florida\\WebAppTest\\Addition\\Server\\obj\\Debug\\net9.0\\compressed\\mluy8ce0wi-1f2oqlqaa3.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1126,7 +1126,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "3650"
+          "Value": "3461"
         },
         {
           "Name": "Content-Type",
@@ -1134,11 +1134,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"hJz6th6R/BIbTppAEUDnvu3y4omXercB605rh9cbDB0=\""
+          "Value": "\"UVZBPLXiTfe50KA+NjtkHFhvulf066aKiWoQovdXPJs=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 24 Nov 2024 14:50:46 GMT"
+          "Value": "Tue, 26 Nov 2024 00:21:35 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1156,18 +1156,18 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-hJz6th6R/BIbTppAEUDnvu3y4omXercB605rh9cbDB0="
+          "Value": "sha256-UVZBPLXiTfe50KA+NjtkHFhvulf066aKiWoQovdXPJs="
         }
       ]
     },
     {
       "Route": "index.html",
-      "AssetFile": "C:\\Users\\chand\\Downloads\\Addition\\server\\obj\\Debug\\net9.0\\compressed\\me970lfqfr-rf0rij527r.gz",
+      "AssetFile": "C:\\Users\\swash\\OneDrive - University of Florida\\WebAppTest\\Addition\\Server\\obj\\Debug\\net9.0\\compressed\\me970lfqfr-rf0rij527r.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.002638522427"
+          "Quality": "0.002659574468"
         }
       ],
       "ResponseHeaders": [
@@ -1177,15 +1177,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "378"
+          "Value": "375"
         },
         {
           "Name": "ETag",
-          "Value": "\"jg3m4Jlzdoh7gdujXQMS82oymIA8onrb8v4bvcsCtFM=\""
+          "Value": "\"k8Bl3ixLiS97zdU2V60am/vlPe2XNrBns6nrsOqOwpQ=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 25 Nov 2024 09:50:59 GMT"
+          "Value": "Tue, 26 Nov 2024 00:21:35 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1217,7 +1217,7 @@
     },
     {
       "Route": "index.html",
-      "AssetFile": "C:\\Users\\chand\\Downloads\\Addition\\server\\wwwroot\\index.html",
+      "AssetFile": "C:\\Users\\swash\\OneDrive - University of Florida\\WebAppTest\\Addition\\Server\\wwwroot\\index.html",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1238,7 +1238,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 25 Nov 2024 09:50:59 GMT"
+          "Value": "Tue, 26 Nov 2024 00:21:35 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1254,7 +1254,7 @@
     },
     {
       "Route": "index.html.gz",
-      "AssetFile": "C:\\Users\\chand\\Downloads\\Addition\\server\\obj\\Debug\\net9.0\\compressed\\me970lfqfr-rf0rij527r.gz",
+      "AssetFile": "C:\\Users\\swash\\OneDrive - University of Florida\\WebAppTest\\Addition\\Server\\obj\\Debug\\net9.0\\compressed\\me970lfqfr-rf0rij527r.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1263,7 +1263,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "378"
+          "Value": "375"
         },
         {
           "Name": "Content-Type",
@@ -1271,11 +1271,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"jg3m4Jlzdoh7gdujXQMS82oymIA8onrb8v4bvcsCtFM=\""
+          "Value": "\"k8Bl3ixLiS97zdU2V60am/vlPe2XNrBns6nrsOqOwpQ=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 25 Nov 2024 09:50:59 GMT"
+          "Value": "Tue, 26 Nov 2024 00:21:35 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1293,18 +1293,18 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-jg3m4Jlzdoh7gdujXQMS82oymIA8onrb8v4bvcsCtFM="
+          "Value": "sha256-k8Bl3ixLiS97zdU2V60am/vlPe2XNrBns6nrsOqOwpQ="
         }
       ]
     },
     {
       "Route": "index.rf0rij527r.html",
-      "AssetFile": "C:\\Users\\chand\\Downloads\\Addition\\server\\obj\\Debug\\net9.0\\compressed\\me970lfqfr-rf0rij527r.gz",
+      "AssetFile": "C:\\Users\\swash\\OneDrive - University of Florida\\WebAppTest\\Addition\\Server\\obj\\Debug\\net9.0\\compressed\\me970lfqfr-rf0rij527r.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.002638522427"
+          "Quality": "0.002659574468"
         }
       ],
       "ResponseHeaders": [
@@ -1314,15 +1314,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "378"
+          "Value": "375"
         },
         {
           "Name": "ETag",
-          "Value": "\"jg3m4Jlzdoh7gdujXQMS82oymIA8onrb8v4bvcsCtFM=\""
+          "Value": "\"k8Bl3ixLiS97zdU2V60am/vlPe2XNrBns6nrsOqOwpQ=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 25 Nov 2024 09:50:59 GMT"
+          "Value": "Tue, 26 Nov 2024 00:21:35 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1362,7 +1362,7 @@
     },
     {
       "Route": "index.rf0rij527r.html",
-      "AssetFile": "C:\\Users\\chand\\Downloads\\Addition\\server\\wwwroot\\index.html",
+      "AssetFile": "C:\\Users\\swash\\OneDrive - University of Florida\\WebAppTest\\Addition\\Server\\wwwroot\\index.html",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1383,7 +1383,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 25 Nov 2024 09:50:59 GMT"
+          "Value": "Tue, 26 Nov 2024 00:21:35 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1407,7 +1407,7 @@
     },
     {
       "Route": "index.rf0rij527r.html.gz",
-      "AssetFile": "C:\\Users\\chand\\Downloads\\Addition\\server\\obj\\Debug\\net9.0\\compressed\\me970lfqfr-rf0rij527r.gz",
+      "AssetFile": "C:\\Users\\swash\\OneDrive - University of Florida\\WebAppTest\\Addition\\Server\\obj\\Debug\\net9.0\\compressed\\me970lfqfr-rf0rij527r.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1416,7 +1416,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "378"
+          "Value": "375"
         },
         {
           "Name": "Content-Type",
@@ -1424,11 +1424,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"jg3m4Jlzdoh7gdujXQMS82oymIA8onrb8v4bvcsCtFM=\""
+          "Value": "\"k8Bl3ixLiS97zdU2V60am/vlPe2XNrBns6nrsOqOwpQ=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 25 Nov 2024 09:50:59 GMT"
+          "Value": "Tue, 26 Nov 2024 00:21:35 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1454,13 +1454,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-jg3m4Jlzdoh7gdujXQMS82oymIA8onrb8v4bvcsCtFM="
+          "Value": "sha256-k8Bl3ixLiS97zdU2V60am/vlPe2XNrBns6nrsOqOwpQ="
         }
       ]
     },
     {
       "Route": "logo192.png",
-      "AssetFile": "C:\\Users\\chand\\Downloads\\Addition\\server\\wwwroot\\logo192.png",
+      "AssetFile": "C:\\Users\\swash\\OneDrive - University of Florida\\WebAppTest\\Addition\\Server\\wwwroot\\logo192.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1481,7 +1481,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 24 Nov 2024 14:50:49 GMT"
+          "Value": "Tue, 26 Nov 2024 00:21:35 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1497,7 +1497,7 @@
     },
     {
       "Route": "logo192.xr54by9dn2.png",
-      "AssetFile": "C:\\Users\\chand\\Downloads\\Addition\\server\\wwwroot\\logo192.png",
+      "AssetFile": "C:\\Users\\swash\\OneDrive - University of Florida\\WebAppTest\\Addition\\Server\\wwwroot\\logo192.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1518,7 +1518,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 24 Nov 2024 14:50:49 GMT"
+          "Value": "Tue, 26 Nov 2024 00:21:35 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1542,7 +1542,7 @@
     },
     {
       "Route": "logo512.2377xp85ga.png",
-      "AssetFile": "C:\\Users\\chand\\Downloads\\Addition\\server\\wwwroot\\logo512.png",
+      "AssetFile": "C:\\Users\\swash\\OneDrive - University of Florida\\WebAppTest\\Addition\\Server\\wwwroot\\logo512.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1563,7 +1563,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 24 Nov 2024 14:50:50 GMT"
+          "Value": "Tue, 26 Nov 2024 00:21:35 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1587,7 +1587,7 @@
     },
     {
       "Route": "logo512.png",
-      "AssetFile": "C:\\Users\\chand\\Downloads\\Addition\\server\\wwwroot\\logo512.png",
+      "AssetFile": "C:\\Users\\swash\\OneDrive - University of Florida\\WebAppTest\\Addition\\Server\\wwwroot\\logo512.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1608,7 +1608,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 24 Nov 2024 14:50:50 GMT"
+          "Value": "Tue, 26 Nov 2024 00:21:35 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1623,8 +1623,8 @@
       ]
     },
     {
-      "Route": "manifest.4bysstsvp2.json",
-      "AssetFile": "C:\\Users\\chand\\Downloads\\Addition\\server\\obj\\Debug\\net9.0\\compressed\\0xk9xlsvaj-4bysstsvp2.gz",
+      "Route": "manifest.json",
+      "AssetFile": "C:\\Users\\swash\\OneDrive - University of Florida\\WebAppTest\\Addition\\Server\\obj\\Debug\\net9.0\\compressed\\0xk9xlsvaj-xnb7ssc67i.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -1643,15 +1643,15 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"1nm3OGYJa5QQs7OdtWlEWrx6kr4+rABek41ii7xUtdM=\""
+          "Value": "\"cNoXbY4nLfC3L9drdFFu3p88s+emSHJ4qoWeubp2K2Q=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 24 Nov 2024 14:50:48 GMT"
+          "Value": "Tue, 26 Nov 2024 00:21:35 GMT"
         },
         {
           "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
+          "Value": "no-cache"
         },
         {
           "Name": "Content-Encoding",
@@ -1667,27 +1667,19 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"ULPYw5A68/eNhxuUVXqxT045yhkurKPSz6hjyGcnmhQ=\""
+          "Value": "W/\"M/25nMLNOtjhgVsYtwBes/WASJkNgO58c67SiraaThk=\""
         }
       ],
       "EndpointProperties": [
         {
-          "Name": "fingerprint",
-          "Value": "4bysstsvp2"
-        },
-        {
-          "Name": "label",
-          "Value": "manifest.json"
-        },
-        {
           "Name": "integrity",
-          "Value": "sha256-ULPYw5A68/eNhxuUVXqxT045yhkurKPSz6hjyGcnmhQ="
+          "Value": "sha256-M/25nMLNOtjhgVsYtwBes/WASJkNgO58c67SiraaThk="
         }
       ]
     },
     {
-      "Route": "manifest.4bysstsvp2.json",
-      "AssetFile": "C:\\Users\\chand\\Downloads\\Addition\\server\\wwwroot\\manifest.json",
+      "Route": "manifest.json",
+      "AssetFile": "C:\\Users\\swash\\OneDrive - University of Florida\\WebAppTest\\Addition\\Server\\wwwroot\\manifest.json",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1696,7 +1688,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "492"
+          "Value": "517"
         },
         {
           "Name": "Content-Type",
@@ -1704,35 +1696,27 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"ULPYw5A68/eNhxuUVXqxT045yhkurKPSz6hjyGcnmhQ=\""
+          "Value": "\"M/25nMLNOtjhgVsYtwBes/WASJkNgO58c67SiraaThk=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 24 Nov 2024 14:50:48 GMT"
+          "Value": "Tue, 26 Nov 2024 00:21:35 GMT"
         },
         {
           "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
+          "Value": "no-cache"
         }
       ],
       "EndpointProperties": [
         {
-          "Name": "fingerprint",
-          "Value": "4bysstsvp2"
-        },
-        {
-          "Name": "label",
-          "Value": "manifest.json"
-        },
-        {
           "Name": "integrity",
-          "Value": "sha256-ULPYw5A68/eNhxuUVXqxT045yhkurKPSz6hjyGcnmhQ="
+          "Value": "sha256-M/25nMLNOtjhgVsYtwBes/WASJkNgO58c67SiraaThk="
         }
       ]
     },
     {
-      "Route": "manifest.4bysstsvp2.json.gz",
-      "AssetFile": "C:\\Users\\chand\\Downloads\\Addition\\server\\obj\\Debug\\net9.0\\compressed\\0xk9xlsvaj-4bysstsvp2.gz",
+      "Route": "manifest.json.gz",
+      "AssetFile": "C:\\Users\\swash\\OneDrive - University of Florida\\WebAppTest\\Addition\\Server\\obj\\Debug\\net9.0\\compressed\\0xk9xlsvaj-xnb7ssc67i.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1749,11 +1733,164 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"1nm3OGYJa5QQs7OdtWlEWrx6kr4+rABek41ii7xUtdM=\""
+          "Value": "\"cNoXbY4nLfC3L9drdFFu3p88s+emSHJ4qoWeubp2K2Q=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 24 Nov 2024 14:50:48 GMT"
+          "Value": "Tue, 26 Nov 2024 00:21:35 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-cNoXbY4nLfC3L9drdFFu3p88s+emSHJ4qoWeubp2K2Q="
+        }
+      ]
+    },
+    {
+      "Route": "manifest.xnb7ssc67i.json",
+      "AssetFile": "C:\\Users\\swash\\OneDrive - University of Florida\\WebAppTest\\Addition\\Server\\obj\\Debug\\net9.0\\compressed\\0xk9xlsvaj-xnb7ssc67i.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.003906250000"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "255"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"cNoXbY4nLfC3L9drdFFu3p88s+emSHJ4qoWeubp2K2Q=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 26 Nov 2024 00:21:35 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/json"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"M/25nMLNOtjhgVsYtwBes/WASJkNgO58c67SiraaThk=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "xnb7ssc67i"
+        },
+        {
+          "Name": "label",
+          "Value": "manifest.json"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-M/25nMLNOtjhgVsYtwBes/WASJkNgO58c67SiraaThk="
+        }
+      ]
+    },
+    {
+      "Route": "manifest.xnb7ssc67i.json",
+      "AssetFile": "C:\\Users\\swash\\OneDrive - University of Florida\\WebAppTest\\Addition\\Server\\wwwroot\\manifest.json",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "517"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/json"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"M/25nMLNOtjhgVsYtwBes/WASJkNgO58c67SiraaThk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 26 Nov 2024 00:21:35 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "xnb7ssc67i"
+        },
+        {
+          "Name": "label",
+          "Value": "manifest.json"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-M/25nMLNOtjhgVsYtwBes/WASJkNgO58c67SiraaThk="
+        }
+      ]
+    },
+    {
+      "Route": "manifest.xnb7ssc67i.json.gz",
+      "AssetFile": "C:\\Users\\swash\\OneDrive - University of Florida\\WebAppTest\\Addition\\Server\\obj\\Debug\\net9.0\\compressed\\0xk9xlsvaj-xnb7ssc67i.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "255"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/json"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"cNoXbY4nLfC3L9drdFFu3p88s+emSHJ4qoWeubp2K2Q=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 26 Nov 2024 00:21:35 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1771,7 +1908,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "4bysstsvp2"
+          "Value": "xnb7ssc67i"
         },
         {
           "Name": "label",
@@ -1779,18 +1916,18 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-1nm3OGYJa5QQs7OdtWlEWrx6kr4+rABek41ii7xUtdM="
+          "Value": "sha256-cNoXbY4nLfC3L9drdFFu3p88s+emSHJ4qoWeubp2K2Q="
         }
       ]
     },
     {
-      "Route": "manifest.json",
-      "AssetFile": "C:\\Users\\chand\\Downloads\\Addition\\server\\obj\\Debug\\net9.0\\compressed\\0xk9xlsvaj-4bysstsvp2.gz",
+      "Route": "robots.rs9qwwwsq7.txt",
+      "AssetFile": "C:\\Users\\swash\\OneDrive - University of Florida\\WebAppTest\\Addition\\Server\\obj\\Debug\\net9.0\\compressed\\n6rcyv4mlx-rs9qwwwsq7.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.003906250000"
+          "Quality": "0.012195121951"
         }
       ],
       "ResponseHeaders": [
@@ -1800,152 +1937,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "255"
+          "Value": "81"
         },
         {
           "Name": "ETag",
-          "Value": "\"1nm3OGYJa5QQs7OdtWlEWrx6kr4+rABek41ii7xUtdM=\""
+          "Value": "\"3KtSj8ldAjJC/6p/U2CP1OPbdlBw8wjDanQuUXJaig4=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 24 Nov 2024 14:50:48 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "application/json"
-        },
-        {
-          "Name": "ETag",
-          "Value": "W/\"ULPYw5A68/eNhxuUVXqxT045yhkurKPSz6hjyGcnmhQ=\""
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-ULPYw5A68/eNhxuUVXqxT045yhkurKPSz6hjyGcnmhQ="
-        }
-      ]
-    },
-    {
-      "Route": "manifest.json",
-      "AssetFile": "C:\\Users\\chand\\Downloads\\Addition\\server\\wwwroot\\manifest.json",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "492"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "application/json"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"ULPYw5A68/eNhxuUVXqxT045yhkurKPSz6hjyGcnmhQ=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sun, 24 Nov 2024 14:50:48 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-ULPYw5A68/eNhxuUVXqxT045yhkurKPSz6hjyGcnmhQ="
-        }
-      ]
-    },
-    {
-      "Route": "manifest.json.gz",
-      "AssetFile": "C:\\Users\\chand\\Downloads\\Addition\\server\\obj\\Debug\\net9.0\\compressed\\0xk9xlsvaj-4bysstsvp2.gz",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "255"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "application/json"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"1nm3OGYJa5QQs7OdtWlEWrx6kr4+rABek41ii7xUtdM=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sun, 24 Nov 2024 14:50:48 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-1nm3OGYJa5QQs7OdtWlEWrx6kr4+rABek41ii7xUtdM="
-        }
-      ]
-    },
-    {
-      "Route": "robots.sl60c43r8o.txt",
-      "AssetFile": "C:\\Users\\chand\\Downloads\\Addition\\server\\obj\\Debug\\net9.0\\compressed\\n6rcyv4mlx-sl60c43r8o.gz",
-      "Selectors": [
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip",
-          "Quality": "0.012658227848"
-        }
-      ],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "78"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"rItxXqHBy8SoA7m5YJ+zMFphGBu56P15FtzfRd5pgpI=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sun, 24 Nov 2024 14:50:50 GMT"
+          "Value": "Tue, 26 Nov 2024 00:21:35 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1965,13 +1965,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"kNJLw79pisHhc3OVAimMzKcq3x9WT6sF9IS4xI0crdI=\""
+          "Value": "W/\"5asNIx7rAbSpgtHHmmcpysl5etFaaSR+Tyi6avwUm0w=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "sl60c43r8o"
+          "Value": "rs9qwwwsq7"
         },
         {
           "Name": "label",
@@ -1979,13 +1979,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-kNJLw79pisHhc3OVAimMzKcq3x9WT6sF9IS4xI0crdI="
+          "Value": "sha256-5asNIx7rAbSpgtHHmmcpysl5etFaaSR+Tyi6avwUm0w="
         }
       ]
     },
     {
-      "Route": "robots.sl60c43r8o.txt",
-      "AssetFile": "C:\\Users\\chand\\Downloads\\Addition\\server\\wwwroot\\robots.txt",
+      "Route": "robots.rs9qwwwsq7.txt",
+      "AssetFile": "C:\\Users\\swash\\OneDrive - University of Florida\\WebAppTest\\Addition\\Server\\wwwroot\\robots.txt",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1994,7 +1994,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "67"
+          "Value": "70"
         },
         {
           "Name": "Content-Type",
@@ -2002,11 +2002,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"kNJLw79pisHhc3OVAimMzKcq3x9WT6sF9IS4xI0crdI=\""
+          "Value": "\"5asNIx7rAbSpgtHHmmcpysl5etFaaSR+Tyi6avwUm0w=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 24 Nov 2024 14:50:50 GMT"
+          "Value": "Tue, 26 Nov 2024 00:21:35 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2016,7 +2016,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "sl60c43r8o"
+          "Value": "rs9qwwwsq7"
         },
         {
           "Name": "label",
@@ -2024,13 +2024,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-kNJLw79pisHhc3OVAimMzKcq3x9WT6sF9IS4xI0crdI="
+          "Value": "sha256-5asNIx7rAbSpgtHHmmcpysl5etFaaSR+Tyi6avwUm0w="
         }
       ]
     },
     {
-      "Route": "robots.sl60c43r8o.txt.gz",
-      "AssetFile": "C:\\Users\\chand\\Downloads\\Addition\\server\\obj\\Debug\\net9.0\\compressed\\n6rcyv4mlx-sl60c43r8o.gz",
+      "Route": "robots.rs9qwwwsq7.txt.gz",
+      "AssetFile": "C:\\Users\\swash\\OneDrive - University of Florida\\WebAppTest\\Addition\\Server\\obj\\Debug\\net9.0\\compressed\\n6rcyv4mlx-rs9qwwwsq7.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2039,7 +2039,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "78"
+          "Value": "81"
         },
         {
           "Name": "Content-Type",
@@ -2047,11 +2047,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"rItxXqHBy8SoA7m5YJ+zMFphGBu56P15FtzfRd5pgpI=\""
+          "Value": "\"3KtSj8ldAjJC/6p/U2CP1OPbdlBw8wjDanQuUXJaig4=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 24 Nov 2024 14:50:50 GMT"
+          "Value": "Tue, 26 Nov 2024 00:21:35 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2069,7 +2069,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "sl60c43r8o"
+          "Value": "rs9qwwwsq7"
         },
         {
           "Name": "label",
@@ -2077,18 +2077,18 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-rItxXqHBy8SoA7m5YJ+zMFphGBu56P15FtzfRd5pgpI="
+          "Value": "sha256-3KtSj8ldAjJC/6p/U2CP1OPbdlBw8wjDanQuUXJaig4="
         }
       ]
     },
     {
       "Route": "robots.txt",
-      "AssetFile": "C:\\Users\\chand\\Downloads\\Addition\\server\\obj\\Debug\\net9.0\\compressed\\n6rcyv4mlx-sl60c43r8o.gz",
+      "AssetFile": "C:\\Users\\swash\\OneDrive - University of Florida\\WebAppTest\\Addition\\Server\\obj\\Debug\\net9.0\\compressed\\n6rcyv4mlx-rs9qwwwsq7.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.012658227848"
+          "Quality": "0.012195121951"
         }
       ],
       "ResponseHeaders": [
@@ -2098,15 +2098,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "78"
+          "Value": "81"
         },
         {
           "Name": "ETag",
-          "Value": "\"rItxXqHBy8SoA7m5YJ+zMFphGBu56P15FtzfRd5pgpI=\""
+          "Value": "\"3KtSj8ldAjJC/6p/U2CP1OPbdlBw8wjDanQuUXJaig4=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 24 Nov 2024 14:50:50 GMT"
+          "Value": "Tue, 26 Nov 2024 00:21:35 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2126,19 +2126,19 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"kNJLw79pisHhc3OVAimMzKcq3x9WT6sF9IS4xI0crdI=\""
+          "Value": "W/\"5asNIx7rAbSpgtHHmmcpysl5etFaaSR+Tyi6avwUm0w=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-kNJLw79pisHhc3OVAimMzKcq3x9WT6sF9IS4xI0crdI="
+          "Value": "sha256-5asNIx7rAbSpgtHHmmcpysl5etFaaSR+Tyi6avwUm0w="
         }
       ]
     },
     {
       "Route": "robots.txt",
-      "AssetFile": "C:\\Users\\chand\\Downloads\\Addition\\server\\wwwroot\\robots.txt",
+      "AssetFile": "C:\\Users\\swash\\OneDrive - University of Florida\\WebAppTest\\Addition\\Server\\wwwroot\\robots.txt",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2147,7 +2147,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "67"
+          "Value": "70"
         },
         {
           "Name": "Content-Type",
@@ -2155,11 +2155,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"kNJLw79pisHhc3OVAimMzKcq3x9WT6sF9IS4xI0crdI=\""
+          "Value": "\"5asNIx7rAbSpgtHHmmcpysl5etFaaSR+Tyi6avwUm0w=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 24 Nov 2024 14:50:50 GMT"
+          "Value": "Tue, 26 Nov 2024 00:21:35 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2169,13 +2169,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-kNJLw79pisHhc3OVAimMzKcq3x9WT6sF9IS4xI0crdI="
+          "Value": "sha256-5asNIx7rAbSpgtHHmmcpysl5etFaaSR+Tyi6avwUm0w="
         }
       ]
     },
     {
       "Route": "robots.txt.gz",
-      "AssetFile": "C:\\Users\\chand\\Downloads\\Addition\\server\\obj\\Debug\\net9.0\\compressed\\n6rcyv4mlx-sl60c43r8o.gz",
+      "AssetFile": "C:\\Users\\swash\\OneDrive - University of Florida\\WebAppTest\\Addition\\Server\\obj\\Debug\\net9.0\\compressed\\n6rcyv4mlx-rs9qwwwsq7.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2184,7 +2184,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "78"
+          "Value": "81"
         },
         {
           "Name": "Content-Type",
@@ -2192,11 +2192,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"rItxXqHBy8SoA7m5YJ+zMFphGBu56P15FtzfRd5pgpI=\""
+          "Value": "\"3KtSj8ldAjJC/6p/U2CP1OPbdlBw8wjDanQuUXJaig4=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 24 Nov 2024 14:50:50 GMT"
+          "Value": "Tue, 26 Nov 2024 00:21:35 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2214,179 +2214,18 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-rItxXqHBy8SoA7m5YJ+zMFphGBu56P15FtzfRd5pgpI="
-        }
-      ]
-    },
-    {
-      "Route": "static/css/main.e6c13ad2.byrjvaenyp.css",
-      "AssetFile": "C:\\Users\\chand\\Downloads\\Addition\\server\\obj\\Debug\\net9.0\\compressed\\slj17rg9p5-byrjvaenyp.gz",
-      "Selectors": [
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip",
-          "Quality": "0.003787878788"
-        }
-      ],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "263"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"aq/uJyVCb436pM21WWl3nUk24WdfC+U6pT9Ri6eP5xc=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Mon, 25 Nov 2024 03:01:41 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "W/\"Q5szASmdLzYU2e3mG86ut9Aj9ZdRR+CPM9bkyoLP7VY=\""
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "byrjvaenyp"
-        },
-        {
-          "Name": "label",
-          "Value": "static/css/main.e6c13ad2.css"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-Q5szASmdLzYU2e3mG86ut9Aj9ZdRR+CPM9bkyoLP7VY="
-        }
-      ]
-    },
-    {
-      "Route": "static/css/main.e6c13ad2.byrjvaenyp.css",
-      "AssetFile": "C:\\Users\\chand\\Downloads\\Addition\\server\\wwwroot\\static\\css\\main.e6c13ad2.css",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "337"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"Q5szASmdLzYU2e3mG86ut9Aj9ZdRR+CPM9bkyoLP7VY=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Mon, 25 Nov 2024 03:01:41 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "byrjvaenyp"
-        },
-        {
-          "Name": "label",
-          "Value": "static/css/main.e6c13ad2.css"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-Q5szASmdLzYU2e3mG86ut9Aj9ZdRR+CPM9bkyoLP7VY="
-        }
-      ]
-    },
-    {
-      "Route": "static/css/main.e6c13ad2.byrjvaenyp.css.gz",
-      "AssetFile": "C:\\Users\\chand\\Downloads\\Addition\\server\\obj\\Debug\\net9.0\\compressed\\slj17rg9p5-byrjvaenyp.gz",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "263"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"aq/uJyVCb436pM21WWl3nUk24WdfC+U6pT9Ri6eP5xc=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Mon, 25 Nov 2024 03:01:41 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "byrjvaenyp"
-        },
-        {
-          "Name": "label",
-          "Value": "static/css/main.e6c13ad2.css.gz"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-aq/uJyVCb436pM21WWl3nUk24WdfC+U6pT9Ri6eP5xc="
+          "Value": "sha256-3KtSj8ldAjJC/6p/U2CP1OPbdlBw8wjDanQuUXJaig4="
         }
       ]
     },
     {
       "Route": "static/css/main.e6c13ad2.css",
-      "AssetFile": "C:\\Users\\chand\\Downloads\\Addition\\server\\obj\\Debug\\net9.0\\compressed\\slj17rg9p5-byrjvaenyp.gz",
+      "AssetFile": "C:\\Users\\swash\\OneDrive - University of Florida\\WebAppTest\\Addition\\Server\\obj\\Debug\\net9.0\\compressed\\slj17rg9p5-hygfc9oe9t.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.003787878788"
+          "Quality": "0.003745318352"
         }
       ],
       "ResponseHeaders": [
@@ -2396,15 +2235,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "263"
+          "Value": "266"
         },
         {
           "Name": "ETag",
-          "Value": "\"aq/uJyVCb436pM21WWl3nUk24WdfC+U6pT9Ri6eP5xc=\""
+          "Value": "\"U0+MOfGcBpVn/MFJu+ox522+8Z3GggrpGAwmuRtbBw4=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 25 Nov 2024 03:01:41 GMT"
+          "Value": "Tue, 26 Nov 2024 00:21:35 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2424,19 +2263,19 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"Q5szASmdLzYU2e3mG86ut9Aj9ZdRR+CPM9bkyoLP7VY=\""
+          "Value": "W/\"mVPsS8kjv1EwF3qdZsGlOYXXotZDBxiGhdZQE7kUHEg=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-Q5szASmdLzYU2e3mG86ut9Aj9ZdRR+CPM9bkyoLP7VY="
+          "Value": "sha256-mVPsS8kjv1EwF3qdZsGlOYXXotZDBxiGhdZQE7kUHEg="
         }
       ]
     },
     {
       "Route": "static/css/main.e6c13ad2.css",
-      "AssetFile": "C:\\Users\\chand\\Downloads\\Addition\\server\\wwwroot\\static\\css\\main.e6c13ad2.css",
+      "AssetFile": "C:\\Users\\swash\\OneDrive - University of Florida\\WebAppTest\\Addition\\Server\\wwwroot\\static\\css\\main.e6c13ad2.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2445,7 +2284,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "337"
+          "Value": "338"
         },
         {
           "Name": "Content-Type",
@@ -2453,11 +2292,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"Q5szASmdLzYU2e3mG86ut9Aj9ZdRR+CPM9bkyoLP7VY=\""
+          "Value": "\"mVPsS8kjv1EwF3qdZsGlOYXXotZDBxiGhdZQE7kUHEg=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 25 Nov 2024 03:01:41 GMT"
+          "Value": "Tue, 26 Nov 2024 00:21:35 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2467,18 +2306,18 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-Q5szASmdLzYU2e3mG86ut9Aj9ZdRR+CPM9bkyoLP7VY="
+          "Value": "sha256-mVPsS8kjv1EwF3qdZsGlOYXXotZDBxiGhdZQE7kUHEg="
         }
       ]
     },
     {
       "Route": "static/css/main.e6c13ad2.css.02wjkw0b7l.map",
-      "AssetFile": "C:\\Users\\chand\\Downloads\\Addition\\server\\obj\\Debug\\net9.0\\compressed\\5qt0ta09yv-02wjkw0b7l.gz",
+      "AssetFile": "C:\\Users\\swash\\OneDrive - University of Florida\\WebAppTest\\Addition\\Server\\obj\\Debug\\net9.0\\compressed\\5qt0ta09yv-02wjkw0b7l.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.002500000000"
+          "Quality": "0.002518891688"
         }
       ],
       "ResponseHeaders": [
@@ -2488,15 +2327,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "399"
+          "Value": "396"
         },
         {
           "Name": "ETag",
-          "Value": "\"KQYfnvfs3cfxEGIqAarDVJhj1NuFbCXvk1sLdWSMXeo=\""
+          "Value": "\"AGyCh3DbrvVrpYnJmS2NPDV3ueTcbEjKPOwjT59FTPc=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 25 Nov 2024 03:01:41 GMT"
+          "Value": "Tue, 26 Nov 2024 00:21:35 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2536,7 +2375,7 @@
     },
     {
       "Route": "static/css/main.e6c13ad2.css.02wjkw0b7l.map",
-      "AssetFile": "C:\\Users\\chand\\Downloads\\Addition\\server\\wwwroot\\static\\css\\main.e6c13ad2.css.map",
+      "AssetFile": "C:\\Users\\swash\\OneDrive - University of Florida\\WebAppTest\\Addition\\Server\\wwwroot\\static\\css\\main.e6c13ad2.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2557,7 +2396,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 25 Nov 2024 03:01:41 GMT"
+          "Value": "Tue, 26 Nov 2024 00:21:35 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2581,7 +2420,7 @@
     },
     {
       "Route": "static/css/main.e6c13ad2.css.02wjkw0b7l.map.gz",
-      "AssetFile": "C:\\Users\\chand\\Downloads\\Addition\\server\\obj\\Debug\\net9.0\\compressed\\5qt0ta09yv-02wjkw0b7l.gz",
+      "AssetFile": "C:\\Users\\swash\\OneDrive - University of Florida\\WebAppTest\\Addition\\Server\\obj\\Debug\\net9.0\\compressed\\5qt0ta09yv-02wjkw0b7l.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2590,7 +2429,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "399"
+          "Value": "396"
         },
         {
           "Name": "Content-Type",
@@ -2598,11 +2437,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"KQYfnvfs3cfxEGIqAarDVJhj1NuFbCXvk1sLdWSMXeo=\""
+          "Value": "\"AGyCh3DbrvVrpYnJmS2NPDV3ueTcbEjKPOwjT59FTPc=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 25 Nov 2024 03:01:41 GMT"
+          "Value": "Tue, 26 Nov 2024 00:21:35 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2628,13 +2467,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-KQYfnvfs3cfxEGIqAarDVJhj1NuFbCXvk1sLdWSMXeo="
+          "Value": "sha256-AGyCh3DbrvVrpYnJmS2NPDV3ueTcbEjKPOwjT59FTPc="
         }
       ]
     },
     {
       "Route": "static/css/main.e6c13ad2.css.gz",
-      "AssetFile": "C:\\Users\\chand\\Downloads\\Addition\\server\\obj\\Debug\\net9.0\\compressed\\slj17rg9p5-byrjvaenyp.gz",
+      "AssetFile": "C:\\Users\\swash\\OneDrive - University of Florida\\WebAppTest\\Addition\\Server\\obj\\Debug\\net9.0\\compressed\\slj17rg9p5-hygfc9oe9t.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2643,7 +2482,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "263"
+          "Value": "266"
         },
         {
           "Name": "Content-Type",
@@ -2651,11 +2490,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"aq/uJyVCb436pM21WWl3nUk24WdfC+U6pT9Ri6eP5xc=\""
+          "Value": "\"U0+MOfGcBpVn/MFJu+ox522+8Z3GggrpGAwmuRtbBw4=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 25 Nov 2024 03:01:41 GMT"
+          "Value": "Tue, 26 Nov 2024 00:21:35 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2673,18 +2512,18 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-aq/uJyVCb436pM21WWl3nUk24WdfC+U6pT9Ri6eP5xc="
+          "Value": "sha256-U0+MOfGcBpVn/MFJu+ox522+8Z3GggrpGAwmuRtbBw4="
         }
       ]
     },
     {
       "Route": "static/css/main.e6c13ad2.css.map",
-      "AssetFile": "C:\\Users\\chand\\Downloads\\Addition\\server\\obj\\Debug\\net9.0\\compressed\\5qt0ta09yv-02wjkw0b7l.gz",
+      "AssetFile": "C:\\Users\\swash\\OneDrive - University of Florida\\WebAppTest\\Addition\\Server\\obj\\Debug\\net9.0\\compressed\\5qt0ta09yv-02wjkw0b7l.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.002500000000"
+          "Quality": "0.002518891688"
         }
       ],
       "ResponseHeaders": [
@@ -2694,15 +2533,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "399"
+          "Value": "396"
         },
         {
           "Name": "ETag",
-          "Value": "\"KQYfnvfs3cfxEGIqAarDVJhj1NuFbCXvk1sLdWSMXeo=\""
+          "Value": "\"AGyCh3DbrvVrpYnJmS2NPDV3ueTcbEjKPOwjT59FTPc=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 25 Nov 2024 03:01:41 GMT"
+          "Value": "Tue, 26 Nov 2024 00:21:35 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2734,7 +2573,7 @@
     },
     {
       "Route": "static/css/main.e6c13ad2.css.map",
-      "AssetFile": "C:\\Users\\chand\\Downloads\\Addition\\server\\wwwroot\\static\\css\\main.e6c13ad2.css.map",
+      "AssetFile": "C:\\Users\\swash\\OneDrive - University of Florida\\WebAppTest\\Addition\\Server\\wwwroot\\static\\css\\main.e6c13ad2.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2755,7 +2594,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 25 Nov 2024 03:01:41 GMT"
+          "Value": "Tue, 26 Nov 2024 00:21:35 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2771,7 +2610,7 @@
     },
     {
       "Route": "static/css/main.e6c13ad2.css.map.gz",
-      "AssetFile": "C:\\Users\\chand\\Downloads\\Addition\\server\\obj\\Debug\\net9.0\\compressed\\5qt0ta09yv-02wjkw0b7l.gz",
+      "AssetFile": "C:\\Users\\swash\\OneDrive - University of Florida\\WebAppTest\\Addition\\Server\\obj\\Debug\\net9.0\\compressed\\5qt0ta09yv-02wjkw0b7l.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2780,7 +2619,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "399"
+          "Value": "396"
         },
         {
           "Name": "Content-Type",
@@ -2788,11 +2627,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"KQYfnvfs3cfxEGIqAarDVJhj1NuFbCXvk1sLdWSMXeo=\""
+          "Value": "\"AGyCh3DbrvVrpYnJmS2NPDV3ueTcbEjKPOwjT59FTPc=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 25 Nov 2024 03:01:41 GMT"
+          "Value": "Tue, 26 Nov 2024 00:21:35 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2810,18 +2649,18 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-KQYfnvfs3cfxEGIqAarDVJhj1NuFbCXvk1sLdWSMXeo="
+          "Value": "sha256-AGyCh3DbrvVrpYnJmS2NPDV3ueTcbEjKPOwjT59FTPc="
         }
       ]
     },
     {
-      "Route": "static/js/453.419a5d54.chunk.js",
-      "AssetFile": "C:\\Users\\chand\\Downloads\\Addition\\server\\obj\\Debug\\net9.0\\compressed\\p3ckgdwo6f-qn446xgw5h.gz",
+      "Route": "static/css/main.e6c13ad2.hygfc9oe9t.css",
+      "AssetFile": "C:\\Users\\swash\\OneDrive - University of Florida\\WebAppTest\\Addition\\Server\\obj\\Debug\\net9.0\\compressed\\slj17rg9p5-hygfc9oe9t.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000563697858"
+          "Quality": "0.003745318352"
         }
       ],
       "ResponseHeaders": [
@@ -2831,19 +2670,19 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1773"
+          "Value": "266"
         },
         {
           "Name": "ETag",
-          "Value": "\"YucR8HUypFAi+rnZLr7YGGzK3zGl/DcRnIdZJq5fe78=\""
+          "Value": "\"U0+MOfGcBpVn/MFJu+ox522+8Z3GggrpGAwmuRtbBw4=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 25 Nov 2024 03:01:42 GMT"
+          "Value": "Tue, 26 Nov 2024 00:21:35 GMT"
         },
         {
           "Name": "Cache-Control",
-          "Value": "no-cache"
+          "Value": "max-age=31536000, immutable"
         },
         {
           "Name": "Content-Encoding",
@@ -2855,23 +2694,31 @@
         },
         {
           "Name": "Content-Type",
-          "Value": "text/javascript"
+          "Value": "text/css"
         },
         {
           "Name": "ETag",
-          "Value": "W/\"ltot6+oH4qYOE9Vc99Lk9j4n0iNQ84Z0Gzkiv4GBUNg=\""
+          "Value": "W/\"mVPsS8kjv1EwF3qdZsGlOYXXotZDBxiGhdZQE7kUHEg=\""
         }
       ],
       "EndpointProperties": [
         {
+          "Name": "fingerprint",
+          "Value": "hygfc9oe9t"
+        },
+        {
+          "Name": "label",
+          "Value": "static/css/main.e6c13ad2.css"
+        },
+        {
           "Name": "integrity",
-          "Value": "sha256-ltot6+oH4qYOE9Vc99Lk9j4n0iNQ84Z0Gzkiv4GBUNg="
+          "Value": "sha256-mVPsS8kjv1EwF3qdZsGlOYXXotZDBxiGhdZQE7kUHEg="
         }
       ]
     },
     {
-      "Route": "static/js/453.419a5d54.chunk.js",
-      "AssetFile": "C:\\Users\\chand\\Downloads\\Addition\\server\\wwwroot\\static\\js\\453.419a5d54.chunk.js",
+      "Route": "static/css/main.e6c13ad2.hygfc9oe9t.css",
+      "AssetFile": "C:\\Users\\swash\\OneDrive - University of Florida\\WebAppTest\\Addition\\Server\\wwwroot\\static\\css\\main.e6c13ad2.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2880,7 +2727,131 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "4512"
+          "Value": "338"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"mVPsS8kjv1EwF3qdZsGlOYXXotZDBxiGhdZQE7kUHEg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 26 Nov 2024 00:21:35 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "hygfc9oe9t"
+        },
+        {
+          "Name": "label",
+          "Value": "static/css/main.e6c13ad2.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-mVPsS8kjv1EwF3qdZsGlOYXXotZDBxiGhdZQE7kUHEg="
+        }
+      ]
+    },
+    {
+      "Route": "static/css/main.e6c13ad2.hygfc9oe9t.css.gz",
+      "AssetFile": "C:\\Users\\swash\\OneDrive - University of Florida\\WebAppTest\\Addition\\Server\\obj\\Debug\\net9.0\\compressed\\slj17rg9p5-hygfc9oe9t.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "266"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"U0+MOfGcBpVn/MFJu+ox522+8Z3GggrpGAwmuRtbBw4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 26 Nov 2024 00:21:35 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "hygfc9oe9t"
+        },
+        {
+          "Name": "label",
+          "Value": "static/css/main.e6c13ad2.css.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-U0+MOfGcBpVn/MFJu+ox522+8Z3GggrpGAwmuRtbBw4="
+        }
+      ]
+    },
+    {
+      "Route": "static/js/453.419a5d54.chunk.hf7ka5dut2.js",
+      "AssetFile": "C:\\Users\\swash\\OneDrive - University of Florida\\WebAppTest\\Addition\\Server\\obj\\Debug\\net9.0\\compressed\\p3ckgdwo6f-hf7ka5dut2.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000561167228"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1781"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"22pWUZKIu+/C0RlqOIDBh6FBDTqegWQgcKrpCtsWVxU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 26 Nov 2024 00:21:35 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
         },
         {
           "Name": "Content-Type",
@@ -2888,11 +2859,201 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"ltot6+oH4qYOE9Vc99Lk9j4n0iNQ84Z0Gzkiv4GBUNg=\""
+          "Value": "W/\"Y883j6FLoTvjC/WWxQaPyjExG3VMW8VEwOGTHTPbcfg=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "hf7ka5dut2"
+        },
+        {
+          "Name": "label",
+          "Value": "static/js/453.419a5d54.chunk.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Y883j6FLoTvjC/WWxQaPyjExG3VMW8VEwOGTHTPbcfg="
+        }
+      ]
+    },
+    {
+      "Route": "static/js/453.419a5d54.chunk.hf7ka5dut2.js",
+      "AssetFile": "C:\\Users\\swash\\OneDrive - University of Florida\\WebAppTest\\Addition\\Server\\wwwroot\\static\\js\\453.419a5d54.chunk.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4513"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Y883j6FLoTvjC/WWxQaPyjExG3VMW8VEwOGTHTPbcfg=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 25 Nov 2024 03:01:42 GMT"
+          "Value": "Tue, 26 Nov 2024 00:21:35 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "hf7ka5dut2"
+        },
+        {
+          "Name": "label",
+          "Value": "static/js/453.419a5d54.chunk.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Y883j6FLoTvjC/WWxQaPyjExG3VMW8VEwOGTHTPbcfg="
+        }
+      ]
+    },
+    {
+      "Route": "static/js/453.419a5d54.chunk.hf7ka5dut2.js.gz",
+      "AssetFile": "C:\\Users\\swash\\OneDrive - University of Florida\\WebAppTest\\Addition\\Server\\obj\\Debug\\net9.0\\compressed\\p3ckgdwo6f-hf7ka5dut2.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1781"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"22pWUZKIu+/C0RlqOIDBh6FBDTqegWQgcKrpCtsWVxU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 26 Nov 2024 00:21:35 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "hf7ka5dut2"
+        },
+        {
+          "Name": "label",
+          "Value": "static/js/453.419a5d54.chunk.js.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-22pWUZKIu+/C0RlqOIDBh6FBDTqegWQgcKrpCtsWVxU="
+        }
+      ]
+    },
+    {
+      "Route": "static/js/453.419a5d54.chunk.js",
+      "AssetFile": "C:\\Users\\swash\\OneDrive - University of Florida\\WebAppTest\\Addition\\Server\\obj\\Debug\\net9.0\\compressed\\p3ckgdwo6f-hf7ka5dut2.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000561167228"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1781"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"22pWUZKIu+/C0RlqOIDBh6FBDTqegWQgcKrpCtsWVxU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 26 Nov 2024 00:21:35 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"Y883j6FLoTvjC/WWxQaPyjExG3VMW8VEwOGTHTPbcfg=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Y883j6FLoTvjC/WWxQaPyjExG3VMW8VEwOGTHTPbcfg="
+        }
+      ]
+    },
+    {
+      "Route": "static/js/453.419a5d54.chunk.js",
+      "AssetFile": "C:\\Users\\swash\\OneDrive - University of Florida\\WebAppTest\\Addition\\Server\\wwwroot\\static\\js\\453.419a5d54.chunk.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4513"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Y883j6FLoTvjC/WWxQaPyjExG3VMW8VEwOGTHTPbcfg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 26 Nov 2024 00:21:35 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2902,13 +3063,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-ltot6+oH4qYOE9Vc99Lk9j4n0iNQ84Z0Gzkiv4GBUNg="
+          "Value": "sha256-Y883j6FLoTvjC/WWxQaPyjExG3VMW8VEwOGTHTPbcfg="
         }
       ]
     },
     {
       "Route": "static/js/453.419a5d54.chunk.js.gz",
-      "AssetFile": "C:\\Users\\chand\\Downloads\\Addition\\server\\obj\\Debug\\net9.0\\compressed\\p3ckgdwo6f-qn446xgw5h.gz",
+      "AssetFile": "C:\\Users\\swash\\OneDrive - University of Florida\\WebAppTest\\Addition\\Server\\obj\\Debug\\net9.0\\compressed\\p3ckgdwo6f-hf7ka5dut2.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2917,7 +3078,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1773"
+          "Value": "1781"
         },
         {
           "Name": "Content-Type",
@@ -2925,11 +3086,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"YucR8HUypFAi+rnZLr7YGGzK3zGl/DcRnIdZJq5fe78=\""
+          "Value": "\"22pWUZKIu+/C0RlqOIDBh6FBDTqegWQgcKrpCtsWVxU=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 25 Nov 2024 03:01:42 GMT"
+          "Value": "Tue, 26 Nov 2024 00:21:35 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2947,18 +3108,18 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-YucR8HUypFAi+rnZLr7YGGzK3zGl/DcRnIdZJq5fe78="
+          "Value": "sha256-22pWUZKIu+/C0RlqOIDBh6FBDTqegWQgcKrpCtsWVxU="
         }
       ]
     },
     {
       "Route": "static/js/453.419a5d54.chunk.js.map",
-      "AssetFile": "C:\\Users\\chand\\Downloads\\Addition\\server\\obj\\Debug\\net9.0\\compressed\\lu8841hb8x-n88yadyaqn.gz",
+      "AssetFile": "C:\\Users\\swash\\OneDrive - University of Florida\\WebAppTest\\Addition\\Server\\obj\\Debug\\net9.0\\compressed\\lu8841hb8x-n88yadyaqn.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000266240682"
+          "Quality": "0.000268889486"
         }
       ],
       "ResponseHeaders": [
@@ -2968,15 +3129,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "3755"
+          "Value": "3718"
         },
         {
           "Name": "ETag",
-          "Value": "\"JU8h+4TNz+OdP44DQ+qTODdQcBBqpG0c0+hbHBYOw/M=\""
+          "Value": "\"cdD72tVOLDw2Vk9zdeJDJztMMEaYFSvjtR5EmOv837E=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 25 Nov 2024 03:01:42 GMT"
+          "Value": "Tue, 26 Nov 2024 00:21:35 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3008,7 +3169,7 @@
     },
     {
       "Route": "static/js/453.419a5d54.chunk.js.map",
-      "AssetFile": "C:\\Users\\chand\\Downloads\\Addition\\server\\wwwroot\\static\\js\\453.419a5d54.chunk.js.map",
+      "AssetFile": "C:\\Users\\swash\\OneDrive - University of Florida\\WebAppTest\\Addition\\Server\\wwwroot\\static\\js\\453.419a5d54.chunk.js.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3029,7 +3190,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 25 Nov 2024 03:01:42 GMT"
+          "Value": "Tue, 26 Nov 2024 00:21:35 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3045,7 +3206,7 @@
     },
     {
       "Route": "static/js/453.419a5d54.chunk.js.map.gz",
-      "AssetFile": "C:\\Users\\chand\\Downloads\\Addition\\server\\obj\\Debug\\net9.0\\compressed\\lu8841hb8x-n88yadyaqn.gz",
+      "AssetFile": "C:\\Users\\swash\\OneDrive - University of Florida\\WebAppTest\\Addition\\Server\\obj\\Debug\\net9.0\\compressed\\lu8841hb8x-n88yadyaqn.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3054,7 +3215,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "3755"
+          "Value": "3718"
         },
         {
           "Name": "Content-Type",
@@ -3062,11 +3223,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"JU8h+4TNz+OdP44DQ+qTODdQcBBqpG0c0+hbHBYOw/M=\""
+          "Value": "\"cdD72tVOLDw2Vk9zdeJDJztMMEaYFSvjtR5EmOv837E=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 25 Nov 2024 03:01:42 GMT"
+          "Value": "Tue, 26 Nov 2024 00:21:35 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3084,18 +3245,18 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-JU8h+4TNz+OdP44DQ+qTODdQcBBqpG0c0+hbHBYOw/M="
+          "Value": "sha256-cdD72tVOLDw2Vk9zdeJDJztMMEaYFSvjtR5EmOv837E="
         }
       ]
     },
     {
       "Route": "static/js/453.419a5d54.chunk.js.n88yadyaqn.map",
-      "AssetFile": "C:\\Users\\chand\\Downloads\\Addition\\server\\obj\\Debug\\net9.0\\compressed\\lu8841hb8x-n88yadyaqn.gz",
+      "AssetFile": "C:\\Users\\swash\\OneDrive - University of Florida\\WebAppTest\\Addition\\Server\\obj\\Debug\\net9.0\\compressed\\lu8841hb8x-n88yadyaqn.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000266240682"
+          "Quality": "0.000268889486"
         }
       ],
       "ResponseHeaders": [
@@ -3105,15 +3266,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "3755"
+          "Value": "3718"
         },
         {
           "Name": "ETag",
-          "Value": "\"JU8h+4TNz+OdP44DQ+qTODdQcBBqpG0c0+hbHBYOw/M=\""
+          "Value": "\"cdD72tVOLDw2Vk9zdeJDJztMMEaYFSvjtR5EmOv837E=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 25 Nov 2024 03:01:42 GMT"
+          "Value": "Tue, 26 Nov 2024 00:21:35 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3153,7 +3314,7 @@
     },
     {
       "Route": "static/js/453.419a5d54.chunk.js.n88yadyaqn.map",
-      "AssetFile": "C:\\Users\\chand\\Downloads\\Addition\\server\\wwwroot\\static\\js\\453.419a5d54.chunk.js.map",
+      "AssetFile": "C:\\Users\\swash\\OneDrive - University of Florida\\WebAppTest\\Addition\\Server\\wwwroot\\static\\js\\453.419a5d54.chunk.js.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3174,7 +3335,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 25 Nov 2024 03:01:42 GMT"
+          "Value": "Tue, 26 Nov 2024 00:21:35 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3198,7 +3359,7 @@
     },
     {
       "Route": "static/js/453.419a5d54.chunk.js.n88yadyaqn.map.gz",
-      "AssetFile": "C:\\Users\\chand\\Downloads\\Addition\\server\\obj\\Debug\\net9.0\\compressed\\lu8841hb8x-n88yadyaqn.gz",
+      "AssetFile": "C:\\Users\\swash\\OneDrive - University of Florida\\WebAppTest\\Addition\\Server\\obj\\Debug\\net9.0\\compressed\\lu8841hb8x-n88yadyaqn.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3207,7 +3368,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "3755"
+          "Value": "3718"
         },
         {
           "Name": "Content-Type",
@@ -3215,11 +3376,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"JU8h+4TNz+OdP44DQ+qTODdQcBBqpG0c0+hbHBYOw/M=\""
+          "Value": "\"cdD72tVOLDw2Vk9zdeJDJztMMEaYFSvjtR5EmOv837E=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 25 Nov 2024 03:01:42 GMT"
+          "Value": "Tue, 26 Nov 2024 00:21:35 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3245,18 +3406,18 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-JU8h+4TNz+OdP44DQ+qTODdQcBBqpG0c0+hbHBYOw/M="
+          "Value": "sha256-cdD72tVOLDw2Vk9zdeJDJztMMEaYFSvjtR5EmOv837E="
         }
       ]
     },
     {
-      "Route": "static/js/453.419a5d54.chunk.qn446xgw5h.js",
-      "AssetFile": "C:\\Users\\chand\\Downloads\\Addition\\server\\obj\\Debug\\net9.0\\compressed\\p3ckgdwo6f-qn446xgw5h.gz",
+      "Route": "static/js/main.c4d3ad58.6ryk2b6q77.js",
+      "AssetFile": "C:\\Users\\swash\\OneDrive - University of Florida\\WebAppTest\\Addition\\Server\\obj\\Debug\\net9.0\\compressed\\nbndbi5ci0-6ryk2b6q77.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000563697858"
+          "Quality": "0.000021361588"
         }
       ],
       "ResponseHeaders": [
@@ -3266,15 +3427,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1773"
+          "Value": "46812"
         },
         {
           "Name": "ETag",
-          "Value": "\"YucR8HUypFAi+rnZLr7YGGzK3zGl/DcRnIdZJq5fe78=\""
+          "Value": "\"hjCn1zkDzjzZtNjM/hytJ+aMsfvWa/MWDjO6X5C+VeQ=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 25 Nov 2024 03:01:42 GMT"
+          "Value": "Tue, 26 Nov 2024 00:21:35 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3294,174 +3455,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"ltot6+oH4qYOE9Vc99Lk9j4n0iNQ84Z0Gzkiv4GBUNg=\""
+          "Value": "W/\"8hpHruTC3Ic/nntgK24FUdM60rhGhkXoGa85uWCcJPA=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "qn446xgw5h"
-        },
-        {
-          "Name": "label",
-          "Value": "static/js/453.419a5d54.chunk.js"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-ltot6+oH4qYOE9Vc99Lk9j4n0iNQ84Z0Gzkiv4GBUNg="
-        }
-      ]
-    },
-    {
-      "Route": "static/js/453.419a5d54.chunk.qn446xgw5h.js",
-      "AssetFile": "C:\\Users\\chand\\Downloads\\Addition\\server\\wwwroot\\static\\js\\453.419a5d54.chunk.js",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "4512"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/javascript"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"ltot6+oH4qYOE9Vc99Lk9j4n0iNQ84Z0Gzkiv4GBUNg=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Mon, 25 Nov 2024 03:01:42 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "qn446xgw5h"
-        },
-        {
-          "Name": "label",
-          "Value": "static/js/453.419a5d54.chunk.js"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-ltot6+oH4qYOE9Vc99Lk9j4n0iNQ84Z0Gzkiv4GBUNg="
-        }
-      ]
-    },
-    {
-      "Route": "static/js/453.419a5d54.chunk.qn446xgw5h.js.gz",
-      "AssetFile": "C:\\Users\\chand\\Downloads\\Addition\\server\\obj\\Debug\\net9.0\\compressed\\p3ckgdwo6f-qn446xgw5h.gz",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "1773"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/javascript"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"YucR8HUypFAi+rnZLr7YGGzK3zGl/DcRnIdZJq5fe78=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Mon, 25 Nov 2024 03:01:42 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "qn446xgw5h"
-        },
-        {
-          "Name": "label",
-          "Value": "static/js/453.419a5d54.chunk.js.gz"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-YucR8HUypFAi+rnZLr7YGGzK3zGl/DcRnIdZJq5fe78="
-        }
-      ]
-    },
-    {
-      "Route": "static/js/main.c4d3ad58.he2q6w1z05.js",
-      "AssetFile": "C:\\Users\\chand\\Downloads\\Addition\\server\\obj\\Debug\\net9.0\\compressed\\nbndbi5ci0-he2q6w1z05.gz",
-      "Selectors": [
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip",
-          "Quality": "0.000021102389"
-        }
-      ],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "47387"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"AxX6d/Lk8GsWVQp1e60W+x/PYTMuJqxmN/7gjR020N0=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Mon, 25 Nov 2024 03:01:41 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/javascript"
-        },
-        {
-          "Name": "ETag",
-          "Value": "W/\"qaSW22YPC8o+dDTfgwm8XtrGwOWBEVhrFklR3CLOpLg=\""
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "he2q6w1z05"
+          "Value": "6ryk2b6q77"
         },
         {
           "Name": "label",
@@ -3469,13 +3469,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-qaSW22YPC8o+dDTfgwm8XtrGwOWBEVhrFklR3CLOpLg="
+          "Value": "sha256-8hpHruTC3Ic/nntgK24FUdM60rhGhkXoGa85uWCcJPA="
         }
       ]
     },
     {
-      "Route": "static/js/main.c4d3ad58.he2q6w1z05.js",
-      "AssetFile": "C:\\Users\\chand\\Downloads\\Addition\\server\\wwwroot\\static\\js\\main.c4d3ad58.js",
+      "Route": "static/js/main.c4d3ad58.6ryk2b6q77.js",
+      "AssetFile": "C:\\Users\\swash\\OneDrive - University of Florida\\WebAppTest\\Addition\\Server\\wwwroot\\static\\js\\main.c4d3ad58.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3484,7 +3484,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "144179"
+          "Value": "144181"
         },
         {
           "Name": "Content-Type",
@@ -3492,11 +3492,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"qaSW22YPC8o+dDTfgwm8XtrGwOWBEVhrFklR3CLOpLg=\""
+          "Value": "\"8hpHruTC3Ic/nntgK24FUdM60rhGhkXoGa85uWCcJPA=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 25 Nov 2024 03:01:41 GMT"
+          "Value": "Tue, 26 Nov 2024 00:21:35 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3506,7 +3506,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "he2q6w1z05"
+          "Value": "6ryk2b6q77"
         },
         {
           "Name": "label",
@@ -3514,13 +3514,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-qaSW22YPC8o+dDTfgwm8XtrGwOWBEVhrFklR3CLOpLg="
+          "Value": "sha256-8hpHruTC3Ic/nntgK24FUdM60rhGhkXoGa85uWCcJPA="
         }
       ]
     },
     {
-      "Route": "static/js/main.c4d3ad58.he2q6w1z05.js.gz",
-      "AssetFile": "C:\\Users\\chand\\Downloads\\Addition\\server\\obj\\Debug\\net9.0\\compressed\\nbndbi5ci0-he2q6w1z05.gz",
+      "Route": "static/js/main.c4d3ad58.6ryk2b6q77.js.gz",
+      "AssetFile": "C:\\Users\\swash\\OneDrive - University of Florida\\WebAppTest\\Addition\\Server\\obj\\Debug\\net9.0\\compressed\\nbndbi5ci0-6ryk2b6q77.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3529,7 +3529,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "47387"
+          "Value": "46812"
         },
         {
           "Name": "Content-Type",
@@ -3537,11 +3537,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"AxX6d/Lk8GsWVQp1e60W+x/PYTMuJqxmN/7gjR020N0=\""
+          "Value": "\"hjCn1zkDzjzZtNjM/hytJ+aMsfvWa/MWDjO6X5C+VeQ=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 25 Nov 2024 03:01:41 GMT"
+          "Value": "Tue, 26 Nov 2024 00:21:35 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3559,7 +3559,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "he2q6w1z05"
+          "Value": "6ryk2b6q77"
         },
         {
           "Name": "label",
@@ -3567,18 +3567,18 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-AxX6d/Lk8GsWVQp1e60W+x/PYTMuJqxmN/7gjR020N0="
+          "Value": "sha256-hjCn1zkDzjzZtNjM/hytJ+aMsfvWa/MWDjO6X5C+VeQ="
         }
       ]
     },
     {
       "Route": "static/js/main.c4d3ad58.js",
-      "AssetFile": "C:\\Users\\chand\\Downloads\\Addition\\server\\obj\\Debug\\net9.0\\compressed\\nbndbi5ci0-he2q6w1z05.gz",
+      "AssetFile": "C:\\Users\\swash\\OneDrive - University of Florida\\WebAppTest\\Addition\\Server\\obj\\Debug\\net9.0\\compressed\\nbndbi5ci0-6ryk2b6q77.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000021102389"
+          "Quality": "0.000021361588"
         }
       ],
       "ResponseHeaders": [
@@ -3588,15 +3588,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "47387"
+          "Value": "46812"
         },
         {
           "Name": "ETag",
-          "Value": "\"AxX6d/Lk8GsWVQp1e60W+x/PYTMuJqxmN/7gjR020N0=\""
+          "Value": "\"hjCn1zkDzjzZtNjM/hytJ+aMsfvWa/MWDjO6X5C+VeQ=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 25 Nov 2024 03:01:41 GMT"
+          "Value": "Tue, 26 Nov 2024 00:21:35 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3616,19 +3616,19 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"qaSW22YPC8o+dDTfgwm8XtrGwOWBEVhrFklR3CLOpLg=\""
+          "Value": "W/\"8hpHruTC3Ic/nntgK24FUdM60rhGhkXoGa85uWCcJPA=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-qaSW22YPC8o+dDTfgwm8XtrGwOWBEVhrFklR3CLOpLg="
+          "Value": "sha256-8hpHruTC3Ic/nntgK24FUdM60rhGhkXoGa85uWCcJPA="
         }
       ]
     },
     {
       "Route": "static/js/main.c4d3ad58.js",
-      "AssetFile": "C:\\Users\\chand\\Downloads\\Addition\\server\\wwwroot\\static\\js\\main.c4d3ad58.js",
+      "AssetFile": "C:\\Users\\swash\\OneDrive - University of Florida\\WebAppTest\\Addition\\Server\\wwwroot\\static\\js\\main.c4d3ad58.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3637,7 +3637,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "144179"
+          "Value": "144181"
         },
         {
           "Name": "Content-Type",
@@ -3645,11 +3645,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"qaSW22YPC8o+dDTfgwm8XtrGwOWBEVhrFklR3CLOpLg=\""
+          "Value": "\"8hpHruTC3Ic/nntgK24FUdM60rhGhkXoGa85uWCcJPA=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 25 Nov 2024 03:01:41 GMT"
+          "Value": "Tue, 26 Nov 2024 00:21:35 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3659,13 +3659,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-qaSW22YPC8o+dDTfgwm8XtrGwOWBEVhrFklR3CLOpLg="
+          "Value": "sha256-8hpHruTC3Ic/nntgK24FUdM60rhGhkXoGa85uWCcJPA="
         }
       ]
     },
     {
       "Route": "static/js/main.c4d3ad58.js.gz",
-      "AssetFile": "C:\\Users\\chand\\Downloads\\Addition\\server\\obj\\Debug\\net9.0\\compressed\\nbndbi5ci0-he2q6w1z05.gz",
+      "AssetFile": "C:\\Users\\swash\\OneDrive - University of Florida\\WebAppTest\\Addition\\Server\\obj\\Debug\\net9.0\\compressed\\nbndbi5ci0-6ryk2b6q77.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3674,7 +3674,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "47387"
+          "Value": "46812"
         },
         {
           "Name": "Content-Type",
@@ -3682,11 +3682,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"AxX6d/Lk8GsWVQp1e60W+x/PYTMuJqxmN/7gjR020N0=\""
+          "Value": "\"hjCn1zkDzjzZtNjM/hytJ+aMsfvWa/MWDjO6X5C+VeQ=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 25 Nov 2024 03:01:41 GMT"
+          "Value": "Tue, 26 Nov 2024 00:21:35 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3704,18 +3704,18 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-AxX6d/Lk8GsWVQp1e60W+x/PYTMuJqxmN/7gjR020N0="
+          "Value": "sha256-hjCn1zkDzjzZtNjM/hytJ+aMsfvWa/MWDjO6X5C+VeQ="
         }
       ]
     },
     {
       "Route": "static/js/main.c4d3ad58.js.hz6y9cvjmf.map",
-      "AssetFile": "C:\\Users\\chand\\Downloads\\Addition\\server\\obj\\Debug\\net9.0\\compressed\\ixeukcx92p-hz6y9cvjmf.gz",
+      "AssetFile": "C:\\Users\\swash\\OneDrive - University of Florida\\WebAppTest\\Addition\\Server\\obj\\Debug\\net9.0\\compressed\\ixeukcx92p-hz6y9cvjmf.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000008871855"
+          "Quality": "0.000008958085"
         }
       ],
       "ResponseHeaders": [
@@ -3725,15 +3725,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "112715"
+          "Value": "111630"
         },
         {
           "Name": "ETag",
-          "Value": "\"YLLsGeDrpNScxKunWO4IFsWjbNkLD/a4TUUBG01mVvA=\""
+          "Value": "\"K8KyajMZ822uvTg6G9Hb4BhNvCHZ2qCzVpesudaTBeQ=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 25 Nov 2024 03:01:42 GMT"
+          "Value": "Tue, 26 Nov 2024 00:21:35 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3773,7 +3773,7 @@
     },
     {
       "Route": "static/js/main.c4d3ad58.js.hz6y9cvjmf.map",
-      "AssetFile": "C:\\Users\\chand\\Downloads\\Addition\\server\\wwwroot\\static\\js\\main.c4d3ad58.js.map",
+      "AssetFile": "C:\\Users\\swash\\OneDrive - University of Florida\\WebAppTest\\Addition\\Server\\wwwroot\\static\\js\\main.c4d3ad58.js.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3794,7 +3794,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 25 Nov 2024 03:01:42 GMT"
+          "Value": "Tue, 26 Nov 2024 00:21:35 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3818,7 +3818,7 @@
     },
     {
       "Route": "static/js/main.c4d3ad58.js.hz6y9cvjmf.map.gz",
-      "AssetFile": "C:\\Users\\chand\\Downloads\\Addition\\server\\obj\\Debug\\net9.0\\compressed\\ixeukcx92p-hz6y9cvjmf.gz",
+      "AssetFile": "C:\\Users\\swash\\OneDrive - University of Florida\\WebAppTest\\Addition\\Server\\obj\\Debug\\net9.0\\compressed\\ixeukcx92p-hz6y9cvjmf.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3827,7 +3827,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "112715"
+          "Value": "111630"
         },
         {
           "Name": "Content-Type",
@@ -3835,11 +3835,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"YLLsGeDrpNScxKunWO4IFsWjbNkLD/a4TUUBG01mVvA=\""
+          "Value": "\"K8KyajMZ822uvTg6G9Hb4BhNvCHZ2qCzVpesudaTBeQ=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 25 Nov 2024 03:01:42 GMT"
+          "Value": "Tue, 26 Nov 2024 00:21:35 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3865,18 +3865,18 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-YLLsGeDrpNScxKunWO4IFsWjbNkLD/a4TUUBG01mVvA="
+          "Value": "sha256-K8KyajMZ822uvTg6G9Hb4BhNvCHZ2qCzVpesudaTBeQ="
         }
       ]
     },
     {
-      "Route": "static/js/main.c4d3ad58.js.LICENSE.ky62on6fd0.txt",
-      "AssetFile": "C:\\Users\\chand\\Downloads\\Addition\\server\\obj\\Debug\\net9.0\\compressed\\e6q462czhz-ky62on6fd0.gz",
+      "Route": "static/js/main.c4d3ad58.js.LICENSE.sml91tjr7t.txt",
+      "AssetFile": "C:\\Users\\swash\\OneDrive - University of Florida\\WebAppTest\\Addition\\Server\\obj\\Debug\\net9.0\\compressed\\e6q462czhz-sml91tjr7t.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.004629629630"
+          "Quality": "0.004504504505"
         }
       ],
       "ResponseHeaders": [
@@ -3886,15 +3886,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "215"
+          "Value": "221"
         },
         {
           "Name": "ETag",
-          "Value": "\"2tF241CdxsTmtIVPLBAhyHd8j4NLvTyD9r90F0bSGWQ=\""
+          "Value": "\"mBB4RLdPvdt5czDhkcEvrdhGgMRPFYXahzyPWm4cXN8=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 25 Nov 2024 03:01:41 GMT"
+          "Value": "Tue, 26 Nov 2024 00:21:35 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3914,13 +3914,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"vIOq/0PT75MBMxu/6qzE0thUnfyQKfeGvWq90yNjsCA=\""
+          "Value": "W/\"PAUBYef80u7iXjV8Z54j4e+DMAMneR6hG5yzeJVZr6I=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "ky62on6fd0"
+          "Value": "sml91tjr7t"
         },
         {
           "Name": "label",
@@ -3928,13 +3928,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-vIOq/0PT75MBMxu/6qzE0thUnfyQKfeGvWq90yNjsCA="
+          "Value": "sha256-PAUBYef80u7iXjV8Z54j4e+DMAMneR6hG5yzeJVZr6I="
         }
       ]
     },
     {
-      "Route": "static/js/main.c4d3ad58.js.LICENSE.ky62on6fd0.txt",
-      "AssetFile": "C:\\Users\\chand\\Downloads\\Addition\\server\\wwwroot\\static\\js\\main.c4d3ad58.js.LICENSE.txt",
+      "Route": "static/js/main.c4d3ad58.js.LICENSE.sml91tjr7t.txt",
+      "AssetFile": "C:\\Users\\swash\\OneDrive - University of Florida\\WebAppTest\\Addition\\Server\\wwwroot\\static\\js\\main.c4d3ad58.js.LICENSE.txt",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3943,7 +3943,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "971"
+          "Value": "1010"
         },
         {
           "Name": "Content-Type",
@@ -3951,11 +3951,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"vIOq/0PT75MBMxu/6qzE0thUnfyQKfeGvWq90yNjsCA=\""
+          "Value": "\"PAUBYef80u7iXjV8Z54j4e+DMAMneR6hG5yzeJVZr6I=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 25 Nov 2024 03:01:41 GMT"
+          "Value": "Tue, 26 Nov 2024 00:21:35 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3965,7 +3965,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "ky62on6fd0"
+          "Value": "sml91tjr7t"
         },
         {
           "Name": "label",
@@ -3973,13 +3973,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-vIOq/0PT75MBMxu/6qzE0thUnfyQKfeGvWq90yNjsCA="
+          "Value": "sha256-PAUBYef80u7iXjV8Z54j4e+DMAMneR6hG5yzeJVZr6I="
         }
       ]
     },
     {
-      "Route": "static/js/main.c4d3ad58.js.LICENSE.ky62on6fd0.txt.gz",
-      "AssetFile": "C:\\Users\\chand\\Downloads\\Addition\\server\\obj\\Debug\\net9.0\\compressed\\e6q462czhz-ky62on6fd0.gz",
+      "Route": "static/js/main.c4d3ad58.js.LICENSE.sml91tjr7t.txt.gz",
+      "AssetFile": "C:\\Users\\swash\\OneDrive - University of Florida\\WebAppTest\\Addition\\Server\\obj\\Debug\\net9.0\\compressed\\e6q462czhz-sml91tjr7t.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3988,7 +3988,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "215"
+          "Value": "221"
         },
         {
           "Name": "Content-Type",
@@ -3996,11 +3996,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"2tF241CdxsTmtIVPLBAhyHd8j4NLvTyD9r90F0bSGWQ=\""
+          "Value": "\"mBB4RLdPvdt5czDhkcEvrdhGgMRPFYXahzyPWm4cXN8=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 25 Nov 2024 03:01:41 GMT"
+          "Value": "Tue, 26 Nov 2024 00:21:35 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4018,7 +4018,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "ky62on6fd0"
+          "Value": "sml91tjr7t"
         },
         {
           "Name": "label",
@@ -4026,18 +4026,18 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-2tF241CdxsTmtIVPLBAhyHd8j4NLvTyD9r90F0bSGWQ="
+          "Value": "sha256-mBB4RLdPvdt5czDhkcEvrdhGgMRPFYXahzyPWm4cXN8="
         }
       ]
     },
     {
       "Route": "static/js/main.c4d3ad58.js.LICENSE.txt",
-      "AssetFile": "C:\\Users\\chand\\Downloads\\Addition\\server\\obj\\Debug\\net9.0\\compressed\\e6q462czhz-ky62on6fd0.gz",
+      "AssetFile": "C:\\Users\\swash\\OneDrive - University of Florida\\WebAppTest\\Addition\\Server\\obj\\Debug\\net9.0\\compressed\\e6q462czhz-sml91tjr7t.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.004629629630"
+          "Quality": "0.004504504505"
         }
       ],
       "ResponseHeaders": [
@@ -4047,15 +4047,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "215"
+          "Value": "221"
         },
         {
           "Name": "ETag",
-          "Value": "\"2tF241CdxsTmtIVPLBAhyHd8j4NLvTyD9r90F0bSGWQ=\""
+          "Value": "\"mBB4RLdPvdt5czDhkcEvrdhGgMRPFYXahzyPWm4cXN8=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 25 Nov 2024 03:01:41 GMT"
+          "Value": "Tue, 26 Nov 2024 00:21:35 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4075,19 +4075,19 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"vIOq/0PT75MBMxu/6qzE0thUnfyQKfeGvWq90yNjsCA=\""
+          "Value": "W/\"PAUBYef80u7iXjV8Z54j4e+DMAMneR6hG5yzeJVZr6I=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-vIOq/0PT75MBMxu/6qzE0thUnfyQKfeGvWq90yNjsCA="
+          "Value": "sha256-PAUBYef80u7iXjV8Z54j4e+DMAMneR6hG5yzeJVZr6I="
         }
       ]
     },
     {
       "Route": "static/js/main.c4d3ad58.js.LICENSE.txt",
-      "AssetFile": "C:\\Users\\chand\\Downloads\\Addition\\server\\wwwroot\\static\\js\\main.c4d3ad58.js.LICENSE.txt",
+      "AssetFile": "C:\\Users\\swash\\OneDrive - University of Florida\\WebAppTest\\Addition\\Server\\wwwroot\\static\\js\\main.c4d3ad58.js.LICENSE.txt",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4096,7 +4096,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "971"
+          "Value": "1010"
         },
         {
           "Name": "Content-Type",
@@ -4104,11 +4104,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"vIOq/0PT75MBMxu/6qzE0thUnfyQKfeGvWq90yNjsCA=\""
+          "Value": "\"PAUBYef80u7iXjV8Z54j4e+DMAMneR6hG5yzeJVZr6I=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 25 Nov 2024 03:01:41 GMT"
+          "Value": "Tue, 26 Nov 2024 00:21:35 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4118,13 +4118,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-vIOq/0PT75MBMxu/6qzE0thUnfyQKfeGvWq90yNjsCA="
+          "Value": "sha256-PAUBYef80u7iXjV8Z54j4e+DMAMneR6hG5yzeJVZr6I="
         }
       ]
     },
     {
       "Route": "static/js/main.c4d3ad58.js.LICENSE.txt.gz",
-      "AssetFile": "C:\\Users\\chand\\Downloads\\Addition\\server\\obj\\Debug\\net9.0\\compressed\\e6q462czhz-ky62on6fd0.gz",
+      "AssetFile": "C:\\Users\\swash\\OneDrive - University of Florida\\WebAppTest\\Addition\\Server\\obj\\Debug\\net9.0\\compressed\\e6q462czhz-sml91tjr7t.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4133,7 +4133,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "215"
+          "Value": "221"
         },
         {
           "Name": "Content-Type",
@@ -4141,11 +4141,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"2tF241CdxsTmtIVPLBAhyHd8j4NLvTyD9r90F0bSGWQ=\""
+          "Value": "\"mBB4RLdPvdt5czDhkcEvrdhGgMRPFYXahzyPWm4cXN8=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 25 Nov 2024 03:01:41 GMT"
+          "Value": "Tue, 26 Nov 2024 00:21:35 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4163,18 +4163,18 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-2tF241CdxsTmtIVPLBAhyHd8j4NLvTyD9r90F0bSGWQ="
+          "Value": "sha256-mBB4RLdPvdt5czDhkcEvrdhGgMRPFYXahzyPWm4cXN8="
         }
       ]
     },
     {
       "Route": "static/js/main.c4d3ad58.js.map",
-      "AssetFile": "C:\\Users\\chand\\Downloads\\Addition\\server\\obj\\Debug\\net9.0\\compressed\\ixeukcx92p-hz6y9cvjmf.gz",
+      "AssetFile": "C:\\Users\\swash\\OneDrive - University of Florida\\WebAppTest\\Addition\\Server\\obj\\Debug\\net9.0\\compressed\\ixeukcx92p-hz6y9cvjmf.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000008871855"
+          "Quality": "0.000008958085"
         }
       ],
       "ResponseHeaders": [
@@ -4184,15 +4184,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "112715"
+          "Value": "111630"
         },
         {
           "Name": "ETag",
-          "Value": "\"YLLsGeDrpNScxKunWO4IFsWjbNkLD/a4TUUBG01mVvA=\""
+          "Value": "\"K8KyajMZ822uvTg6G9Hb4BhNvCHZ2qCzVpesudaTBeQ=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 25 Nov 2024 03:01:42 GMT"
+          "Value": "Tue, 26 Nov 2024 00:21:35 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4224,7 +4224,7 @@
     },
     {
       "Route": "static/js/main.c4d3ad58.js.map",
-      "AssetFile": "C:\\Users\\chand\\Downloads\\Addition\\server\\wwwroot\\static\\js\\main.c4d3ad58.js.map",
+      "AssetFile": "C:\\Users\\swash\\OneDrive - University of Florida\\WebAppTest\\Addition\\Server\\wwwroot\\static\\js\\main.c4d3ad58.js.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4245,7 +4245,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 25 Nov 2024 03:01:42 GMT"
+          "Value": "Tue, 26 Nov 2024 00:21:35 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4261,7 +4261,7 @@
     },
     {
       "Route": "static/js/main.c4d3ad58.js.map.gz",
-      "AssetFile": "C:\\Users\\chand\\Downloads\\Addition\\server\\obj\\Debug\\net9.0\\compressed\\ixeukcx92p-hz6y9cvjmf.gz",
+      "AssetFile": "C:\\Users\\swash\\OneDrive - University of Florida\\WebAppTest\\Addition\\Server\\obj\\Debug\\net9.0\\compressed\\ixeukcx92p-hz6y9cvjmf.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4270,7 +4270,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "112715"
+          "Value": "111630"
         },
         {
           "Name": "Content-Type",
@@ -4278,11 +4278,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"YLLsGeDrpNScxKunWO4IFsWjbNkLD/a4TUUBG01mVvA=\""
+          "Value": "\"K8KyajMZ822uvTg6G9Hb4BhNvCHZ2qCzVpesudaTBeQ=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 25 Nov 2024 03:01:42 GMT"
+          "Value": "Tue, 26 Nov 2024 00:21:35 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4300,7 +4300,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-YLLsGeDrpNScxKunWO4IFsWjbNkLD/a4TUUBG01mVvA="
+          "Value": "sha256-K8KyajMZ822uvTg6G9Hb4BhNvCHZ2qCzVpesudaTBeQ="
         }
       ]
     }

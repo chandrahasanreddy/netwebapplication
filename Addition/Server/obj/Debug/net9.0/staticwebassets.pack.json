@@ -1,59 +1,59 @@
 {
   "Files": [
     {
-      "Id": "C:\\Users\\chand\\Downloads\\Addition\\server\\wwwroot\\asset-manifest.json",
+      "Id": "C:\\Users\\swash\\OneDrive - University of Florida\\WebAppTest\\Addition\\Server\\wwwroot\\asset-manifest.json",
       "PackagePath": "staticwebassets\\asset-manifest.json"
     },
     {
-      "Id": "C:\\Users\\chand\\Downloads\\Addition\\server\\wwwroot\\favicon.ico",
+      "Id": "C:\\Users\\swash\\OneDrive - University of Florida\\WebAppTest\\Addition\\Server\\wwwroot\\favicon.ico",
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
-      "Id": "C:\\Users\\chand\\Downloads\\Addition\\server\\wwwroot\\index.html",
+      "Id": "C:\\Users\\swash\\OneDrive - University of Florida\\WebAppTest\\Addition\\Server\\wwwroot\\index.html",
       "PackagePath": "staticwebassets\\index.html"
     },
     {
-      "Id": "C:\\Users\\chand\\Downloads\\Addition\\server\\wwwroot\\logo192.png",
+      "Id": "C:\\Users\\swash\\OneDrive - University of Florida\\WebAppTest\\Addition\\Server\\wwwroot\\logo192.png",
       "PackagePath": "staticwebassets\\logo192.png"
     },
     {
-      "Id": "C:\\Users\\chand\\Downloads\\Addition\\server\\wwwroot\\logo512.png",
+      "Id": "C:\\Users\\swash\\OneDrive - University of Florida\\WebAppTest\\Addition\\Server\\wwwroot\\logo512.png",
       "PackagePath": "staticwebassets\\logo512.png"
     },
     {
-      "Id": "C:\\Users\\chand\\Downloads\\Addition\\server\\wwwroot\\manifest.json",
+      "Id": "C:\\Users\\swash\\OneDrive - University of Florida\\WebAppTest\\Addition\\Server\\wwwroot\\manifest.json",
       "PackagePath": "staticwebassets\\manifest.json"
     },
     {
-      "Id": "C:\\Users\\chand\\Downloads\\Addition\\server\\wwwroot\\robots.txt",
+      "Id": "C:\\Users\\swash\\OneDrive - University of Florida\\WebAppTest\\Addition\\Server\\wwwroot\\robots.txt",
       "PackagePath": "staticwebassets\\robots.txt"
     },
     {
-      "Id": "C:\\Users\\chand\\Downloads\\Addition\\server\\wwwroot\\static\\css\\main.e6c13ad2.css",
+      "Id": "C:\\Users\\swash\\OneDrive - University of Florida\\WebAppTest\\Addition\\Server\\wwwroot\\static\\css\\main.e6c13ad2.css",
       "PackagePath": "staticwebassets\\static\\css\\main.e6c13ad2.css"
     },
     {
-      "Id": "C:\\Users\\chand\\Downloads\\Addition\\server\\wwwroot\\static\\css\\main.e6c13ad2.css.map",
+      "Id": "C:\\Users\\swash\\OneDrive - University of Florida\\WebAppTest\\Addition\\Server\\wwwroot\\static\\css\\main.e6c13ad2.css.map",
       "PackagePath": "staticwebassets\\static\\css\\main.e6c13ad2.css.map"
     },
     {
-      "Id": "C:\\Users\\chand\\Downloads\\Addition\\server\\wwwroot\\static\\js\\453.419a5d54.chunk.js",
+      "Id": "C:\\Users\\swash\\OneDrive - University of Florida\\WebAppTest\\Addition\\Server\\wwwroot\\static\\js\\453.419a5d54.chunk.js",
       "PackagePath": "staticwebassets\\static\\js\\453.419a5d54.chunk.js"
     },
     {
-      "Id": "C:\\Users\\chand\\Downloads\\Addition\\server\\wwwroot\\static\\js\\453.419a5d54.chunk.js.map",
+      "Id": "C:\\Users\\swash\\OneDrive - University of Florida\\WebAppTest\\Addition\\Server\\wwwroot\\static\\js\\453.419a5d54.chunk.js.map",
       "PackagePath": "staticwebassets\\static\\js\\453.419a5d54.chunk.js.map"
     },
     {
-      "Id": "C:\\Users\\chand\\Downloads\\Addition\\server\\wwwroot\\static\\js\\main.c4d3ad58.js",
+      "Id": "C:\\Users\\swash\\OneDrive - University of Florida\\WebAppTest\\Addition\\Server\\wwwroot\\static\\js\\main.c4d3ad58.js",
       "PackagePath": "staticwebassets\\static\\js\\main.c4d3ad58.js"
     },
     {
-      "Id": "C:\\Users\\chand\\Downloads\\Addition\\server\\wwwroot\\static\\js\\main.c4d3ad58.js.LICENSE.txt",
+      "Id": "C:\\Users\\swash\\OneDrive - University of Florida\\WebAppTest\\Addition\\Server\\wwwroot\\static\\js\\main.c4d3ad58.js.LICENSE.txt",
       "PackagePath": "staticwebassets\\static\\js\\main.c4d3ad58.js.LICENSE.txt"
     },
     {
-      "Id": "C:\\Users\\chand\\Downloads\\Addition\\server\\wwwroot\\static\\js\\main.c4d3ad58.js.map",
+      "Id": "C:\\Users\\swash\\OneDrive - University of Florida\\WebAppTest\\Addition\\Server\\wwwroot\\static\\js\\main.c4d3ad58.js.map",
       "PackagePath": "staticwebassets\\static\\js\\main.c4d3ad58.js.map"
     },
     {
