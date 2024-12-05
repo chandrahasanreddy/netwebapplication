@@ -1,0 +1,10 @@
+[Oo]bj/
+**/Server/
+**/*.Server/obj/
+*.v2
+*.vsidx
+*.suo
+*.bin
+*.pdb
+*.gz
+*.cache
