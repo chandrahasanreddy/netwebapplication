@@ -48,15 +48,7 @@ var builder = WebApplication.CreateBuilder(args);
 
 builder.Services.AddControllers();
 
-// builder.Services.AddCors(options =>
-// {
-//     options.AddPolicy("AllowAll", builder =>
-//     {
-//         builder.WithOrigins("http://localhost:3000") 
-//                .AllowAnyHeader()
-//                .AllowAnyMethod();
-//     });
-// });
+
 
 var app = builder.Build();
 app.UseCors("AllowAll");
