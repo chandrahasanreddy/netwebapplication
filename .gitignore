@@ -1,7 +1,7 @@
 [Oo]bj/
 Addition/Server/obj
 Addition/Server/bin
-**/Server/
+
 **/*.Server/obj/
 *.v2
 *.vsidx
