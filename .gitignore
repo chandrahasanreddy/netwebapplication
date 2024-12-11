@@ -1,5 +1,6 @@
 [Oo]bj/
 Addition/Server/obj
+Addition/Server/bin
 **/Server/
 **/*.Server/obj/
 *.v2
@@ -9,3 +10,96 @@ Addition/Server/obj
 *.pdb
 *.gz
 *.cache
+
+.fake
+
+# Node.js
+node_modules/
+
+# Build output
+/build
+/dist
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Dependency directories
+/.pnp
+.pnp.js
+
+# VS Code settings (if using VS Code)
+.vscode/
+
+# Operating system files
+.DS_Store  # macOS
+Thumbs.db  # Windows
+
+# Environment variables
+.env
+.env.local
+.env.*.local
+
+# Coverage directory (for code coverage reports)
+coverage/
+
+# IDE directories
+.idea/
+
+# Other configuration files
+*.sublime-workspace
+
+
+# User-specific files
+*.user
+*.userosscache
+*.suo
+*.userprefs
+
+# Windows Installer files
+*.cab
+*.msi
+*.msm
+*.msp
+
+# Build results
+[Dd]ebug/
+[Dd]ebugPublic/
+[Dd]Release/
+[Dd]ebug/
+[Dd]Release/
+x64/
+x86/
+[Aa]rms/
+
+# .NET Core
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+# User-specific files
+.vs2019/
+.vscode/
+
+# Windows Installer files
+*.cab
+*.msi
+*.msm
+*.msp
+
+# IntelliJ
+.idea/
+
+# Log files
+*.log
+
+# Windows Installer files
+*.cab
+*.msi
+*.msm
+*.msp
+
+# Npm package files
+node_modules/
+npm-debug.log
