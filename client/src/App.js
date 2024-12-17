@@ -2,6 +2,7 @@ import React, { useState } from "react";
 
 import Section1 from "./Components/Section1";
 import InputSection from "./Components/InputSection";
+import IntersectionData from "./Components/IntersectionData";
 
 
 function App()
@@ -10,6 +11,7 @@ function App()
         <div>
           <Section1 />
           <InputSection/>
+          <IntersectionData/>
         </div>
   );
 }
