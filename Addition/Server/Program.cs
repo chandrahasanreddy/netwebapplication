@@ -40,13 +40,15 @@
 //     public int TemperatureF => 32 + (int)(TemperatureC / 0.5556);
 // }
 
-
+using Database;
 
 
 
 var builder = WebApplication.CreateBuilder(args);
 
 builder.Services.AddControllers();
+
+builder.Services.AddSingleton<Level1Test>();
 
 
 

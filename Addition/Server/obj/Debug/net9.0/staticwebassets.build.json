@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "4j3UtIbak8JZdJS+6xxTGqgUIDZJRUvoTyCHsdl6JhQ=",
+  "Hash": "FFXzKQwkcX3HFezXAFfmcDtLS09rq5dnTCPjYuJQSAg=",
   "Source": "Server",
   "BasePath": "_content/Server",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "Server\\wwwroot",
       "Source": "Server",
-      "ContentRoot": "C:\\Users\\chand\\OneDrive\\Desktop\\git\\netwebapplication\\Addition\\server\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\chand\\OneDrive\\Desktop\\git\\netwebapplication\\addition\\server\\wwwroot\\",
       "BasePath": "_content/Server",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "C:\\Users\\chand\\OneDrive\\Desktop\\git\\netwebapplication\\Addition\\server\\obj\\Debug\\net9.0\\compressed\\0xk9xlsvaj-4bysstsvp2.gz",
+      "Identity": "C:\\Users\\chand\\OneDrive\\Desktop\\git\\netwebapplication\\addition\\server\\obj\\Debug\\net9.0\\compressed\\0xk9xlsvaj-4bysstsvp2.gz",
       "SourceId": "Server",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\chand\\OneDrive\\Desktop\\git\\netwebapplication\\Addition\\server\\obj\\Debug\\net9.0\\compressed\\",
+      "ContentRoot": "C:\\Users\\chand\\OneDrive\\Desktop\\git\\netwebapplication\\addition\\server\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "_content/Server",
       "RelativePath": "manifest#[.{fingerprint=4bysstsvp2}]?.json.gz",
       "AssetKind": "All",
@@ -28,20 +28,20 @@
       "AssetRole": "Alternative",
       "AssetMergeBehavior": "",
       "AssetMergeSource": "",
-      "RelatedAsset": "C:\\Users\\chand\\OneDrive\\Desktop\\git\\netwebapplication\\Addition\\server\\wwwroot\\manifest.json",
+      "RelatedAsset": "C:\\Users\\chand\\OneDrive\\Desktop\\git\\netwebapplication\\addition\\server\\wwwroot\\manifest.json",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
       "Fingerprint": "em7h5dc8ac",
       "Integrity": "1nm3OGYJa5QQs7OdtWlEWrx6kr4+rABek41ii7xUtdM=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\chand\\OneDrive\\Desktop\\git\\netwebapplication\\Addition\\server\\wwwroot\\manifest.json"
+      "OriginalItemSpec": "C:\\Users\\chand\\OneDrive\\Desktop\\git\\netwebapplication\\addition\\server\\wwwroot\\manifest.json"
     },
     {
-      "Identity": "C:\\Users\\chand\\OneDrive\\Desktop\\git\\netwebapplication\\Addition\\server\\obj\\Debug\\net9.0\\compressed\\2cmtmnz1jt-2o0uln99l3.gz",
+      "Identity": "C:\\Users\\chand\\OneDrive\\Desktop\\git\\netwebapplication\\addition\\server\\obj\\Debug\\net9.0\\compressed\\2cmtmnz1jt-2o0uln99l3.gz",
       "SourceId": "Server",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\chand\\OneDrive\\Desktop\\git\\netwebapplication\\Addition\\server\\obj\\Debug\\net9.0\\compressed\\",
+      "ContentRoot": "C:\\Users\\chand\\OneDrive\\Desktop\\git\\netwebapplication\\addition\\server\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "_content/Server",
       "RelativePath": "asset-manifest#[.{fingerprint=2o0uln99l3}]?.json.gz",
       "AssetKind": "All",
@@ -49,20 +49,20 @@
       "AssetRole": "Alternative",
       "AssetMergeBehavior": "",
       "AssetMergeSource": "",
-      "RelatedAsset": "C:\\Users\\chand\\OneDrive\\Desktop\\git\\netwebapplication\\Addition\\server\\wwwroot\\asset-manifest.json",
+      "RelatedAsset": "C:\\Users\\chand\\OneDrive\\Desktop\\git\\netwebapplication\\addition\\server\\wwwroot\\asset-manifest.json",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
       "Fingerprint": "rep26iqkj7",
       "Integrity": "3SQB7yfH0cbLgRHLsaEXKrpWQmNYzVNkftr/J8D6LrA=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\chand\\OneDrive\\Desktop\\git\\netwebapplication\\Addition\\server\\wwwroot\\asset-manifest.json"
+      "OriginalItemSpec": "C:\\Users\\chand\\OneDrive\\Desktop\\git\\netwebapplication\\addition\\server\\wwwroot\\asset-manifest.json"
     },
     {
-      "Identity": "C:\\Users\\chand\\OneDrive\\Desktop\\git\\netwebapplication\\Addition\\server\\obj\\Debug\\net9.0\\compressed\\5qt0ta09yv-02wjkw0b7l.gz",
+      "Identity": "C:\\Users\\chand\\OneDrive\\Desktop\\git\\netwebapplication\\addition\\server\\obj\\Debug\\net9.0\\compressed\\5qt0ta09yv-02wjkw0b7l.gz",
       "SourceId": "Server",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\chand\\OneDrive\\Desktop\\git\\netwebapplication\\Addition\\server\\obj\\Debug\\net9.0\\compressed\\",
+      "ContentRoot": "C:\\Users\\chand\\OneDrive\\Desktop\\git\\netwebapplication\\addition\\server\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "_content/Server",
       "RelativePath": "static/css/main.e6c13ad2.css#[.{fingerprint=02wjkw0b7l}]?.map.gz",
       "AssetKind": "All",
@@ -70,20 +70,20 @@
       "AssetRole": "Alternative",
       "AssetMergeBehavior": "",
       "AssetMergeSource": "",
-      "RelatedAsset": "C:\\Users\\chand\\OneDrive\\Desktop\\git\\netwebapplication\\Addition\\server\\wwwroot\\static\\css\\main.e6c13ad2.css.map",
+      "RelatedAsset": "C:\\Users\\chand\\OneDrive\\Desktop\\git\\netwebapplication\\addition\\server\\wwwroot\\static\\css\\main.e6c13ad2.css.map",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "oqkgrx8c4r",
-      "Integrity": "AGyCh3DbrvVrpYnJmS2NPDV3ueTcbEjKPOwjT59FTPc=",
+      "Fingerprint": "vq5fvo15ar",
+      "Integrity": "KQYfnvfs3cfxEGIqAarDVJhj1NuFbCXvk1sLdWSMXeo=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\chand\\OneDrive\\Desktop\\git\\netwebapplication\\Addition\\server\\wwwroot\\static\\css\\main.e6c13ad2.css.map"
+      "OriginalItemSpec": "C:\\Users\\chand\\OneDrive\\Desktop\\git\\netwebapplication\\addition\\server\\wwwroot\\static\\css\\main.e6c13ad2.css.map"
     },
     {
-      "Identity": "C:\\Users\\chand\\OneDrive\\Desktop\\git\\netwebapplication\\Addition\\server\\obj\\Debug\\net9.0\\compressed\\e6q462czhz-ky62on6fd0.gz",
+      "Identity": "C:\\Users\\chand\\OneDrive\\Desktop\\git\\netwebapplication\\addition\\server\\obj\\Debug\\net9.0\\compressed\\e6q462czhz-ky62on6fd0.gz",
       "SourceId": "Server",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\chand\\OneDrive\\Desktop\\git\\netwebapplication\\Addition\\server\\obj\\Debug\\net9.0\\compressed\\",
+      "ContentRoot": "C:\\Users\\chand\\OneDrive\\Desktop\\git\\netwebapplication\\addition\\server\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "_content/Server",
       "RelativePath": "static/js/main.c4d3ad58.js.LICENSE#[.{fingerprint=ky62on6fd0}]?.txt.gz",
       "AssetKind": "All",
@@ -91,20 +91,20 @@
       "AssetRole": "Alternative",
       "AssetMergeBehavior": "",
       "AssetMergeSource": "",
-      "RelatedAsset": "C:\\Users\\chand\\OneDrive\\Desktop\\git\\netwebapplication\\Addition\\server\\wwwroot\\static\\js\\main.c4d3ad58.js.LICENSE.txt",
+      "RelatedAsset": "C:\\Users\\chand\\OneDrive\\Desktop\\git\\netwebapplication\\addition\\server\\wwwroot\\static\\js\\main.c4d3ad58.js.LICENSE.txt",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
       "Fingerprint": "u638g3f6qy",
       "Integrity": "2tF241CdxsTmtIVPLBAhyHd8j4NLvTyD9r90F0bSGWQ=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\chand\\OneDrive\\Desktop\\git\\netwebapplication\\Addition\\server\\wwwroot\\static\\js\\main.c4d3ad58.js.LICENSE.txt"
+      "OriginalItemSpec": "C:\\Users\\chand\\OneDrive\\Desktop\\git\\netwebapplication\\addition\\server\\wwwroot\\static\\js\\main.c4d3ad58.js.LICENSE.txt"
     },
     {
-      "Identity": "C:\\Users\\chand\\OneDrive\\Desktop\\git\\netwebapplication\\Addition\\server\\obj\\Debug\\net9.0\\compressed\\ixeukcx92p-hz6y9cvjmf.gz",
+      "Identity": "C:\\Users\\chand\\OneDrive\\Desktop\\git\\netwebapplication\\addition\\server\\obj\\Debug\\net9.0\\compressed\\ixeukcx92p-hz6y9cvjmf.gz",
       "SourceId": "Server",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\chand\\OneDrive\\Desktop\\git\\netwebapplication\\Addition\\server\\obj\\Debug\\net9.0\\compressed\\",
+      "ContentRoot": "C:\\Users\\chand\\OneDrive\\Desktop\\git\\netwebapplication\\addition\\server\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "_content/Server",
       "RelativePath": "static/js/main.c4d3ad58.js#[.{fingerprint=hz6y9cvjmf}]?.map.gz",
       "AssetKind": "All",
@@ -112,20 +112,20 @@
       "AssetRole": "Alternative",
       "AssetMergeBehavior": "",
       "AssetMergeSource": "",
-      "RelatedAsset": "C:\\Users\\chand\\OneDrive\\Desktop\\git\\netwebapplication\\Addition\\server\\wwwroot\\static\\js\\main.c4d3ad58.js.map",
+      "RelatedAsset": "C:\\Users\\chand\\OneDrive\\Desktop\\git\\netwebapplication\\addition\\server\\wwwroot\\static\\js\\main.c4d3ad58.js.map",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "9z2zc66a80",
-      "Integrity": "K8KyajMZ822uvTg6G9Hb4BhNvCHZ2qCzVpesudaTBeQ=",
+      "Fingerprint": "8umcf4di32",
+      "Integrity": "YLLsGeDrpNScxKunWO4IFsWjbNkLD/a4TUUBG01mVvA=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\chand\\OneDrive\\Desktop\\git\\netwebapplication\\Addition\\server\\wwwroot\\static\\js\\main.c4d3ad58.js.map"
+      "OriginalItemSpec": "C:\\Users\\chand\\OneDrive\\Desktop\\git\\netwebapplication\\addition\\server\\wwwroot\\static\\js\\main.c4d3ad58.js.map"
     },
     {
-      "Identity": "C:\\Users\\chand\\OneDrive\\Desktop\\git\\netwebapplication\\Addition\\server\\obj\\Debug\\net9.0\\compressed\\lu8841hb8x-n88yadyaqn.gz",
+      "Identity": "C:\\Users\\chand\\OneDrive\\Desktop\\git\\netwebapplication\\addition\\server\\obj\\Debug\\net9.0\\compressed\\lu8841hb8x-n88yadyaqn.gz",
       "SourceId": "Server",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\chand\\OneDrive\\Desktop\\git\\netwebapplication\\Addition\\server\\obj\\Debug\\net9.0\\compressed\\",
+      "ContentRoot": "C:\\Users\\chand\\OneDrive\\Desktop\\git\\netwebapplication\\addition\\server\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "_content/Server",
       "RelativePath": "static/js/453.419a5d54.chunk.js#[.{fingerprint=n88yadyaqn}]?.map.gz",
       "AssetKind": "All",
@@ -133,20 +133,20 @@
       "AssetRole": "Alternative",
       "AssetMergeBehavior": "",
       "AssetMergeSource": "",
-      "RelatedAsset": "C:\\Users\\chand\\OneDrive\\Desktop\\git\\netwebapplication\\Addition\\server\\wwwroot\\static\\js\\453.419a5d54.chunk.js.map",
+      "RelatedAsset": "C:\\Users\\chand\\OneDrive\\Desktop\\git\\netwebapplication\\addition\\server\\wwwroot\\static\\js\\453.419a5d54.chunk.js.map",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "l3znbdgity",
-      "Integrity": "cdD72tVOLDw2Vk9zdeJDJztMMEaYFSvjtR5EmOv837E=",
+      "Fingerprint": "bofan36qlq",
+      "Integrity": "JU8h+4TNz+OdP44DQ+qTODdQcBBqpG0c0+hbHBYOw/M=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\chand\\OneDrive\\Desktop\\git\\netwebapplication\\Addition\\server\\wwwroot\\static\\js\\453.419a5d54.chunk.js.map"
+      "OriginalItemSpec": "C:\\Users\\chand\\OneDrive\\Desktop\\git\\netwebapplication\\addition\\server\\wwwroot\\static\\js\\453.419a5d54.chunk.js.map"
     },
     {
-      "Identity": "C:\\Users\\chand\\OneDrive\\Desktop\\git\\netwebapplication\\Addition\\server\\obj\\Debug\\net9.0\\compressed\\me970lfqfr-rf0rij527r.gz",
+      "Identity": "C:\\Users\\chand\\OneDrive\\Desktop\\git\\netwebapplication\\addition\\server\\obj\\Debug\\net9.0\\compressed\\me970lfqfr-rf0rij527r.gz",
       "SourceId": "Server",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\chand\\OneDrive\\Desktop\\git\\netwebapplication\\Addition\\server\\obj\\Debug\\net9.0\\compressed\\",
+      "ContentRoot": "C:\\Users\\chand\\OneDrive\\Desktop\\git\\netwebapplication\\addition\\server\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "_content/Server",
       "RelativePath": "index#[.{fingerprint=rf0rij527r}]?.html.gz",
       "AssetKind": "All",
@@ -154,20 +154,20 @@
       "AssetRole": "Alternative",
       "AssetMergeBehavior": "",
       "AssetMergeSource": "",
-      "RelatedAsset": "C:\\Users\\chand\\OneDrive\\Desktop\\git\\netwebapplication\\Addition\\server\\wwwroot\\index.html",
+      "RelatedAsset": "C:\\Users\\chand\\OneDrive\\Desktop\\git\\netwebapplication\\addition\\server\\wwwroot\\index.html",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "n3lj3byfws",
-      "Integrity": "k8Bl3ixLiS97zdU2V60am/vlPe2XNrBns6nrsOqOwpQ=",
+      "Fingerprint": "ijtoaidvve",
+      "Integrity": "jg3m4Jlzdoh7gdujXQMS82oymIA8onrb8v4bvcsCtFM=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\chand\\OneDrive\\Desktop\\git\\netwebapplication\\Addition\\server\\wwwroot\\index.html"
+      "OriginalItemSpec": "C:\\Users\\chand\\OneDrive\\Desktop\\git\\netwebapplication\\addition\\server\\wwwroot\\index.html"
     },
     {
-      "Identity": "C:\\Users\\chand\\OneDrive\\Desktop\\git\\netwebapplication\\Addition\\server\\obj\\Debug\\net9.0\\compressed\\mluy8ce0wi-1f2oqlqaa3.gz",
+      "Identity": "C:\\Users\\chand\\OneDrive\\Desktop\\git\\netwebapplication\\addition\\server\\obj\\Debug\\net9.0\\compressed\\mluy8ce0wi-1f2oqlqaa3.gz",
       "SourceId": "Server",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\chand\\OneDrive\\Desktop\\git\\netwebapplication\\Addition\\server\\obj\\Debug\\net9.0\\compressed\\",
+      "ContentRoot": "C:\\Users\\chand\\OneDrive\\Desktop\\git\\netwebapplication\\addition\\server\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "_content/Server",
       "RelativePath": "favicon#[.{fingerprint=1f2oqlqaa3}]?.ico.gz",
       "AssetKind": "All",
@@ -175,20 +175,20 @@
       "AssetRole": "Alternative",
       "AssetMergeBehavior": "",
       "AssetMergeSource": "",
-      "RelatedAsset": "C:\\Users\\chand\\OneDrive\\Desktop\\git\\netwebapplication\\Addition\\server\\wwwroot\\favicon.ico",
+      "RelatedAsset": "C:\\Users\\chand\\OneDrive\\Desktop\\git\\netwebapplication\\addition\\server\\wwwroot\\favicon.ico",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "bhcen3pmpn",
-      "Integrity": "UVZBPLXiTfe50KA+NjtkHFhvulf066aKiWoQovdXPJs=",
+      "Fingerprint": "glsbb7dowp",
+      "Integrity": "hJz6th6R/BIbTppAEUDnvu3y4omXercB605rh9cbDB0=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\chand\\OneDrive\\Desktop\\git\\netwebapplication\\Addition\\server\\wwwroot\\favicon.ico"
+      "OriginalItemSpec": "C:\\Users\\chand\\OneDrive\\Desktop\\git\\netwebapplication\\addition\\server\\wwwroot\\favicon.ico"
     },
     {
-      "Identity": "C:\\Users\\chand\\OneDrive\\Desktop\\git\\netwebapplication\\Addition\\server\\obj\\Debug\\net9.0\\compressed\\n6rcyv4mlx-sl60c43r8o.gz",
+      "Identity": "C:\\Users\\chand\\OneDrive\\Desktop\\git\\netwebapplication\\addition\\server\\obj\\Debug\\net9.0\\compressed\\n6rcyv4mlx-sl60c43r8o.gz",
       "SourceId": "Server",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\chand\\OneDrive\\Desktop\\git\\netwebapplication\\Addition\\server\\obj\\Debug\\net9.0\\compressed\\",
+      "ContentRoot": "C:\\Users\\chand\\OneDrive\\Desktop\\git\\netwebapplication\\addition\\server\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "_content/Server",
       "RelativePath": "robots#[.{fingerprint=sl60c43r8o}]?.txt.gz",
       "AssetKind": "All",
@@ -196,20 +196,20 @@
       "AssetRole": "Alternative",
       "AssetMergeBehavior": "",
       "AssetMergeSource": "",
-      "RelatedAsset": "C:\\Users\\chand\\OneDrive\\Desktop\\git\\netwebapplication\\Addition\\server\\wwwroot\\robots.txt",
+      "RelatedAsset": "C:\\Users\\chand\\OneDrive\\Desktop\\git\\netwebapplication\\addition\\server\\wwwroot\\robots.txt",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
       "Fingerprint": "87lgtu7z8q",
       "Integrity": "rItxXqHBy8SoA7m5YJ+zMFphGBu56P15FtzfRd5pgpI=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\chand\\OneDrive\\Desktop\\git\\netwebapplication\\Addition\\server\\wwwroot\\robots.txt"
+      "OriginalItemSpec": "C:\\Users\\chand\\OneDrive\\Desktop\\git\\netwebapplication\\addition\\server\\wwwroot\\robots.txt"
     },
     {
-      "Identity": "C:\\Users\\chand\\OneDrive\\Desktop\\git\\netwebapplication\\Addition\\server\\obj\\Debug\\net9.0\\compressed\\nbndbi5ci0-he2q6w1z05.gz",
+      "Identity": "C:\\Users\\chand\\OneDrive\\Desktop\\git\\netwebapplication\\addition\\server\\obj\\Debug\\net9.0\\compressed\\nbndbi5ci0-he2q6w1z05.gz",
       "SourceId": "Server",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\chand\\OneDrive\\Desktop\\git\\netwebapplication\\Addition\\server\\obj\\Debug\\net9.0\\compressed\\",
+      "ContentRoot": "C:\\Users\\chand\\OneDrive\\Desktop\\git\\netwebapplication\\addition\\server\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "_content/Server",
       "RelativePath": "static/js/main.c4d3ad58#[.{fingerprint=he2q6w1z05}]?.js.gz",
       "AssetKind": "All",
@@ -217,20 +217,20 @@
       "AssetRole": "Alternative",
       "AssetMergeBehavior": "",
       "AssetMergeSource": "",
-      "RelatedAsset": "C:\\Users\\chand\\OneDrive\\Desktop\\git\\netwebapplication\\Addition\\server\\wwwroot\\static\\js\\main.c4d3ad58.js",
+      "RelatedAsset": "C:\\Users\\chand\\OneDrive\\Desktop\\git\\netwebapplication\\addition\\server\\wwwroot\\static\\js\\main.c4d3ad58.js",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
       "Fingerprint": "nzcdiomamx",
       "Integrity": "AxX6d/Lk8GsWVQp1e60W+x/PYTMuJqxmN/7gjR020N0=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\chand\\OneDrive\\Desktop\\git\\netwebapplication\\Addition\\server\\wwwroot\\static\\js\\main.c4d3ad58.js"
+      "OriginalItemSpec": "C:\\Users\\chand\\OneDrive\\Desktop\\git\\netwebapplication\\addition\\server\\wwwroot\\static\\js\\main.c4d3ad58.js"
     },
     {
-      "Identity": "C:\\Users\\chand\\OneDrive\\Desktop\\git\\netwebapplication\\Addition\\server\\obj\\Debug\\net9.0\\compressed\\p3ckgdwo6f-qn446xgw5h.gz",
+      "Identity": "C:\\Users\\chand\\OneDrive\\Desktop\\git\\netwebapplication\\addition\\server\\obj\\Debug\\net9.0\\compressed\\p3ckgdwo6f-qn446xgw5h.gz",
       "SourceId": "Server",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\chand\\OneDrive\\Desktop\\git\\netwebapplication\\Addition\\server\\obj\\Debug\\net9.0\\compressed\\",
+      "ContentRoot": "C:\\Users\\chand\\OneDrive\\Desktop\\git\\netwebapplication\\addition\\server\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "_content/Server",
       "RelativePath": "static/js/453.419a5d54.chunk#[.{fingerprint=qn446xgw5h}]?.js.gz",
       "AssetKind": "All",
@@ -238,20 +238,20 @@
       "AssetRole": "Alternative",
       "AssetMergeBehavior": "",
       "AssetMergeSource": "",
-      "RelatedAsset": "C:\\Users\\chand\\OneDrive\\Desktop\\git\\netwebapplication\\Addition\\server\\wwwroot\\static\\js\\453.419a5d54.chunk.js",
+      "RelatedAsset": "C:\\Users\\chand\\OneDrive\\Desktop\\git\\netwebapplication\\addition\\server\\wwwroot\\static\\js\\453.419a5d54.chunk.js",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
       "Fingerprint": "e1bu87liok",
       "Integrity": "YucR8HUypFAi+rnZLr7YGGzK3zGl/DcRnIdZJq5fe78=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\chand\\OneDrive\\Desktop\\git\\netwebapplication\\Addition\\server\\wwwroot\\static\\js\\453.419a5d54.chunk.js"
+      "OriginalItemSpec": "C:\\Users\\chand\\OneDrive\\Desktop\\git\\netwebapplication\\addition\\server\\wwwroot\\static\\js\\453.419a5d54.chunk.js"
     },
     {
-      "Identity": "C:\\Users\\chand\\OneDrive\\Desktop\\git\\netwebapplication\\Addition\\server\\obj\\Debug\\net9.0\\compressed\\slj17rg9p5-byrjvaenyp.gz",
+      "Identity": "C:\\Users\\chand\\OneDrive\\Desktop\\git\\netwebapplication\\addition\\server\\obj\\Debug\\net9.0\\compressed\\slj17rg9p5-byrjvaenyp.gz",
       "SourceId": "Server",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\chand\\OneDrive\\Desktop\\git\\netwebapplication\\Addition\\server\\obj\\Debug\\net9.0\\compressed\\",
+      "ContentRoot": "C:\\Users\\chand\\OneDrive\\Desktop\\git\\netwebapplication\\addition\\server\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "_content/Server",
       "RelativePath": "static/css/main.e6c13ad2#[.{fingerprint=byrjvaenyp}]?.css.gz",
       "AssetKind": "All",
@@ -259,20 +259,20 @@
       "AssetRole": "Alternative",
       "AssetMergeBehavior": "",
       "AssetMergeSource": "",
-      "RelatedAsset": "C:\\Users\\chand\\OneDrive\\Desktop\\git\\netwebapplication\\Addition\\server\\wwwroot\\static\\css\\main.e6c13ad2.css",
+      "RelatedAsset": "C:\\Users\\chand\\OneDrive\\Desktop\\git\\netwebapplication\\addition\\server\\wwwroot\\static\\css\\main.e6c13ad2.css",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
       "Fingerprint": "q3lbt9577v",
       "Integrity": "aq/uJyVCb436pM21WWl3nUk24WdfC+U6pT9Ri6eP5xc=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\chand\\OneDrive\\Desktop\\git\\netwebapplication\\Addition\\server\\wwwroot\\static\\css\\main.e6c13ad2.css"
+      "OriginalItemSpec": "C:\\Users\\chand\\OneDrive\\Desktop\\git\\netwebapplication\\addition\\server\\wwwroot\\static\\css\\main.e6c13ad2.css"
     },
     {
-      "Identity": "C:\\Users\\chand\\OneDrive\\Desktop\\git\\netwebapplication\\Addition\\server\\wwwroot\\asset-manifest.json",
+      "Identity": "C:\\Users\\chand\\OneDrive\\Desktop\\git\\netwebapplication\\addition\\server\\wwwroot\\asset-manifest.json",
       "SourceId": "Server",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\chand\\OneDrive\\Desktop\\git\\netwebapplication\\Addition\\server\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\chand\\OneDrive\\Desktop\\git\\netwebapplication\\addition\\server\\wwwroot\\",
       "BasePath": "_content/Server",
       "RelativePath": "asset-manifest#[.{fingerprint}]?.json",
       "AssetKind": "All",
@@ -290,10 +290,10 @@
       "OriginalItemSpec": "wwwroot\\asset-manifest.json"
     },
     {
-      "Identity": "C:\\Users\\chand\\OneDrive\\Desktop\\git\\netwebapplication\\Addition\\server\\wwwroot\\favicon.ico",
+      "Identity": "C:\\Users\\chand\\OneDrive\\Desktop\\git\\netwebapplication\\addition\\server\\wwwroot\\favicon.ico",
       "SourceId": "Server",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\chand\\OneDrive\\Desktop\\git\\netwebapplication\\Addition\\server\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\chand\\OneDrive\\Desktop\\git\\netwebapplication\\addition\\server\\wwwroot\\",
       "BasePath": "_content/Server",
       "RelativePath": "favicon#[.{fingerprint}]?.ico",
       "AssetKind": "All",
@@ -311,10 +311,10 @@
       "OriginalItemSpec": "wwwroot\\favicon.ico"
     },
     {
-      "Identity": "C:\\Users\\chand\\OneDrive\\Desktop\\git\\netwebapplication\\Addition\\server\\wwwroot\\index.html",
+      "Identity": "C:\\Users\\chand\\OneDrive\\Desktop\\git\\netwebapplication\\addition\\server\\wwwroot\\index.html",
       "SourceId": "Server",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\chand\\OneDrive\\Desktop\\git\\netwebapplication\\Addition\\server\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\chand\\OneDrive\\Desktop\\git\\netwebapplication\\addition\\server\\wwwroot\\",
       "BasePath": "_content/Server",
       "RelativePath": "index#[.{fingerprint}]?.html",
       "AssetKind": "All",
@@ -332,10 +332,10 @@
       "OriginalItemSpec": "wwwroot\\index.html"
     },
     {
-      "Identity": "C:\\Users\\chand\\OneDrive\\Desktop\\git\\netwebapplication\\Addition\\server\\wwwroot\\logo192.png",
+      "Identity": "C:\\Users\\chand\\OneDrive\\Desktop\\git\\netwebapplication\\addition\\server\\wwwroot\\logo192.png",
       "SourceId": "Server",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\chand\\OneDrive\\Desktop\\git\\netwebapplication\\Addition\\server\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\chand\\OneDrive\\Desktop\\git\\netwebapplication\\addition\\server\\wwwroot\\",
       "BasePath": "_content/Server",
       "RelativePath": "logo192#[.{fingerprint}]?.png",
       "AssetKind": "All",
@@ -353,10 +353,10 @@
       "OriginalItemSpec": "wwwroot\\logo192.png"
     },
     {
-      "Identity": "C:\\Users\\chand\\OneDrive\\Desktop\\git\\netwebapplication\\Addition\\server\\wwwroot\\logo512.png",
+      "Identity": "C:\\Users\\chand\\OneDrive\\Desktop\\git\\netwebapplication\\addition\\server\\wwwroot\\logo512.png",
       "SourceId": "Server",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\chand\\OneDrive\\Desktop\\git\\netwebapplication\\Addition\\server\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\chand\\OneDrive\\Desktop\\git\\netwebapplication\\addition\\server\\wwwroot\\",
       "BasePath": "_content/Server",
       "RelativePath": "logo512#[.{fingerprint}]?.png",
       "AssetKind": "All",
@@ -374,10 +374,10 @@
       "OriginalItemSpec": "wwwroot\\logo512.png"
     },
     {
-      "Identity": "C:\\Users\\chand\\OneDrive\\Desktop\\git\\netwebapplication\\Addition\\server\\wwwroot\\manifest.json",
+      "Identity": "C:\\Users\\chand\\OneDrive\\Desktop\\git\\netwebapplication\\addition\\server\\wwwroot\\manifest.json",
       "SourceId": "Server",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\chand\\OneDrive\\Desktop\\git\\netwebapplication\\Addition\\server\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\chand\\OneDrive\\Desktop\\git\\netwebapplication\\addition\\server\\wwwroot\\",
       "BasePath": "_content/Server",
       "RelativePath": "manifest#[.{fingerprint}]?.json",
       "AssetKind": "All",
@@ -395,10 +395,10 @@
       "OriginalItemSpec": "wwwroot\\manifest.json"
     },
     {
-      "Identity": "C:\\Users\\chand\\OneDrive\\Desktop\\git\\netwebapplication\\Addition\\server\\wwwroot\\robots.txt",
+      "Identity": "C:\\Users\\chand\\OneDrive\\Desktop\\git\\netwebapplication\\addition\\server\\wwwroot\\robots.txt",
       "SourceId": "Server",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\chand\\OneDrive\\Desktop\\git\\netwebapplication\\Addition\\server\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\chand\\OneDrive\\Desktop\\git\\netwebapplication\\addition\\server\\wwwroot\\",
       "BasePath": "_content/Server",
       "RelativePath": "robots#[.{fingerprint}]?.txt",
       "AssetKind": "All",
@@ -416,10 +416,10 @@
       "OriginalItemSpec": "wwwroot\\robots.txt"
     },
     {
-      "Identity": "C:\\Users\\chand\\OneDrive\\Desktop\\git\\netwebapplication\\Addition\\server\\wwwroot\\static\\css\\main.e6c13ad2.css",
+      "Identity": "C:\\Users\\chand\\OneDrive\\Desktop\\git\\netwebapplication\\addition\\server\\wwwroot\\static\\css\\main.e6c13ad2.css",
       "SourceId": "Server",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\chand\\OneDrive\\Desktop\\git\\netwebapplication\\Addition\\server\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\chand\\OneDrive\\Desktop\\git\\netwebapplication\\addition\\server\\wwwroot\\",
       "BasePath": "_content/Server",
       "RelativePath": "static/css/main.e6c13ad2#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -437,10 +437,10 @@
       "OriginalItemSpec": "wwwroot\\static\\css\\main.e6c13ad2.css"
     },
     {
-      "Identity": "C:\\Users\\chand\\OneDrive\\Desktop\\git\\netwebapplication\\Addition\\server\\wwwroot\\static\\css\\main.e6c13ad2.css.map",
+      "Identity": "C:\\Users\\chand\\OneDrive\\Desktop\\git\\netwebapplication\\addition\\server\\wwwroot\\static\\css\\main.e6c13ad2.css.map",
       "SourceId": "Server",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\chand\\OneDrive\\Desktop\\git\\netwebapplication\\Addition\\server\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\chand\\OneDrive\\Desktop\\git\\netwebapplication\\addition\\server\\wwwroot\\",
       "BasePath": "_content/Server",
       "RelativePath": "static/css/main.e6c13ad2.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -458,10 +458,10 @@
       "OriginalItemSpec": "wwwroot\\static\\css\\main.e6c13ad2.css.map"
     },
     {
-      "Identity": "C:\\Users\\chand\\OneDrive\\Desktop\\git\\netwebapplication\\Addition\\server\\wwwroot\\static\\js\\453.419a5d54.chunk.js",
+      "Identity": "C:\\Users\\chand\\OneDrive\\Desktop\\git\\netwebapplication\\addition\\server\\wwwroot\\static\\js\\453.419a5d54.chunk.js",
       "SourceId": "Server",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\chand\\OneDrive\\Desktop\\git\\netwebapplication\\Addition\\server\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\chand\\OneDrive\\Desktop\\git\\netwebapplication\\addition\\server\\wwwroot\\",
       "BasePath": "_content/Server",
       "RelativePath": "static/js/453.419a5d54.chunk#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -479,10 +479,10 @@
       "OriginalItemSpec": "wwwroot\\static\\js\\453.419a5d54.chunk.js"
     },
     {
-      "Identity": "C:\\Users\\chand\\OneDrive\\Desktop\\git\\netwebapplication\\Addition\\server\\wwwroot\\static\\js\\453.419a5d54.chunk.js.map",
+      "Identity": "C:\\Users\\chand\\OneDrive\\Desktop\\git\\netwebapplication\\addition\\server\\wwwroot\\static\\js\\453.419a5d54.chunk.js.map",
       "SourceId": "Server",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\chand\\OneDrive\\Desktop\\git\\netwebapplication\\Addition\\server\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\chand\\OneDrive\\Desktop\\git\\netwebapplication\\addition\\server\\wwwroot\\",
       "BasePath": "_content/Server",
       "RelativePath": "static/js/453.419a5d54.chunk.js#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -500,10 +500,10 @@
       "OriginalItemSpec": "wwwroot\\static\\js\\453.419a5d54.chunk.js.map"
     },
     {
-      "Identity": "C:\\Users\\chand\\OneDrive\\Desktop\\git\\netwebapplication\\Addition\\server\\wwwroot\\static\\js\\main.c4d3ad58.js",
+      "Identity": "C:\\Users\\chand\\OneDrive\\Desktop\\git\\netwebapplication\\addition\\server\\wwwroot\\static\\js\\main.c4d3ad58.js",
       "SourceId": "Server",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\chand\\OneDrive\\Desktop\\git\\netwebapplication\\Addition\\server\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\chand\\OneDrive\\Desktop\\git\\netwebapplication\\addition\\server\\wwwroot\\",
       "BasePath": "_content/Server",
       "RelativePath": "static/js/main.c4d3ad58#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -521,10 +521,10 @@
       "OriginalItemSpec": "wwwroot\\static\\js\\main.c4d3ad58.js"
     },
     {
-      "Identity": "C:\\Users\\chand\\OneDrive\\Desktop\\git\\netwebapplication\\Addition\\server\\wwwroot\\static\\js\\main.c4d3ad58.js.LICENSE.txt",
+      "Identity": "C:\\Users\\chand\\OneDrive\\Desktop\\git\\netwebapplication\\addition\\server\\wwwroot\\static\\js\\main.c4d3ad58.js.LICENSE.txt",
       "SourceId": "Server",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\chand\\OneDrive\\Desktop\\git\\netwebapplication\\Addition\\server\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\chand\\OneDrive\\Desktop\\git\\netwebapplication\\addition\\server\\wwwroot\\",
       "BasePath": "_content/Server",
       "RelativePath": "static/js/main.c4d3ad58.js.LICENSE#[.{fingerprint}]?.txt",
       "AssetKind": "All",
@@ -542,10 +542,10 @@
       "OriginalItemSpec": "wwwroot\\static\\js\\main.c4d3ad58.js.LICENSE.txt"
     },
     {
-      "Identity": "C:\\Users\\chand\\OneDrive\\Desktop\\git\\netwebapplication\\Addition\\server\\wwwroot\\static\\js\\main.c4d3ad58.js.map",
+      "Identity": "C:\\Users\\chand\\OneDrive\\Desktop\\git\\netwebapplication\\addition\\server\\wwwroot\\static\\js\\main.c4d3ad58.js.map",
       "SourceId": "Server",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\chand\\OneDrive\\Desktop\\git\\netwebapplication\\Addition\\server\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\chand\\OneDrive\\Desktop\\git\\netwebapplication\\addition\\server\\wwwroot\\",
       "BasePath": "_content/Server",
       "RelativePath": "static/js/main.c4d3ad58.js#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -566,7 +566,7 @@
   "Endpoints": [
     {
       "Route": "asset-manifest.2o0uln99l3.json",
-      "AssetFile": "C:\\Users\\chand\\OneDrive\\Desktop\\git\\netwebapplication\\Addition\\server\\obj\\Debug\\net9.0\\compressed\\2cmtmnz1jt-2o0uln99l3.gz",
+      "AssetFile": "C:\\Users\\chand\\OneDrive\\Desktop\\git\\netwebapplication\\addition\\server\\obj\\Debug\\net9.0\\compressed\\2cmtmnz1jt-2o0uln99l3.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -629,7 +629,7 @@
     },
     {
       "Route": "asset-manifest.2o0uln99l3.json",
-      "AssetFile": "C:\\Users\\chand\\OneDrive\\Desktop\\git\\netwebapplication\\Addition\\server\\wwwroot\\asset-manifest.json",
+      "AssetFile": "C:\\Users\\chand\\OneDrive\\Desktop\\git\\netwebapplication\\addition\\server\\wwwroot\\asset-manifest.json",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -674,7 +674,7 @@
     },
     {
       "Route": "asset-manifest.2o0uln99l3.json.gz",
-      "AssetFile": "C:\\Users\\chand\\OneDrive\\Desktop\\git\\netwebapplication\\Addition\\server\\obj\\Debug\\net9.0\\compressed\\2cmtmnz1jt-2o0uln99l3.gz",
+      "AssetFile": "C:\\Users\\chand\\OneDrive\\Desktop\\git\\netwebapplication\\addition\\server\\obj\\Debug\\net9.0\\compressed\\2cmtmnz1jt-2o0uln99l3.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -727,7 +727,7 @@
     },
     {
       "Route": "asset-manifest.json",
-      "AssetFile": "C:\\Users\\chand\\OneDrive\\Desktop\\git\\netwebapplication\\Addition\\server\\obj\\Debug\\net9.0\\compressed\\2cmtmnz1jt-2o0uln99l3.gz",
+      "AssetFile": "C:\\Users\\chand\\OneDrive\\Desktop\\git\\netwebapplication\\addition\\server\\obj\\Debug\\net9.0\\compressed\\2cmtmnz1jt-2o0uln99l3.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -782,7 +782,7 @@
     },
     {
       "Route": "asset-manifest.json",
-      "AssetFile": "C:\\Users\\chand\\OneDrive\\Desktop\\git\\netwebapplication\\Addition\\server\\wwwroot\\asset-manifest.json",
+      "AssetFile": "C:\\Users\\chand\\OneDrive\\Desktop\\git\\netwebapplication\\addition\\server\\wwwroot\\asset-manifest.json",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -819,7 +819,7 @@
     },
     {
       "Route": "asset-manifest.json.gz",
-      "AssetFile": "C:\\Users\\chand\\OneDrive\\Desktop\\git\\netwebapplication\\Addition\\server\\obj\\Debug\\net9.0\\compressed\\2cmtmnz1jt-2o0uln99l3.gz",
+      "AssetFile": "C:\\Users\\chand\\OneDrive\\Desktop\\git\\netwebapplication\\addition\\server\\obj\\Debug\\net9.0\\compressed\\2cmtmnz1jt-2o0uln99l3.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -864,12 +864,12 @@
     },
     {
       "Route": "favicon.1f2oqlqaa3.ico",
-      "AssetFile": "C:\\Users\\chand\\OneDrive\\Desktop\\git\\netwebapplication\\Addition\\server\\obj\\Debug\\net9.0\\compressed\\mluy8ce0wi-1f2oqlqaa3.gz",
+      "AssetFile": "C:\\Users\\chand\\OneDrive\\Desktop\\git\\netwebapplication\\addition\\server\\obj\\Debug\\net9.0\\compressed\\mluy8ce0wi-1f2oqlqaa3.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000288850376"
+          "Quality": "0.000273897562"
         }
       ],
       "ResponseHeaders": [
@@ -879,11 +879,11 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "3461"
+          "Value": "3650"
         },
         {
           "Name": "ETag",
-          "Value": "\"UVZBPLXiTfe50KA+NjtkHFhvulf066aKiWoQovdXPJs=\""
+          "Value": "\"hJz6th6R/BIbTppAEUDnvu3y4omXercB605rh9cbDB0=\""
         },
         {
           "Name": "Last-Modified",
@@ -927,7 +927,7 @@
     },
     {
       "Route": "favicon.1f2oqlqaa3.ico",
-      "AssetFile": "C:\\Users\\chand\\OneDrive\\Desktop\\git\\netwebapplication\\Addition\\server\\wwwroot\\favicon.ico",
+      "AssetFile": "C:\\Users\\chand\\OneDrive\\Desktop\\git\\netwebapplication\\addition\\server\\wwwroot\\favicon.ico",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -972,7 +972,7 @@
     },
     {
       "Route": "favicon.1f2oqlqaa3.ico.gz",
-      "AssetFile": "C:\\Users\\chand\\OneDrive\\Desktop\\git\\netwebapplication\\Addition\\server\\obj\\Debug\\net9.0\\compressed\\mluy8ce0wi-1f2oqlqaa3.gz",
+      "AssetFile": "C:\\Users\\chand\\OneDrive\\Desktop\\git\\netwebapplication\\addition\\server\\obj\\Debug\\net9.0\\compressed\\mluy8ce0wi-1f2oqlqaa3.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -981,7 +981,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "3461"
+          "Value": "3650"
         },
         {
           "Name": "Content-Type",
@@ -989,7 +989,7 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"UVZBPLXiTfe50KA+NjtkHFhvulf066aKiWoQovdXPJs=\""
+          "Value": "\"hJz6th6R/BIbTppAEUDnvu3y4omXercB605rh9cbDB0=\""
         },
         {
           "Name": "Last-Modified",
@@ -1019,18 +1019,18 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-UVZBPLXiTfe50KA+NjtkHFhvulf066aKiWoQovdXPJs="
+          "Value": "sha256-hJz6th6R/BIbTppAEUDnvu3y4omXercB605rh9cbDB0="
         }
       ]
     },
     {
       "Route": "favicon.ico",
-      "AssetFile": "C:\\Users\\chand\\OneDrive\\Desktop\\git\\netwebapplication\\Addition\\server\\obj\\Debug\\net9.0\\compressed\\mluy8ce0wi-1f2oqlqaa3.gz",
+      "AssetFile": "C:\\Users\\chand\\OneDrive\\Desktop\\git\\netwebapplication\\addition\\server\\obj\\Debug\\net9.0\\compressed\\mluy8ce0wi-1f2oqlqaa3.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000288850376"
+          "Quality": "0.000273897562"
         }
       ],
       "ResponseHeaders": [
@@ -1040,11 +1040,11 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "3461"
+          "Value": "3650"
         },
         {
           "Name": "ETag",
-          "Value": "\"UVZBPLXiTfe50KA+NjtkHFhvulf066aKiWoQovdXPJs=\""
+          "Value": "\"hJz6th6R/BIbTppAEUDnvu3y4omXercB605rh9cbDB0=\""
         },
         {
           "Name": "Last-Modified",
@@ -1080,7 +1080,7 @@
     },
     {
       "Route": "favicon.ico",
-      "AssetFile": "C:\\Users\\chand\\OneDrive\\Desktop\\git\\netwebapplication\\Addition\\server\\wwwroot\\favicon.ico",
+      "AssetFile": "C:\\Users\\chand\\OneDrive\\Desktop\\git\\netwebapplication\\addition\\server\\wwwroot\\favicon.ico",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1117,7 +1117,7 @@
     },
     {
       "Route": "favicon.ico.gz",
-      "AssetFile": "C:\\Users\\chand\\OneDrive\\Desktop\\git\\netwebapplication\\Addition\\server\\obj\\Debug\\net9.0\\compressed\\mluy8ce0wi-1f2oqlqaa3.gz",
+      "AssetFile": "C:\\Users\\chand\\OneDrive\\Desktop\\git\\netwebapplication\\addition\\server\\obj\\Debug\\net9.0\\compressed\\mluy8ce0wi-1f2oqlqaa3.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1126,7 +1126,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "3461"
+          "Value": "3650"
         },
         {
           "Name": "Content-Type",
@@ -1134,7 +1134,7 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"UVZBPLXiTfe50KA+NjtkHFhvulf066aKiWoQovdXPJs=\""
+          "Value": "\"hJz6th6R/BIbTppAEUDnvu3y4omXercB605rh9cbDB0=\""
         },
         {
           "Name": "Last-Modified",
@@ -1156,18 +1156,18 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-UVZBPLXiTfe50KA+NjtkHFhvulf066aKiWoQovdXPJs="
+          "Value": "sha256-hJz6th6R/BIbTppAEUDnvu3y4omXercB605rh9cbDB0="
         }
       ]
     },
     {
       "Route": "index.html",
-      "AssetFile": "C:\\Users\\chand\\OneDrive\\Desktop\\git\\netwebapplication\\Addition\\server\\obj\\Debug\\net9.0\\compressed\\me970lfqfr-rf0rij527r.gz",
+      "AssetFile": "C:\\Users\\chand\\OneDrive\\Desktop\\git\\netwebapplication\\addition\\server\\obj\\Debug\\net9.0\\compressed\\me970lfqfr-rf0rij527r.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.002659574468"
+          "Quality": "0.002638522427"
         }
       ],
       "ResponseHeaders": [
@@ -1177,11 +1177,11 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "375"
+          "Value": "378"
         },
         {
           "Name": "ETag",
-          "Value": "\"k8Bl3ixLiS97zdU2V60am/vlPe2XNrBns6nrsOqOwpQ=\""
+          "Value": "\"jg3m4Jlzdoh7gdujXQMS82oymIA8onrb8v4bvcsCtFM=\""
         },
         {
           "Name": "Last-Modified",
@@ -1217,7 +1217,7 @@
     },
     {
       "Route": "index.html",
-      "AssetFile": "C:\\Users\\chand\\OneDrive\\Desktop\\git\\netwebapplication\\Addition\\server\\wwwroot\\index.html",
+      "AssetFile": "C:\\Users\\chand\\OneDrive\\Desktop\\git\\netwebapplication\\addition\\server\\wwwroot\\index.html",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1254,7 +1254,7 @@
     },
     {
       "Route": "index.html.gz",
-      "AssetFile": "C:\\Users\\chand\\OneDrive\\Desktop\\git\\netwebapplication\\Addition\\server\\obj\\Debug\\net9.0\\compressed\\me970lfqfr-rf0rij527r.gz",
+      "AssetFile": "C:\\Users\\chand\\OneDrive\\Desktop\\git\\netwebapplication\\addition\\server\\obj\\Debug\\net9.0\\compressed\\me970lfqfr-rf0rij527r.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1263,7 +1263,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "375"
+          "Value": "378"
         },
         {
           "Name": "Content-Type",
@@ -1271,7 +1271,7 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"k8Bl3ixLiS97zdU2V60am/vlPe2XNrBns6nrsOqOwpQ=\""
+          "Value": "\"jg3m4Jlzdoh7gdujXQMS82oymIA8onrb8v4bvcsCtFM=\""
         },
         {
           "Name": "Last-Modified",
@@ -1293,18 +1293,18 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-k8Bl3ixLiS97zdU2V60am/vlPe2XNrBns6nrsOqOwpQ="
+          "Value": "sha256-jg3m4Jlzdoh7gdujXQMS82oymIA8onrb8v4bvcsCtFM="
         }
       ]
     },
     {
       "Route": "index.rf0rij527r.html",
-      "AssetFile": "C:\\Users\\chand\\OneDrive\\Desktop\\git\\netwebapplication\\Addition\\server\\obj\\Debug\\net9.0\\compressed\\me970lfqfr-rf0rij527r.gz",
+      "AssetFile": "C:\\Users\\chand\\OneDrive\\Desktop\\git\\netwebapplication\\addition\\server\\obj\\Debug\\net9.0\\compressed\\me970lfqfr-rf0rij527r.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.002659574468"
+          "Quality": "0.002638522427"
         }
       ],
       "ResponseHeaders": [
@@ -1314,11 +1314,11 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "375"
+          "Value": "378"
         },
         {
           "Name": "ETag",
-          "Value": "\"k8Bl3ixLiS97zdU2V60am/vlPe2XNrBns6nrsOqOwpQ=\""
+          "Value": "\"jg3m4Jlzdoh7gdujXQMS82oymIA8onrb8v4bvcsCtFM=\""
         },
         {
           "Name": "Last-Modified",
@@ -1362,7 +1362,7 @@
     },
     {
       "Route": "index.rf0rij527r.html",
-      "AssetFile": "C:\\Users\\chand\\OneDrive\\Desktop\\git\\netwebapplication\\Addition\\server\\wwwroot\\index.html",
+      "AssetFile": "C:\\Users\\chand\\OneDrive\\Desktop\\git\\netwebapplication\\addition\\server\\wwwroot\\index.html",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1407,7 +1407,7 @@
     },
     {
       "Route": "index.rf0rij527r.html.gz",
-      "AssetFile": "C:\\Users\\chand\\OneDrive\\Desktop\\git\\netwebapplication\\Addition\\server\\obj\\Debug\\net9.0\\compressed\\me970lfqfr-rf0rij527r.gz",
+      "AssetFile": "C:\\Users\\chand\\OneDrive\\Desktop\\git\\netwebapplication\\addition\\server\\obj\\Debug\\net9.0\\compressed\\me970lfqfr-rf0rij527r.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1416,7 +1416,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "375"
+          "Value": "378"
         },
         {
           "Name": "Content-Type",
@@ -1424,7 +1424,7 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"k8Bl3ixLiS97zdU2V60am/vlPe2XNrBns6nrsOqOwpQ=\""
+          "Value": "\"jg3m4Jlzdoh7gdujXQMS82oymIA8onrb8v4bvcsCtFM=\""
         },
         {
           "Name": "Last-Modified",
@@ -1454,13 +1454,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-k8Bl3ixLiS97zdU2V60am/vlPe2XNrBns6nrsOqOwpQ="
+          "Value": "sha256-jg3m4Jlzdoh7gdujXQMS82oymIA8onrb8v4bvcsCtFM="
         }
       ]
     },
     {
       "Route": "logo192.png",
-      "AssetFile": "C:\\Users\\chand\\OneDrive\\Desktop\\git\\netwebapplication\\Addition\\server\\wwwroot\\logo192.png",
+      "AssetFile": "C:\\Users\\chand\\OneDrive\\Desktop\\git\\netwebapplication\\addition\\server\\wwwroot\\logo192.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1497,7 +1497,7 @@
     },
     {
       "Route": "logo192.xr54by9dn2.png",
-      "AssetFile": "C:\\Users\\chand\\OneDrive\\Desktop\\git\\netwebapplication\\Addition\\server\\wwwroot\\logo192.png",
+      "AssetFile": "C:\\Users\\chand\\OneDrive\\Desktop\\git\\netwebapplication\\addition\\server\\wwwroot\\logo192.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1542,7 +1542,7 @@
     },
     {
       "Route": "logo512.2377xp85ga.png",
-      "AssetFile": "C:\\Users\\chand\\OneDrive\\Desktop\\git\\netwebapplication\\Addition\\server\\wwwroot\\logo512.png",
+      "AssetFile": "C:\\Users\\chand\\OneDrive\\Desktop\\git\\netwebapplication\\addition\\server\\wwwroot\\logo512.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1587,7 +1587,7 @@
     },
     {
       "Route": "logo512.png",
-      "AssetFile": "C:\\Users\\chand\\OneDrive\\Desktop\\git\\netwebapplication\\Addition\\server\\wwwroot\\logo512.png",
+      "AssetFile": "C:\\Users\\chand\\OneDrive\\Desktop\\git\\netwebapplication\\addition\\server\\wwwroot\\logo512.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1624,7 +1624,7 @@
     },
     {
       "Route": "manifest.4bysstsvp2.json",
-      "AssetFile": "C:\\Users\\chand\\OneDrive\\Desktop\\git\\netwebapplication\\Addition\\server\\obj\\Debug\\net9.0\\compressed\\0xk9xlsvaj-4bysstsvp2.gz",
+      "AssetFile": "C:\\Users\\chand\\OneDrive\\Desktop\\git\\netwebapplication\\addition\\server\\obj\\Debug\\net9.0\\compressed\\0xk9xlsvaj-4bysstsvp2.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -1687,7 +1687,7 @@
     },
     {
       "Route": "manifest.4bysstsvp2.json",
-      "AssetFile": "C:\\Users\\chand\\OneDrive\\Desktop\\git\\netwebapplication\\Addition\\server\\wwwroot\\manifest.json",
+      "AssetFile": "C:\\Users\\chand\\OneDrive\\Desktop\\git\\netwebapplication\\addition\\server\\wwwroot\\manifest.json",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1732,7 +1732,7 @@
     },
     {
       "Route": "manifest.4bysstsvp2.json.gz",
-      "AssetFile": "C:\\Users\\chand\\OneDrive\\Desktop\\git\\netwebapplication\\Addition\\server\\obj\\Debug\\net9.0\\compressed\\0xk9xlsvaj-4bysstsvp2.gz",
+      "AssetFile": "C:\\Users\\chand\\OneDrive\\Desktop\\git\\netwebapplication\\addition\\server\\obj\\Debug\\net9.0\\compressed\\0xk9xlsvaj-4bysstsvp2.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1785,7 +1785,7 @@
     },
     {
       "Route": "manifest.json",
-      "AssetFile": "C:\\Users\\chand\\OneDrive\\Desktop\\git\\netwebapplication\\Addition\\server\\obj\\Debug\\net9.0\\compressed\\0xk9xlsvaj-4bysstsvp2.gz",
+      "AssetFile": "C:\\Users\\chand\\OneDrive\\Desktop\\git\\netwebapplication\\addition\\server\\obj\\Debug\\net9.0\\compressed\\0xk9xlsvaj-4bysstsvp2.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -1840,7 +1840,7 @@
     },
     {
       "Route": "manifest.json",
-      "AssetFile": "C:\\Users\\chand\\OneDrive\\Desktop\\git\\netwebapplication\\Addition\\server\\wwwroot\\manifest.json",
+      "AssetFile": "C:\\Users\\chand\\OneDrive\\Desktop\\git\\netwebapplication\\addition\\server\\wwwroot\\manifest.json",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1877,7 +1877,7 @@
     },
     {
       "Route": "manifest.json.gz",
-      "AssetFile": "C:\\Users\\chand\\OneDrive\\Desktop\\git\\netwebapplication\\Addition\\server\\obj\\Debug\\net9.0\\compressed\\0xk9xlsvaj-4bysstsvp2.gz",
+      "AssetFile": "C:\\Users\\chand\\OneDrive\\Desktop\\git\\netwebapplication\\addition\\server\\obj\\Debug\\net9.0\\compressed\\0xk9xlsvaj-4bysstsvp2.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1922,7 +1922,7 @@
     },
     {
       "Route": "robots.sl60c43r8o.txt",
-      "AssetFile": "C:\\Users\\chand\\OneDrive\\Desktop\\git\\netwebapplication\\Addition\\server\\obj\\Debug\\net9.0\\compressed\\n6rcyv4mlx-sl60c43r8o.gz",
+      "AssetFile": "C:\\Users\\chand\\OneDrive\\Desktop\\git\\netwebapplication\\addition\\server\\obj\\Debug\\net9.0\\compressed\\n6rcyv4mlx-sl60c43r8o.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -1985,7 +1985,7 @@
     },
     {
       "Route": "robots.sl60c43r8o.txt",
-      "AssetFile": "C:\\Users\\chand\\OneDrive\\Desktop\\git\\netwebapplication\\Addition\\server\\wwwroot\\robots.txt",
+      "AssetFile": "C:\\Users\\chand\\OneDrive\\Desktop\\git\\netwebapplication\\addition\\server\\wwwroot\\robots.txt",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2030,7 +2030,7 @@
     },
     {
       "Route": "robots.sl60c43r8o.txt.gz",
-      "AssetFile": "C:\\Users\\chand\\OneDrive\\Desktop\\git\\netwebapplication\\Addition\\server\\obj\\Debug\\net9.0\\compressed\\n6rcyv4mlx-sl60c43r8o.gz",
+      "AssetFile": "C:\\Users\\chand\\OneDrive\\Desktop\\git\\netwebapplication\\addition\\server\\obj\\Debug\\net9.0\\compressed\\n6rcyv4mlx-sl60c43r8o.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2083,7 +2083,7 @@
     },
     {
       "Route": "robots.txt",
-      "AssetFile": "C:\\Users\\chand\\OneDrive\\Desktop\\git\\netwebapplication\\Addition\\server\\obj\\Debug\\net9.0\\compressed\\n6rcyv4mlx-sl60c43r8o.gz",
+      "AssetFile": "C:\\Users\\chand\\OneDrive\\Desktop\\git\\netwebapplication\\addition\\server\\obj\\Debug\\net9.0\\compressed\\n6rcyv4mlx-sl60c43r8o.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -2138,7 +2138,7 @@
     },
     {
       "Route": "robots.txt",
-      "AssetFile": "C:\\Users\\chand\\OneDrive\\Desktop\\git\\netwebapplication\\Addition\\server\\wwwroot\\robots.txt",
+      "AssetFile": "C:\\Users\\chand\\OneDrive\\Desktop\\git\\netwebapplication\\addition\\server\\wwwroot\\robots.txt",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2175,7 +2175,7 @@
     },
     {
       "Route": "robots.txt.gz",
-      "AssetFile": "C:\\Users\\chand\\OneDrive\\Desktop\\git\\netwebapplication\\Addition\\server\\obj\\Debug\\net9.0\\compressed\\n6rcyv4mlx-sl60c43r8o.gz",
+      "AssetFile": "C:\\Users\\chand\\OneDrive\\Desktop\\git\\netwebapplication\\addition\\server\\obj\\Debug\\net9.0\\compressed\\n6rcyv4mlx-sl60c43r8o.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2220,7 +2220,7 @@
     },
     {
       "Route": "static/css/main.e6c13ad2.byrjvaenyp.css",
-      "AssetFile": "C:\\Users\\chand\\OneDrive\\Desktop\\git\\netwebapplication\\Addition\\server\\obj\\Debug\\net9.0\\compressed\\slj17rg9p5-byrjvaenyp.gz",
+      "AssetFile": "C:\\Users\\chand\\OneDrive\\Desktop\\git\\netwebapplication\\addition\\server\\obj\\Debug\\net9.0\\compressed\\slj17rg9p5-byrjvaenyp.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -2283,7 +2283,7 @@
     },
     {
       "Route": "static/css/main.e6c13ad2.byrjvaenyp.css",
-      "AssetFile": "C:\\Users\\chand\\OneDrive\\Desktop\\git\\netwebapplication\\Addition\\server\\wwwroot\\static\\css\\main.e6c13ad2.css",
+      "AssetFile": "C:\\Users\\chand\\OneDrive\\Desktop\\git\\netwebapplication\\addition\\server\\wwwroot\\static\\css\\main.e6c13ad2.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2328,7 +2328,7 @@
     },
     {
       "Route": "static/css/main.e6c13ad2.byrjvaenyp.css.gz",
-      "AssetFile": "C:\\Users\\chand\\OneDrive\\Desktop\\git\\netwebapplication\\Addition\\server\\obj\\Debug\\net9.0\\compressed\\slj17rg9p5-byrjvaenyp.gz",
+      "AssetFile": "C:\\Users\\chand\\OneDrive\\Desktop\\git\\netwebapplication\\addition\\server\\obj\\Debug\\net9.0\\compressed\\slj17rg9p5-byrjvaenyp.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2381,7 +2381,7 @@
     },
     {
       "Route": "static/css/main.e6c13ad2.css",
-      "AssetFile": "C:\\Users\\chand\\OneDrive\\Desktop\\git\\netwebapplication\\Addition\\server\\obj\\Debug\\net9.0\\compressed\\slj17rg9p5-byrjvaenyp.gz",
+      "AssetFile": "C:\\Users\\chand\\OneDrive\\Desktop\\git\\netwebapplication\\addition\\server\\obj\\Debug\\net9.0\\compressed\\slj17rg9p5-byrjvaenyp.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -2436,7 +2436,7 @@
     },
     {
       "Route": "static/css/main.e6c13ad2.css",
-      "AssetFile": "C:\\Users\\chand\\OneDrive\\Desktop\\git\\netwebapplication\\Addition\\server\\wwwroot\\static\\css\\main.e6c13ad2.css",
+      "AssetFile": "C:\\Users\\chand\\OneDrive\\Desktop\\git\\netwebapplication\\addition\\server\\wwwroot\\static\\css\\main.e6c13ad2.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2473,12 +2473,12 @@
     },
     {
       "Route": "static/css/main.e6c13ad2.css.02wjkw0b7l.map",
-      "AssetFile": "C:\\Users\\chand\\OneDrive\\Desktop\\git\\netwebapplication\\Addition\\server\\obj\\Debug\\net9.0\\compressed\\5qt0ta09yv-02wjkw0b7l.gz",
+      "AssetFile": "C:\\Users\\chand\\OneDrive\\Desktop\\git\\netwebapplication\\addition\\server\\obj\\Debug\\net9.0\\compressed\\5qt0ta09yv-02wjkw0b7l.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.002518891688"
+          "Quality": "0.002500000000"
         }
       ],
       "ResponseHeaders": [
@@ -2488,11 +2488,11 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "396"
+          "Value": "399"
         },
         {
           "Name": "ETag",
-          "Value": "\"AGyCh3DbrvVrpYnJmS2NPDV3ueTcbEjKPOwjT59FTPc=\""
+          "Value": "\"KQYfnvfs3cfxEGIqAarDVJhj1NuFbCXvk1sLdWSMXeo=\""
         },
         {
           "Name": "Last-Modified",
@@ -2536,7 +2536,7 @@
     },
     {
       "Route": "static/css/main.e6c13ad2.css.02wjkw0b7l.map",
-      "AssetFile": "C:\\Users\\chand\\OneDrive\\Desktop\\git\\netwebapplication\\Addition\\server\\wwwroot\\static\\css\\main.e6c13ad2.css.map",
+      "AssetFile": "C:\\Users\\chand\\OneDrive\\Desktop\\git\\netwebapplication\\addition\\server\\wwwroot\\static\\css\\main.e6c13ad2.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2581,7 +2581,7 @@
     },
     {
       "Route": "static/css/main.e6c13ad2.css.02wjkw0b7l.map.gz",
-      "AssetFile": "C:\\Users\\chand\\OneDrive\\Desktop\\git\\netwebapplication\\Addition\\server\\obj\\Debug\\net9.0\\compressed\\5qt0ta09yv-02wjkw0b7l.gz",
+      "AssetFile": "C:\\Users\\chand\\OneDrive\\Desktop\\git\\netwebapplication\\addition\\server\\obj\\Debug\\net9.0\\compressed\\5qt0ta09yv-02wjkw0b7l.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2590,7 +2590,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "396"
+          "Value": "399"
         },
         {
           "Name": "Content-Type",
@@ -2598,7 +2598,7 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"AGyCh3DbrvVrpYnJmS2NPDV3ueTcbEjKPOwjT59FTPc=\""
+          "Value": "\"KQYfnvfs3cfxEGIqAarDVJhj1NuFbCXvk1sLdWSMXeo=\""
         },
         {
           "Name": "Last-Modified",
@@ -2628,13 +2628,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-AGyCh3DbrvVrpYnJmS2NPDV3ueTcbEjKPOwjT59FTPc="
+          "Value": "sha256-KQYfnvfs3cfxEGIqAarDVJhj1NuFbCXvk1sLdWSMXeo="
         }
       ]
     },
     {
       "Route": "static/css/main.e6c13ad2.css.gz",
-      "AssetFile": "C:\\Users\\chand\\OneDrive\\Desktop\\git\\netwebapplication\\Addition\\server\\obj\\Debug\\net9.0\\compressed\\slj17rg9p5-byrjvaenyp.gz",
+      "AssetFile": "C:\\Users\\chand\\OneDrive\\Desktop\\git\\netwebapplication\\addition\\server\\obj\\Debug\\net9.0\\compressed\\slj17rg9p5-byrjvaenyp.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2679,12 +2679,12 @@
     },
     {
       "Route": "static/css/main.e6c13ad2.css.map",
-      "AssetFile": "C:\\Users\\chand\\OneDrive\\Desktop\\git\\netwebapplication\\Addition\\server\\obj\\Debug\\net9.0\\compressed\\5qt0ta09yv-02wjkw0b7l.gz",
+      "AssetFile": "C:\\Users\\chand\\OneDrive\\Desktop\\git\\netwebapplication\\addition\\server\\obj\\Debug\\net9.0\\compressed\\5qt0ta09yv-02wjkw0b7l.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.002518891688"
+          "Quality": "0.002500000000"
         }
       ],
       "ResponseHeaders": [
@@ -2694,11 +2694,11 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "396"
+          "Value": "399"
         },
         {
           "Name": "ETag",
-          "Value": "\"AGyCh3DbrvVrpYnJmS2NPDV3ueTcbEjKPOwjT59FTPc=\""
+          "Value": "\"KQYfnvfs3cfxEGIqAarDVJhj1NuFbCXvk1sLdWSMXeo=\""
         },
         {
           "Name": "Last-Modified",
@@ -2734,7 +2734,7 @@
     },
     {
       "Route": "static/css/main.e6c13ad2.css.map",
-      "AssetFile": "C:\\Users\\chand\\OneDrive\\Desktop\\git\\netwebapplication\\Addition\\server\\wwwroot\\static\\css\\main.e6c13ad2.css.map",
+      "AssetFile": "C:\\Users\\chand\\OneDrive\\Desktop\\git\\netwebapplication\\addition\\server\\wwwroot\\static\\css\\main.e6c13ad2.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2771,7 +2771,7 @@
     },
     {
       "Route": "static/css/main.e6c13ad2.css.map.gz",
-      "AssetFile": "C:\\Users\\chand\\OneDrive\\Desktop\\git\\netwebapplication\\Addition\\server\\obj\\Debug\\net9.0\\compressed\\5qt0ta09yv-02wjkw0b7l.gz",
+      "AssetFile": "C:\\Users\\chand\\OneDrive\\Desktop\\git\\netwebapplication\\addition\\server\\obj\\Debug\\net9.0\\compressed\\5qt0ta09yv-02wjkw0b7l.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2780,7 +2780,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "396"
+          "Value": "399"
         },
         {
           "Name": "Content-Type",
@@ -2788,7 +2788,7 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"AGyCh3DbrvVrpYnJmS2NPDV3ueTcbEjKPOwjT59FTPc=\""
+          "Value": "\"KQYfnvfs3cfxEGIqAarDVJhj1NuFbCXvk1sLdWSMXeo=\""
         },
         {
           "Name": "Last-Modified",
@@ -2810,13 +2810,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-AGyCh3DbrvVrpYnJmS2NPDV3ueTcbEjKPOwjT59FTPc="
+          "Value": "sha256-KQYfnvfs3cfxEGIqAarDVJhj1NuFbCXvk1sLdWSMXeo="
         }
       ]
     },
     {
       "Route": "static/js/453.419a5d54.chunk.js",
-      "AssetFile": "C:\\Users\\chand\\OneDrive\\Desktop\\git\\netwebapplication\\Addition\\server\\obj\\Debug\\net9.0\\compressed\\p3ckgdwo6f-qn446xgw5h.gz",
+      "AssetFile": "C:\\Users\\chand\\OneDrive\\Desktop\\git\\netwebapplication\\addition\\server\\obj\\Debug\\net9.0\\compressed\\p3ckgdwo6f-qn446xgw5h.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -2871,7 +2871,7 @@
     },
     {
       "Route": "static/js/453.419a5d54.chunk.js",
-      "AssetFile": "C:\\Users\\chand\\OneDrive\\Desktop\\git\\netwebapplication\\Addition\\server\\wwwroot\\static\\js\\453.419a5d54.chunk.js",
+      "AssetFile": "C:\\Users\\chand\\OneDrive\\Desktop\\git\\netwebapplication\\addition\\server\\wwwroot\\static\\js\\453.419a5d54.chunk.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2908,7 +2908,7 @@
     },
     {
       "Route": "static/js/453.419a5d54.chunk.js.gz",
-      "AssetFile": "C:\\Users\\chand\\OneDrive\\Desktop\\git\\netwebapplication\\Addition\\server\\obj\\Debug\\net9.0\\compressed\\p3ckgdwo6f-qn446xgw5h.gz",
+      "AssetFile": "C:\\Users\\chand\\OneDrive\\Desktop\\git\\netwebapplication\\addition\\server\\obj\\Debug\\net9.0\\compressed\\p3ckgdwo6f-qn446xgw5h.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2953,12 +2953,12 @@
     },
     {
       "Route": "static/js/453.419a5d54.chunk.js.map",
-      "AssetFile": "C:\\Users\\chand\\OneDrive\\Desktop\\git\\netwebapplication\\Addition\\server\\obj\\Debug\\net9.0\\compressed\\lu8841hb8x-n88yadyaqn.gz",
+      "AssetFile": "C:\\Users\\chand\\OneDrive\\Desktop\\git\\netwebapplication\\addition\\server\\obj\\Debug\\net9.0\\compressed\\lu8841hb8x-n88yadyaqn.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000268889486"
+          "Quality": "0.000266240682"
         }
       ],
       "ResponseHeaders": [
@@ -2968,11 +2968,11 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "3718"
+          "Value": "3755"
         },
         {
           "Name": "ETag",
-          "Value": "\"cdD72tVOLDw2Vk9zdeJDJztMMEaYFSvjtR5EmOv837E=\""
+          "Value": "\"JU8h+4TNz+OdP44DQ+qTODdQcBBqpG0c0+hbHBYOw/M=\""
         },
         {
           "Name": "Last-Modified",
@@ -3008,7 +3008,7 @@
     },
     {
       "Route": "static/js/453.419a5d54.chunk.js.map",
-      "AssetFile": "C:\\Users\\chand\\OneDrive\\Desktop\\git\\netwebapplication\\Addition\\server\\wwwroot\\static\\js\\453.419a5d54.chunk.js.map",
+      "AssetFile": "C:\\Users\\chand\\OneDrive\\Desktop\\git\\netwebapplication\\addition\\server\\wwwroot\\static\\js\\453.419a5d54.chunk.js.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3045,7 +3045,7 @@
     },
     {
       "Route": "static/js/453.419a5d54.chunk.js.map.gz",
-      "AssetFile": "C:\\Users\\chand\\OneDrive\\Desktop\\git\\netwebapplication\\Addition\\server\\obj\\Debug\\net9.0\\compressed\\lu8841hb8x-n88yadyaqn.gz",
+      "AssetFile": "C:\\Users\\chand\\OneDrive\\Desktop\\git\\netwebapplication\\addition\\server\\obj\\Debug\\net9.0\\compressed\\lu8841hb8x-n88yadyaqn.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3054,7 +3054,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "3718"
+          "Value": "3755"
         },
         {
           "Name": "Content-Type",
@@ -3062,7 +3062,7 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"cdD72tVOLDw2Vk9zdeJDJztMMEaYFSvjtR5EmOv837E=\""
+          "Value": "\"JU8h+4TNz+OdP44DQ+qTODdQcBBqpG0c0+hbHBYOw/M=\""
         },
         {
           "Name": "Last-Modified",
@@ -3084,18 +3084,18 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-cdD72tVOLDw2Vk9zdeJDJztMMEaYFSvjtR5EmOv837E="
+          "Value": "sha256-JU8h+4TNz+OdP44DQ+qTODdQcBBqpG0c0+hbHBYOw/M="
         }
       ]
     },
     {
       "Route": "static/js/453.419a5d54.chunk.js.n88yadyaqn.map",
-      "AssetFile": "C:\\Users\\chand\\OneDrive\\Desktop\\git\\netwebapplication\\Addition\\server\\obj\\Debug\\net9.0\\compressed\\lu8841hb8x-n88yadyaqn.gz",
+      "AssetFile": "C:\\Users\\chand\\OneDrive\\Desktop\\git\\netwebapplication\\addition\\server\\obj\\Debug\\net9.0\\compressed\\lu8841hb8x-n88yadyaqn.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000268889486"
+          "Quality": "0.000266240682"
         }
       ],
       "ResponseHeaders": [
@@ -3105,11 +3105,11 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "3718"
+          "Value": "3755"
         },
         {
           "Name": "ETag",
-          "Value": "\"cdD72tVOLDw2Vk9zdeJDJztMMEaYFSvjtR5EmOv837E=\""
+          "Value": "\"JU8h+4TNz+OdP44DQ+qTODdQcBBqpG0c0+hbHBYOw/M=\""
         },
         {
           "Name": "Last-Modified",
@@ -3153,7 +3153,7 @@
     },
     {
       "Route": "static/js/453.419a5d54.chunk.js.n88yadyaqn.map",
-      "AssetFile": "C:\\Users\\chand\\OneDrive\\Desktop\\git\\netwebapplication\\Addition\\server\\wwwroot\\static\\js\\453.419a5d54.chunk.js.map",
+      "AssetFile": "C:\\Users\\chand\\OneDrive\\Desktop\\git\\netwebapplication\\addition\\server\\wwwroot\\static\\js\\453.419a5d54.chunk.js.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3198,7 +3198,7 @@
     },
     {
       "Route": "static/js/453.419a5d54.chunk.js.n88yadyaqn.map.gz",
-      "AssetFile": "C:\\Users\\chand\\OneDrive\\Desktop\\git\\netwebapplication\\Addition\\server\\obj\\Debug\\net9.0\\compressed\\lu8841hb8x-n88yadyaqn.gz",
+      "AssetFile": "C:\\Users\\chand\\OneDrive\\Desktop\\git\\netwebapplication\\addition\\server\\obj\\Debug\\net9.0\\compressed\\lu8841hb8x-n88yadyaqn.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3207,7 +3207,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "3718"
+          "Value": "3755"
         },
         {
           "Name": "Content-Type",
@@ -3215,7 +3215,7 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"cdD72tVOLDw2Vk9zdeJDJztMMEaYFSvjtR5EmOv837E=\""
+          "Value": "\"JU8h+4TNz+OdP44DQ+qTODdQcBBqpG0c0+hbHBYOw/M=\""
         },
         {
           "Name": "Last-Modified",
@@ -3245,13 +3245,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-cdD72tVOLDw2Vk9zdeJDJztMMEaYFSvjtR5EmOv837E="
+          "Value": "sha256-JU8h+4TNz+OdP44DQ+qTODdQcBBqpG0c0+hbHBYOw/M="
         }
       ]
     },
     {
       "Route": "static/js/453.419a5d54.chunk.qn446xgw5h.js",
-      "AssetFile": "C:\\Users\\chand\\OneDrive\\Desktop\\git\\netwebapplication\\Addition\\server\\obj\\Debug\\net9.0\\compressed\\p3ckgdwo6f-qn446xgw5h.gz",
+      "AssetFile": "C:\\Users\\chand\\OneDrive\\Desktop\\git\\netwebapplication\\addition\\server\\obj\\Debug\\net9.0\\compressed\\p3ckgdwo6f-qn446xgw5h.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -3314,7 +3314,7 @@
     },
     {
       "Route": "static/js/453.419a5d54.chunk.qn446xgw5h.js",
-      "AssetFile": "C:\\Users\\chand\\OneDrive\\Desktop\\git\\netwebapplication\\Addition\\server\\wwwroot\\static\\js\\453.419a5d54.chunk.js",
+      "AssetFile": "C:\\Users\\chand\\OneDrive\\Desktop\\git\\netwebapplication\\addition\\server\\wwwroot\\static\\js\\453.419a5d54.chunk.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3359,7 +3359,7 @@
     },
     {
       "Route": "static/js/453.419a5d54.chunk.qn446xgw5h.js.gz",
-      "AssetFile": "C:\\Users\\chand\\OneDrive\\Desktop\\git\\netwebapplication\\Addition\\server\\obj\\Debug\\net9.0\\compressed\\p3ckgdwo6f-qn446xgw5h.gz",
+      "AssetFile": "C:\\Users\\chand\\OneDrive\\Desktop\\git\\netwebapplication\\addition\\server\\obj\\Debug\\net9.0\\compressed\\p3ckgdwo6f-qn446xgw5h.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3412,7 +3412,7 @@
     },
     {
       "Route": "static/js/main.c4d3ad58.he2q6w1z05.js",
-      "AssetFile": "C:\\Users\\chand\\OneDrive\\Desktop\\git\\netwebapplication\\Addition\\server\\obj\\Debug\\net9.0\\compressed\\nbndbi5ci0-he2q6w1z05.gz",
+      "AssetFile": "C:\\Users\\chand\\OneDrive\\Desktop\\git\\netwebapplication\\addition\\server\\obj\\Debug\\net9.0\\compressed\\nbndbi5ci0-he2q6w1z05.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -3475,7 +3475,7 @@
     },
     {
       "Route": "static/js/main.c4d3ad58.he2q6w1z05.js",
-      "AssetFile": "C:\\Users\\chand\\OneDrive\\Desktop\\git\\netwebapplication\\Addition\\server\\wwwroot\\static\\js\\main.c4d3ad58.js",
+      "AssetFile": "C:\\Users\\chand\\OneDrive\\Desktop\\git\\netwebapplication\\addition\\server\\wwwroot\\static\\js\\main.c4d3ad58.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3520,7 +3520,7 @@
     },
     {
       "Route": "static/js/main.c4d3ad58.he2q6w1z05.js.gz",
-      "AssetFile": "C:\\Users\\chand\\OneDrive\\Desktop\\git\\netwebapplication\\Addition\\server\\obj\\Debug\\net9.0\\compressed\\nbndbi5ci0-he2q6w1z05.gz",
+      "AssetFile": "C:\\Users\\chand\\OneDrive\\Desktop\\git\\netwebapplication\\addition\\server\\obj\\Debug\\net9.0\\compressed\\nbndbi5ci0-he2q6w1z05.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3573,7 +3573,7 @@
     },
     {
       "Route": "static/js/main.c4d3ad58.js",
-      "AssetFile": "C:\\Users\\chand\\OneDrive\\Desktop\\git\\netwebapplication\\Addition\\server\\obj\\Debug\\net9.0\\compressed\\nbndbi5ci0-he2q6w1z05.gz",
+      "AssetFile": "C:\\Users\\chand\\OneDrive\\Desktop\\git\\netwebapplication\\addition\\server\\obj\\Debug\\net9.0\\compressed\\nbndbi5ci0-he2q6w1z05.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -3628,7 +3628,7 @@
     },
     {
       "Route": "static/js/main.c4d3ad58.js",
-      "AssetFile": "C:\\Users\\chand\\OneDrive\\Desktop\\git\\netwebapplication\\Addition\\server\\wwwroot\\static\\js\\main.c4d3ad58.js",
+      "AssetFile": "C:\\Users\\chand\\OneDrive\\Desktop\\git\\netwebapplication\\addition\\server\\wwwroot\\static\\js\\main.c4d3ad58.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3665,7 +3665,7 @@
     },
     {
       "Route": "static/js/main.c4d3ad58.js.gz",
-      "AssetFile": "C:\\Users\\chand\\OneDrive\\Desktop\\git\\netwebapplication\\Addition\\server\\obj\\Debug\\net9.0\\compressed\\nbndbi5ci0-he2q6w1z05.gz",
+      "AssetFile": "C:\\Users\\chand\\OneDrive\\Desktop\\git\\netwebapplication\\addition\\server\\obj\\Debug\\net9.0\\compressed\\nbndbi5ci0-he2q6w1z05.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3710,12 +3710,12 @@
     },
     {
       "Route": "static/js/main.c4d3ad58.js.hz6y9cvjmf.map",
-      "AssetFile": "C:\\Users\\chand\\OneDrive\\Desktop\\git\\netwebapplication\\Addition\\server\\obj\\Debug\\net9.0\\compressed\\ixeukcx92p-hz6y9cvjmf.gz",
+      "AssetFile": "C:\\Users\\chand\\OneDrive\\Desktop\\git\\netwebapplication\\addition\\server\\obj\\Debug\\net9.0\\compressed\\ixeukcx92p-hz6y9cvjmf.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000008958085"
+          "Quality": "0.000008871855"
         }
       ],
       "ResponseHeaders": [
@@ -3725,11 +3725,11 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "111630"
+          "Value": "112715"
         },
         {
           "Name": "ETag",
-          "Value": "\"K8KyajMZ822uvTg6G9Hb4BhNvCHZ2qCzVpesudaTBeQ=\""
+          "Value": "\"YLLsGeDrpNScxKunWO4IFsWjbNkLD/a4TUUBG01mVvA=\""
         },
         {
           "Name": "Last-Modified",
@@ -3773,7 +3773,7 @@
     },
     {
       "Route": "static/js/main.c4d3ad58.js.hz6y9cvjmf.map",
-      "AssetFile": "C:\\Users\\chand\\OneDrive\\Desktop\\git\\netwebapplication\\Addition\\server\\wwwroot\\static\\js\\main.c4d3ad58.js.map",
+      "AssetFile": "C:\\Users\\chand\\OneDrive\\Desktop\\git\\netwebapplication\\addition\\server\\wwwroot\\static\\js\\main.c4d3ad58.js.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3818,7 +3818,7 @@
     },
     {
       "Route": "static/js/main.c4d3ad58.js.hz6y9cvjmf.map.gz",
-      "AssetFile": "C:\\Users\\chand\\OneDrive\\Desktop\\git\\netwebapplication\\Addition\\server\\obj\\Debug\\net9.0\\compressed\\ixeukcx92p-hz6y9cvjmf.gz",
+      "AssetFile": "C:\\Users\\chand\\OneDrive\\Desktop\\git\\netwebapplication\\addition\\server\\obj\\Debug\\net9.0\\compressed\\ixeukcx92p-hz6y9cvjmf.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3827,7 +3827,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "111630"
+          "Value": "112715"
         },
         {
           "Name": "Content-Type",
@@ -3835,7 +3835,7 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"K8KyajMZ822uvTg6G9Hb4BhNvCHZ2qCzVpesudaTBeQ=\""
+          "Value": "\"YLLsGeDrpNScxKunWO4IFsWjbNkLD/a4TUUBG01mVvA=\""
         },
         {
           "Name": "Last-Modified",
@@ -3865,13 +3865,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-K8KyajMZ822uvTg6G9Hb4BhNvCHZ2qCzVpesudaTBeQ="
+          "Value": "sha256-YLLsGeDrpNScxKunWO4IFsWjbNkLD/a4TUUBG01mVvA="
         }
       ]
     },
     {
       "Route": "static/js/main.c4d3ad58.js.LICENSE.ky62on6fd0.txt",
-      "AssetFile": "C:\\Users\\chand\\OneDrive\\Desktop\\git\\netwebapplication\\Addition\\server\\obj\\Debug\\net9.0\\compressed\\e6q462czhz-ky62on6fd0.gz",
+      "AssetFile": "C:\\Users\\chand\\OneDrive\\Desktop\\git\\netwebapplication\\addition\\server\\obj\\Debug\\net9.0\\compressed\\e6q462czhz-ky62on6fd0.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -3934,7 +3934,7 @@
     },
     {
       "Route": "static/js/main.c4d3ad58.js.LICENSE.ky62on6fd0.txt",
-      "AssetFile": "C:\\Users\\chand\\OneDrive\\Desktop\\git\\netwebapplication\\Addition\\server\\wwwroot\\static\\js\\main.c4d3ad58.js.LICENSE.txt",
+      "AssetFile": "C:\\Users\\chand\\OneDrive\\Desktop\\git\\netwebapplication\\addition\\server\\wwwroot\\static\\js\\main.c4d3ad58.js.LICENSE.txt",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3979,7 +3979,7 @@
     },
     {
       "Route": "static/js/main.c4d3ad58.js.LICENSE.ky62on6fd0.txt.gz",
-      "AssetFile": "C:\\Users\\chand\\OneDrive\\Desktop\\git\\netwebapplication\\Addition\\server\\obj\\Debug\\net9.0\\compressed\\e6q462czhz-ky62on6fd0.gz",
+      "AssetFile": "C:\\Users\\chand\\OneDrive\\Desktop\\git\\netwebapplication\\addition\\server\\obj\\Debug\\net9.0\\compressed\\e6q462czhz-ky62on6fd0.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4032,7 +4032,7 @@
     },
     {
       "Route": "static/js/main.c4d3ad58.js.LICENSE.txt",
-      "AssetFile": "C:\\Users\\chand\\OneDrive\\Desktop\\git\\netwebapplication\\Addition\\server\\obj\\Debug\\net9.0\\compressed\\e6q462czhz-ky62on6fd0.gz",
+      "AssetFile": "C:\\Users\\chand\\OneDrive\\Desktop\\git\\netwebapplication\\addition\\server\\obj\\Debug\\net9.0\\compressed\\e6q462czhz-ky62on6fd0.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -4087,7 +4087,7 @@
     },
     {
       "Route": "static/js/main.c4d3ad58.js.LICENSE.txt",
-      "AssetFile": "C:\\Users\\chand\\OneDrive\\Desktop\\git\\netwebapplication\\Addition\\server\\wwwroot\\static\\js\\main.c4d3ad58.js.LICENSE.txt",
+      "AssetFile": "C:\\Users\\chand\\OneDrive\\Desktop\\git\\netwebapplication\\addition\\server\\wwwroot\\static\\js\\main.c4d3ad58.js.LICENSE.txt",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4124,7 +4124,7 @@
     },
     {
       "Route": "static/js/main.c4d3ad58.js.LICENSE.txt.gz",
-      "AssetFile": "C:\\Users\\chand\\OneDrive\\Desktop\\git\\netwebapplication\\Addition\\server\\obj\\Debug\\net9.0\\compressed\\e6q462czhz-ky62on6fd0.gz",
+      "AssetFile": "C:\\Users\\chand\\OneDrive\\Desktop\\git\\netwebapplication\\addition\\server\\obj\\Debug\\net9.0\\compressed\\e6q462czhz-ky62on6fd0.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4169,12 +4169,12 @@
     },
     {
       "Route": "static/js/main.c4d3ad58.js.map",
-      "AssetFile": "C:\\Users\\chand\\OneDrive\\Desktop\\git\\netwebapplication\\Addition\\server\\obj\\Debug\\net9.0\\compressed\\ixeukcx92p-hz6y9cvjmf.gz",
+      "AssetFile": "C:\\Users\\chand\\OneDrive\\Desktop\\git\\netwebapplication\\addition\\server\\obj\\Debug\\net9.0\\compressed\\ixeukcx92p-hz6y9cvjmf.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000008958085"
+          "Quality": "0.000008871855"
         }
       ],
       "ResponseHeaders": [
@@ -4184,11 +4184,11 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "111630"
+          "Value": "112715"
         },
         {
           "Name": "ETag",
-          "Value": "\"K8KyajMZ822uvTg6G9Hb4BhNvCHZ2qCzVpesudaTBeQ=\""
+          "Value": "\"YLLsGeDrpNScxKunWO4IFsWjbNkLD/a4TUUBG01mVvA=\""
         },
         {
           "Name": "Last-Modified",
@@ -4224,7 +4224,7 @@
     },
     {
       "Route": "static/js/main.c4d3ad58.js.map",
-      "AssetFile": "C:\\Users\\chand\\OneDrive\\Desktop\\git\\netwebapplication\\Addition\\server\\wwwroot\\static\\js\\main.c4d3ad58.js.map",
+      "AssetFile": "C:\\Users\\chand\\OneDrive\\Desktop\\git\\netwebapplication\\addition\\server\\wwwroot\\static\\js\\main.c4d3ad58.js.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4261,7 +4261,7 @@
     },
     {
       "Route": "static/js/main.c4d3ad58.js.map.gz",
-      "AssetFile": "C:\\Users\\chand\\OneDrive\\Desktop\\git\\netwebapplication\\Addition\\server\\obj\\Debug\\net9.0\\compressed\\ixeukcx92p-hz6y9cvjmf.gz",
+      "AssetFile": "C:\\Users\\chand\\OneDrive\\Desktop\\git\\netwebapplication\\addition\\server\\obj\\Debug\\net9.0\\compressed\\ixeukcx92p-hz6y9cvjmf.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4270,7 +4270,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "111630"
+          "Value": "112715"
         },
         {
           "Name": "Content-Type",
@@ -4278,7 +4278,7 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"K8KyajMZ822uvTg6G9Hb4BhNvCHZ2qCzVpesudaTBeQ=\""
+          "Value": "\"YLLsGeDrpNScxKunWO4IFsWjbNkLD/a4TUUBG01mVvA=\""
         },
         {
           "Name": "Last-Modified",
@@ -4300,7 +4300,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-K8KyajMZ822uvTg6G9Hb4BhNvCHZ2qCzVpesudaTBeQ="
+          "Value": "sha256-YLLsGeDrpNScxKunWO4IFsWjbNkLD/a4TUUBG01mVvA="
         }
       ]
     }

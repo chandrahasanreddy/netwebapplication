@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\chand\\OneDrive\\Desktop\\git\\netwebapplication\\Addition\\Server\\Server.csproj": {}
+    "C:\\Users\\chand\\OneDrive\\Desktop\\git\\netwebapplication\\addition\\server\\Server.csproj": {}
   },
   "projects": {
-    "C:\\Users\\chand\\OneDrive\\Desktop\\git\\netwebapplication\\Addition\\Server\\Server.csproj": {
+    "C:\\Users\\chand\\OneDrive\\Desktop\\git\\netwebapplication\\addition\\server\\Server.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\chand\\OneDrive\\Desktop\\git\\netwebapplication\\Addition\\Server\\Server.csproj",
+        "projectUniqueName": "C:\\Users\\chand\\OneDrive\\Desktop\\git\\netwebapplication\\addition\\server\\Server.csproj",
         "projectName": "Server",
-        "projectPath": "C:\\Users\\chand\\OneDrive\\Desktop\\git\\netwebapplication\\Addition\\Server\\Server.csproj",
+        "projectPath": "C:\\Users\\chand\\OneDrive\\Desktop\\git\\netwebapplication\\addition\\server\\Server.csproj",
         "packagesPath": "C:\\Users\\chand\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\chand\\OneDrive\\Desktop\\git\\netwebapplication\\Addition\\Server\\obj\\",
+        "outputPath": "C:\\Users\\chand\\OneDrive\\Desktop\\git\\netwebapplication\\addition\\server\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\chand\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -47,6 +47,14 @@
             "Microsoft.AspNetCore.OpenApi": {
               "target": "Package",
               "version": "[9.0.0, )"
+            },
+            "Microsoft.Data.SqlClient": {
+              "target": "Package",
+              "version": "[5.1.0, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.3, )"
             }
           },
           "imports": [
